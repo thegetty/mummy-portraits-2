@@ -13,48 +13,69 @@ url: 'https://main--mummy-portraits-2.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: "Mummy Portraits of Roman Egypt, Volume 2"
+subtitle: "Emerging Research from the APPEAR Project"
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: | 
+    "Nearly a thousand funerary portraits from Roman Egypt, once interred with mummified remains, survive in museums around the world. These fascinating paintings offer the unparalleled opportunity for viewers to come face-to-face with people who lived and died some two thousand years ago.
+
+    The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of Mummy Portraits of Roman Egypt compiles seventeen scholarly papers from the APPEAR conference hosted in October 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and curators presented new research on topics such as technical imaging; nondestructive analytical techniques like elemental mapping; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, binders, and supports. Some of the artworks discussed in this publication had never before been systematically studied. With the most up-to-date information available about the production, function, and history of these painted remnants of the ancient world, this volume will be a valuable resource to conservators, scientists, curators, and collectors."
+
+online_edition: | 
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2026-02-03 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: 978-1-60606-997-4
+  url: https://www.getty.edu/publications/mummy-portraits-2/
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: J. Paul Getty Museum
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications/](https://www.getty.edu/publications/)
+
+project_team:
+  - Rachel Barth and Elizabeth S. G. Nicholson, *Project Editors*
+  - Amanda Sparrow, Katrina Posner, Courtney Johnson Thomas, and Leslie Tilley, *Manuscript Editors*
+  - Greg Albers, *Digital Publications Manager*
+  - Erin Dunigan, Jenny Park, and Alex Hallenbeck, *Digital Assistants*
+  - Jeffrey Cohen, *Cover Design*
+  - Victoria Gallina, *Production*
+  - Danielle Brink, *Image and Rights Acquisition*
+
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: "Edited by Marie Svoboda and Caroline R. Cartwright"
 
 contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+  - id: 
+    type: 
+    first_name: 
+    last_name: 
+    title: 
+    affiliation: 
+    bio: 
+    url: 
+    image: 
 
 # ------------------------------------------------------------------------------
 # Copright & License
