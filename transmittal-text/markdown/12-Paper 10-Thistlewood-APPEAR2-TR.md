@@ -1,0 +1,117 @@
+label: 10
+
+title: Calculated Viewing Angles in the Presentation of Romano-Egyptian Mummy Portraits
+
+subtitle:
+
+abstract:
+
+name: Jevon Thistlewood
+
+title:
+
+affiliation:
+
+bio:
+
+This paper continues a discussion from “A Study of the Relative Locations of Facial Features within Mummy Portraits,” which was presented at the Getty Villa in 2018 and published in 2020.^1^ This earlier study demonstrated that a mean of facial features in Roman-Egyptian mummy portraits was located higher up the face than expected, when compared with a mean of real human faces as measured from photographs. Furthermore, the apparent increase in displacement relative to distance from the bottom of the head suggested that rotation about a lower fixed position had also occurred. The images of more than two hundred painted mummy portraits in the APPEAR database were examined and measured in conjunction with this paper. Participants in the APPEAR project generously provided these images for collaborative study, and they were captured before this particular use was conceived. Understandably, therefore, they may contain inconsistencies, such as their angle of capture, which have previously not been an issue. A standardized system of capturing and recording facial feature locations among institutions holding mummy portraits would have been hugely beneficial to this study.
+
+Romano-Egyptian mummy portraits are painted heads with shoulders, mainly executed on wooden panels that were inserted or incorporated into the wrappings of embalmed human remains to provide an integral and recognizable human image. Whether these portraits were intended to be entirely accurate likenesses of the deceased remains contentious. In common with the majority that survive today, the works included in this study have long been separated from their mummified remains and exist in isolation from them. The measurements used here were taken from digital images of the portraits rather than from the portraits themselves. To eliminate the inherent and unaccountable errors of this method, future examination of facial features would be assisted considerably by a centralized system of standardized measurements provided by each participating APPEAR collection. Ideally, this approach would accurately locate all features on both sides of a face and allow any feasible measurements to be ascertained in the future.
+
+A plausible explanation for the reported displacement in facial features during a portrait’s creation is that there was a difference between the plane in which human faces were presented and observed and the plane in which the likeness was recorded and painted ([fig. 10.1](fig-10-1)). This simplified, side-on view imagines a scenario in which a body is horizontally positioned with its head supported at an angle (illustrated by the black line) while the artist works on an adjacent flat surface (the blue line). It is worth noting that the head and working surface could be arranged in any orientation (e.g., to correlate to a vertically arranged body) as long as there is a difference in the planes of observation and execution. It is this difference that can result in the upward movement of the facial features on the human head when compared with the finished image ([fig. 10.2](fig-10-2)). If the artist maintains their position, they will not realize that they are recording the positions of the facial features increasingly higher. In fact, this displacement may only be apparent when the artist changes their viewing angle. (An artist who prefers to work on a table while viewing a sitter in front of them may be aware of the progressive elongation of features and spacing in their drawing only when they stand back and view the finished work upright.) In the same vein, it will not necessarily be obvious today when viewing mummy portraits as isolated objects on walls, in display cases, or in illustration; when presented with portraits as objects in their own right, audiences naturally want to view them square-on, eye to eye ([fig. 10.3](fig-10-3)).
+
+**\[\[fig-10-1\]\]**
+
+**\[\[fig-10-2\]\]**
+
+**\[\[fig-10-3\]\]**
+
+Beyond the shoulders of mummified remains that still retain their portraits, there is often a change in angle resulting in the portrait being slightly tilted. The assumption, backed up with several CT (computed tomography) studies, is that the deceased head is angled during the embalming process, and the portrait aligns with the front of the skull. “During the embalming process, there are very practical reasons to elevate the head of the deceased at a slight angle”—not only does this position look like one of rest, “it avoids both the disfiguring effects of blood pooling in the head and an unsightly mouth gaping open.”^2^
+
+The position of the portrait may therefore simply follow the topography of the mummified remains; it may be positioned as such because the human head is not necessarily parallel to the spine. An experienced portrait painter could have known how to manipulate the relationship between these planes to best present the likeness at its intended viewing angle and distance. Awareness of, and the ability to work with, the tilting of the head is conceivable. If the relative positioning of the portraits and of their intended audience are more or less predetermined by custom or practicality—that is, a tilted portrait is viewed from a standing position near the feet of the mummified remains—then it makes sense to utilize this viewpoint or at least communicate among portrait makers a repeatable system that exploits it.
+
+To re-create the original creator’s view, the angle between the planes of observation and execution must be calculated. For this, we require the expected positions of facial features on a real human face. Ideally, they would be obtained from the very same human head on which the portrait was originally based—or one closely associated with it. However, the portraits in this study are no longer associated with their human remains, and in many cases, there is no way of tracing them. Skulls possibly exist for some that can be located, such as those collected by Flinders Petrie,^3^ and they could form a useful pilot study. A few skulls relating to Romano-Egyptian mummy portraits have had facial reconstruction applied,^4^ and these examples could yield further data. There are also studies, including the computerized tomography (CT) scans of mummified remains, for which skulls could be examined and measured without excessive intervention. With the appropriate ethical safeguards and considerations in place, these specimens may make an interesting future contribution, but for the purposes of this study, they were not feasible avenues to pursue.
+
+As an alternative, many canons, guidelines, and studies exist that, however removed in time and place from Romano-Egyptian mummy portraiture, have similarly attempted to address related concerns. Such tools range in complexity and essentially communicate the basics of sizing a human head and locating key positions within it. To varying degrees, they can be used to assist in the successful rendering of a complex three-dimensional human face into a convincing two-dimensional representation via a framework of rules or steps. Such guidance presumably can be disseminated among makers of varying experience and ability so that these artists can achieve similar results. These steps potentially also facilitate efficiency and confidence in the process of making portraits, as there is less need to devise solutions to challenges that have been more collectively or previously resolved.
+
+Among others, the information available today includes guidance attributed to Polykleitos,^5^ Lysippos,^6^ Marcus Vitruvius Pollio,^7^ Cennino d’Andrea Cennini,^8^ Francesco di Giorgio,^9^ Leonardo da Vinci,^10^ Albrecht Dürer,^11^ Giorgio Vasari,^12^ Dionysius of Fourna,^13^ Johann Joachim Winckelmann,^14^ and Avard Fairbanks.^15^ These texts are sometimes challenging to interpret with regard to facial proportions, as the information concerning the face can be a minor constituent of a greater emphasis on overall human dimensions. In some cases, the relationship between the face and head is simply stated; in others, readers must ascertain this relationship from the ratio of heads and faces, which make up the height of a whole human. (This is always quoted as, or assumed to be, the height of a man, with any distinction of male and female proportions not readily evident before the twentieth century.) These approaches also have varying degrees of artistic license with respect to how closely they expect to be followed—and in some instances appear to be so complex as unworkable without more practical guidance or direction. There is also the question of the intended use of the various guidance, as the proportion of heads making up the height of a human will have a direct result on the height of the head itself. Less head-equivalent heights in the overall height of the human figure equates to a larger head overall, which may be useful if viewing from the feet of the figure.^16^
+
+For the purposes of this paper, I used Vitruvian proportions as a pragmatic choice to provide the expected positions of the real-face locations:
+
+> For the human body is so designed by nature that the face, from the chin to the top of the forehead and the lowest roots of the hair, is a tenth part of the whole height; the open hand from the wrist to the tip of the finger is just the same; the head from the chin to the crown is an eighth. … If we take the height of the face itself, the distance from the bottom of the chin to the underside of the nostrils is one third of it; the nose from the underside of the nostrils to a line between the eyebrows is the same; from there to the lowest roots of the hair is also a third, comprising the forehead.^17^
+
+I chose Vitruvian proportions because they predate Romano-Egyptian mummy portraits and are therefore not a more recent innovation; they are relatively simple to communicate and can be replicated consistently; and they continue to provide a good approximate framework of a recognizably realistically proportioned human head for both face creation and alteration today. In the Vitruvian system, the upper limit of the face, eyebrows, and nostrils are expected to be located at twelve-, eight, and four-fifteenths of the height of the head, respectively. Likewise, the horizontal center of the eyes is expected to align with the horizontal center of the head.
+
+For painted portraits in this study, the current locations of the upper head limit, upper face limits, eyebrows, eyes, and nostrils were measured in respect to their distances from the lower limit of the head ([fig. 10.4](fig-10-4)). These measurements were taken on the more prominently forward-facing side of each portrait. In some portraits, the lower limit of the head can be difficult to locate in a bushy beard, or the upper limit can be hard to detect in an elaborate hairstyle. Such measurements were calibrated using the associated panel heights recorded in the APPEAR database (and it is assumed that these measurements are accurate). Any future studies certainly would benefit from the direct measurement of the portraits themselves rather than measurements derived from their images. Although it is logistically difficult for one researcher to visit each portrait to undertake this work, each participating collection in APPEAR could one day collaborate in a collective resource and study of these data.
+
+**\[\[fig-10-4\]\]**
+
+The Vitruvian equivalents of the facial feature locations were calculated for each portrait and again recorded as distances from the lower limit of the head. These distances were then used in conjunction with the original measurements to calculate theoretical angles between the planes of presentation of the human face and the execution of the subsequent portrait ([fig. 10.5](fig-10-5)). Trigonometry determined the angles: the inverse cosine function with the portrait measurements was used as the hypotenuse, and the Vitruvian measurements were used as the adjacent.
+
+**\[\[fig-10-5\]\]**
+
+All the facial features on each portrait were expected to correlate closely with a single angle of orientation (allowing for an acceptable margin of error). In practice some do, but the overwhelming majority show a much more complicated situation, with variation throughout their facial features ([figs. 10.6](fig-10-6)–[10.9](fig-10-9)). Some of the variation is undoubtedly a natural deviation from Vitruvian proportions—and implicit error in working from images. The angle of the camera in relation to the portrait in each instance is not known; if it were, it could be factored into this study’s calculations. The variation could also relate to different working practices in the creation of the portraits. Stylistic differences in Romano-Egyptian mummy portraits suggest different creators and/or centers of production working toward common goals but not necessarily side by side. In hindsight, differences are perhaps not surprising, as the study included portraits of all styles, of various dates, and made no allowances for any with potentially substantial reconstructive restoration. Comparison of much smaller groups of stylistically similar portraits would perhaps be another, more reliable, avenue to consider.
+
+**\[\[fig-10-6\]\]**
+
+**\[\[fig-10-7\]\]**
+
+**\[\[fig-10-8\]\]**
+
+**\[\[fig-10-9\]\]**
+
+With the results of the group presented together, the range in magnitude of the calculated angles is shown in [figure 10.10](fig-10-10). It is notable that some facial features had to be excluded from the calculation—where they were measured to be in a lower (rather than higher) starting position—and some facial features appear to be already positioned in their expected target locations (i.e., executed in plane with a realistically recorded human face). The exclusion rate for the eyebrow and nostril locations was very low (3 and 7 percent, respectively) compared with that of the eyes and upper limit of the face (48 and 33 percent, respectively).
+
+**\[\[fig-10-10\]\]**
+
+If we look at the average and median values generated in cases where the calculation of an angle was possible, we can tentatively see a relationship emerging that suggests the horizontal center line of the eyes (which is effectively the center of the head) and upper limit of the face are similarly displaced. With the position of these two lines, we should, in principle, be able to determine the angle at which the human face was, or the portrait is, intended to be shown. On average, these lines require between 17 and 18 degrees of angular displacement, while their median values range from 17 to 19 degrees.
+
+In comparison, the average and median angles generated by the location of the eyebrows and nostrils suggest a much higher 26 to 28 degrees. This disparity is unexpected until we realize that there is often a lack of space to accommodate the eyebrows at the lower position that a 17- to 19-degree angle would generate. The eyes in Romano-Egyptian mummy portraits are often depicted larger than life and therefore occupy more space than they would on an actual face. It is thus possible that the incorporation of larger eyes into the portrait has necessitated further upward movement of the eyebrows in order to maintain the integrity of the overall composition.
+
+The position of the nostrils is linked to that of the eyebrows in that both features effectively coincide with the upper and lower limits of both the nose and the ears. As such, if the eyebrows are displaced upward to accommodate a larger format of eye, you would expect the nostrils to follow suit.
+
+From the average results, these mummy portraits appear to contain facial features in one of two planes. Possibly only one angle of viewing was inherent or intended, but accommodation of symbolically important larger-than-life eyes led to adjustments and compromises. A larger jump perhaps, and maybe more unlikely, is that two planes could also facilitate a face, or certain elements within a face, that can be convincingly presented at two different angles.
+
+The appearance of mummy portraits often betrays the complexity they pose when attempting to understand the decisions and processes undertaken in their creation. This paper aimed to explain a theory as to how distortion of facial feature positioning could have happened in the creation of the portraits and used this theory to calculate the intended angles of orientation. More accurate references to the real-life facial positions would be an undoubted improvement on the use of Vitruvian proportions. Such data could be direct measurements from related human skulls or derived measurements from CT scans. Equally, the goal of providing accurate true-to-life facial feature proportions will already have been mastered by facial reconstruction, and this area should also be explored as a future resource for guidance and collaboration.
+
+The question of which specifications within the production of portraits were collectively agreed upon and which were more independently decided remains unanswered. Was there a system of proportionality and positioning that was communicated among portrait makers? A more standardized identification of the relative dates of origin and find locations of portraits across the APPEAR database would help to potentially identify subgroupings of portraits to study and compare. If the elements of error in the procedure can be minimized, will the results show tighter correlations or clarify distinct groupings? A closer agreement will point to collective decision making, while variance could suggest more localized or individual actions.
+
+And finally, there is also the presence of outlying results, which have not been adequately considered this time. Are they simply the exceptions? Or, with the elimination of errors, can these portraits, including those with the largest tilt or no tilt at all, be better considered alongside the debate of whether they were executed from life or after death?^18^ There is also the added confusion, or possible misunderstanding, of a small number of portraits that seem to contain rotation centered at the top of the head rather than at the base.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1.  \$\$Thistlewood et al. 2020\$\$.
+
+2.  \$\$Thistlewood et al. 2020, 104–5\$\$.
+
+3.  \$\$Challis 2013, 110–11, 123–25\$\$.
+
+4.  \$\$Nerlich et al. 2020\$\$; \$\$Prag 2002\$\$; \$\$Wilkinson 2002, 66–71\$\$; \$\$Picton, Quirke, and Roberts 2007, 30–31\$\$.
+
+5.  \$\$Naini et al 2008\$\$; \$\$Tobin 1975\$\$.
+
+6.  \$\$Tobin 1975\$\$.
+
+7.  \$\$Rowland and Howe 1999, 47\$\$.
+
+8.  See \$\$Broecke 2015, 109\$\$: “Note that, before going any further, I want to give you, to the letter, the measurement of a man. . . . First, as I mentioned above, the face is divided into three sections, that is: the forehead one, the nose another and from the nose to the chin another. . . . And the whole man: eight faces and two of the three measures long.”
+
+9.  \$\$Millon 1958\$\$.
+
+10. See \$\$Rigaud 2005, 4\$\$: “A well-proportioned and full-grown man, therefore, is ten times the length of his face.”
+
+11. \$\$Naini et al. 2008\$\$.
+
+12. “It is the custom of many artists to make the figure nine heads high. . . . For Vasari, a practical artist, to commit himself to the statement that figures are made nine heads high, is somewhat extraordinary, for eight heads the proportion given by Vitruvius is the extreme limit for a normal adult, and very few Greek statues, let alone living persons, have heads so small.” See \$\$Maclehose 1960, 146\$\$.
+
+13. “Learn, O pupil, that in the whole figure of a man there are nine faces, that is to say nine measures, from the forehead to the soles of the feet. First make the first face, which you divide into three, making the first division the forehead, the second the nose and the third the beard. Draw the hair above the face to the height of one nose-length; again measure into thirds the distance between the beard and the nose; the chin takes up two of the divisions and the mouth one, while the throat is one nose-length.” In \$\$Hetherington 1996, 12–13\$\$.
+
+14. “The face has three parts as well, namely, three times the length of the nose; but the head is not four nose-lengths, as some very erroneously wish to teach. The upper portion of the head, namely, the distance from the hairline to the crown, measured vertically, is only three-quarters of the length of the nose, that is, this part is to the nose as nine is to twelve.” In \$\$Mallgrave 2006, 207\$\$.
+
+15. \$\$Fairbanks and Fairbanks 2005\$\$.
+
+16. For example, a statue on a tall plinth is to be viewed from below. Seven portraits within the APPEAR database that survive with their mummified remains were measured to compare their head heights with the overall height of the mummified remains. The ratio varied from 1:7 to 1:10; however, the group was too small from which to draw any significant conclusions.
+
+17. \$\$Morgan 2006\$\$, bk. 3, ch.1, no. 2.
+
+18. \$\$Amsen 2020\$\$.

@@ -1,0 +1,231 @@
+**label:** 4
+
+**title:** Between the Linen and the Overpaint
+
+**subtitle:** Understanding the Materials and Techniques Used on Two Romano-Egyptian Funerary Portrait Shrouds
+
+**short_title:** Between the Linen and the Overpaint
+
+**name:** William Mastandrea
+
+**name:** Kate Clive-Powell
+
+**name:** Evelyn (Eve) Mayberger
+
+**name:** Richard Newman
+
+**name:** Lawrence Berman
+
+**name:** Dan Kirby
+
+This paper is a comparative technical investigation of two “Soter-type” Theban funerary portrait shrouds held at the Museum of Fine Arts (MFA), Boston. The aims of this paper are to (1) investigate the original artists’ materials and techniques used in the painted designs and textile substrates, (2) interpret historical accretions, and (3) better understand the materials and methods of subsequent restorations, with the aim that information about the objects’ manufacture, use, and museum life can be better understood. It is also the intention that this research will lay the groundwork for future investigations of other Soter-type portrait shrouds, which are historically underrepresented in conservation literature in comparison to their wood panel counterparts.
+
+The Ancient Panel Painting: Examination, Analysis, and Research (APPEAR) project provides a framework for institutions to investigate Romano-Egyptian funerary portraits and shrouds in global collections, contextualizing their findings against the extant oeuvre included in the database. All forms of funerary portraits (encaustic and tempera on wood panels, stucco cartonnages, and portrait shrouds) represent multifaceted ways for the inhabitants of Roman Egypt to have received a well-appointed burial in accordance with the customs and values of the times. Portrait shrouds are larger than their wood panel counterparts, covering the entire body of the deceased, rather than only a small surface area.[^1] However, most Romano-Egyptian funerary portraits in the APPEAR database are of the wood panel type. At the time of publication, the database comprises a total of 384 portraits (MAKE SURE THIS IS UPDATED WITH MARIE BEFORE PUBLICATION); only 16 of these are funerary portrait shrouds. Technical investigations and publications specific to portrait shrouds are largely lacking, despite there being at least 129 such shrouds in existence, as inventoried by Lissette M. Jimenez in her PhD dissertation.[^2] To date, that is the most comprehensive study of Romano-Egyptian portrait shrouds published in English, and it was an indispensable resource, helping to contextualize the MFA shrouds in relation to other contemporary funerary shrouds.
+
+# Egyptian Use of Funerary Shrouds
+
+Thebes, located in Upper Egypt, rose to prominence during the Middle Kingdom (2055–1550 BCE) and functioned as a southern capital of Egypt during the New Kingdom (1550–1070 BCE).[^3] It was a major center for cult and religion, wherein several deities, Hathor among them, were worshipped in temples at Karnak, Deir el-Bahari, Deir el-Medina, and Medinet Habu.[^4] Hathor, known as the “mistress of the West,” had at least two known cult places at Deir el-Bahari and Deir el-Medina where she was revered “as the patroness of the surrounding cemeteries of the dead”; these were later expanded under the Ptolemies.[^5]
+
+By the Ptolemaic and Roman periods, the political, economic, and religious preeminence of Thebes had changed, impacted by several revolts against both Ptolemaic and Roman overseers, as well as a reduction in the number of active temples.[^6] The population of Ptolemaic and Roman Thebes was significantly Greco-Egyptian, with immigrant Greeks having strongly assimilated to native Egyptian religious and family structures.[^7] Roman influence was not particularly significant, having little impact on local cultural practice and identity.[^8] The combination of the lack of a strong Roman cultural presence, a shift in local economic and political power, and an increasingly shrinking world for scribes, artists, and craftspeople practicing traditional forms of writing and visual representation helped to fuel the continuity and revival of longstanding funerary traditions, imagery, and practice in Thebes.[^9]
+
+The earliest extant use of mummy shrouds can be traced to the Second Intermediate Period (ca. 1675–1550 BCE), in a decorated shroud in the tomb of Sennefer at Deir el-Medina,[^10] and in the New Kingdom (ca. 1550–1069 BCE) as votive offerings to the goddess Hathor at the Theban necropolis at Deir el-Bahari.[^11] This practice continued through the Third Intermediate Period (ca. 1069–664 BCE), during which time full-length shrouds depicting Osiris were affixed to mummified individuals and then concealed by an outer layer of linen cloth.[^12]￼ The tradition persisted through the Late Period (ca. 664–332 BCE), and by the Ptolemaic and Roman periods characteristic Osiris- and Hathor-shrouded individuals were interred in reused Middle Kingdom and Late Period tombs at Deir el-Bahari, Asasif, el-Khokha, and Sheikh abd el-Qurna.[^13] These tombs correspond to periods of Theban preeminence, and individual interment in these contexts may suggest the importance of continuity of funerary tradition.
+
+# The MFA Shrouds’ Connection to Soternalia
+
+The MFA shrouds are dated stylistically to the early- to mid-second century CE. They bear strong resemblance to the famed Soter group, which originates from various reused Middle Kingdom and Late Period rock-cut tombs bordering the Theban necropolis.[^14] It is likely the distinct regional form exhibited by these objects was strongly influenced by the political, economic, and cultural factors mentioned above. However, examination of funerary practice surrounding Theban shrouded mummies and the materials utilized in their creation during the Roman period may imply a hybridization of several traditions, despite their being deeply rooted in a uniquely Theban context.
+
+First excavated in 1820,[^15] these objects were some of the first Soternalia to enter European collections. With no excavation documentation, the exact findspots of the two MFA shrouds are unknown. Specific to this regional subgroup of funerary portraiture is the formulaic, nonnaturalistic depiction of the deceased as a transfigured likeness of the Egyptian deities: Hathor (for females) or Osiris (for both males and females). These representations—commonly observed in the Soter group—are part of a unique regional subset that distinguishes them from the abundant depictions of the deceased-in-life on other funerary portraits in Egypt.
+
+The shrouds began their known journey to the MFA collection through Scottish antiquarian Robert Hay (1799–1863), who presumably acquired them during his Egyptian explorations in the late 1820s and early 1830s while based in Luxor (modern-day Thebes).[^16] His journeys were broadly contemporaneous with explorations of Theban tombs by Champollion, Belzoni, and J. G. Wilkinson.[^17] Following Hay’s death in 1863, the shrouds (with some 4,500 other Egyptian antiquities in his collection) were sold to Samuel Alds Way, a Bostonian businessman, in 1871. His son, Charles Granville Way, gifted most of this collection of Egyptian material to MFA Boston in 1872.[^18]
+
+Exhibition and treatment documentation for these shrouds is intermittent. The shrouds are known to have been displayed as early as 1902 in the Egyptian galleries in the Copley Square Museum and were subsequently moved to the present-day MFA location around 1908, as evidenced by historic glass plate negatives ([figs. 4.1](fig-4-1), [4.2](fig-4-2)). Their museum life after this move is unknown until 1957, when the Hathor shroud was photo documented before conservation treatment in preparation for installation in the Egyptian galleries in 1958.[^19]
+
+**\[\[fig-4-1\]\]**
+
+**\[\[fig-4-2\]\]**
+
+## Iconographic Descriptions
+
+### Hathor Shroud (72.4723)
+
+The Hathor shroud has tasseled fringe at the top and bottom edges and is painted in thick layers of red, orange, green, pink, and black on a white ground ([fig. 4.3](fig-4-3)). It bears a full-length figure of the deity Hathor, whose long hair ends in thick curls, wearing a long, striped headband and an embellished tunic under a feathered sheath dress with wide straps decorated with vines. An undecorated column runs down the center of the dress from waist to ankles. The tunic has decorated sleeves and the breasts are covered with rosettes. The figure wears various adornments, including a jeweled circlet; large hoop earrings; a long, beaded amulet; decorated pectoral; snake bracelets on either wrist; rings on both hands; and thong sandals. She is surrounded by representative hieroglyphs and mythological creatures (including Anubis jackals flanking the feet and mythical serpents in the top registers), with mourning figures and various architectural and vegetal elements at the flanks. There are considerable losses to the textile at the sides and to the paint and ground, as well as considerable staining across the face and proper right arm of the central figure.
+
+**\[\[fig-4-3\]\]**
+
+### Osiris Shroud (72.4724)
+
+The Osiris shroud, which has remnants of tasseled fringe at the top edge, is painted in layers of red, orange, yellow, green, red-pink, and black on a white ground ([fig. 4.4](fig-4-4)); these layers are comparatively thin compared with those on the Hathor shroud. The shroud is fragmentary, and only the upper half of the shroud is extant. It bears the likeness of the deity Osiris, who wears a false beard and atef crown and wields a crook and flail. He is adorned with a colorful geometric pectoral and a large necklace with a naos pendant. He is flanked by two tall lotus bouquets and subsidiary mourning figures, and further surrounded by representative hieroglyphs, mythological creatures (including sacred winged serpents in the top registers, uraei, and a winged sun disk), and architectural and vegetal elements. There are considerable losses to the textile and paint layers, and what remains of the image is fragmentary. An odd, linear pattern of discoloration of the paint layers coincides with the wear of the paint layers, and a dark-brown stain appears on the proper left side.
+
+**\[\[fig-4-4\]\]**
+
+## Materials and Methods
+
+The primary focus of the systematic approach was the identification of the original artists’ materials and those of later interventions—textile substrate, pigment, ground materials, and binding media—and secondarily of the identification of unknown residues. Beginning with visual observation and documentation under magnification, all analyses thereafter proceeded from least to most destructive, including multispectral imaging (MSI), transmitted and polarized light microscopy (PLM), X-ray fluorescence (XRF), Fourier-transform infrared (FTIR) and Raman spectroscopy, fiber optic reflectance spectroscopy (FORS), excitation emission matrix spectroscopy (EEM), scanning electron microscopy with energy dispersive spectroscopy (SEM-EDS), and peptide mass fingerprinting (PMF) via matrix-assisted laser desorption/ionization time-of-flight analysis (MALDI-ToF). Sample locations are shown in [figures 4.5](fig-4-5) and [4.6](fig-4-6). Sample lists and results are reported and summarized in [figures 4.7](fig-4-7) and [4.8](fig-4-8).
+
+**\[\[fig-4-5\]\]**
+
+**\[\[fig-4-6\]\]**
+
+**\[\[fig-4-7\]\]**
+
+**\[\[fig-4-8\]\]**
+
+# Results
+
+## Textile Substrates
+
+The overall condition of the Hathor shroud’s fibers is good, despite significant losses. The textile maintains flexibility, and there is no evidence of powdering or fracturing of fibers. The overall condition of the Osiris shroud’s fibers is fair. There are breaks in the warps and some fracturing of fibers. Flexibility has been compromised on both textiles in areas affected by dark brown staining.
+
+The substrates are woven in an irregular plain weave using S-twist, single-ply threads. The quality of the weave is coarse, and the weave count is similar for both shrouds: forty-four warps and thirty wefts per inch (2.5 cm) for the Hathor shroud, and forty-six warps and twenty-five wefts per inch for the Osiris shroud. No selvage remains on either shroud. Both shrouds have tasseled fringe elements made from warp ends plied in the S direction. The Hathor shroud has a fringe at the top and bottom. Fringe survives only along the top of what remains of the Osiris shroud, and it is badly damaged, with only a few weak tassels remaining. Knots are present at the base of the tassels on the shrouds and sometimes at the ends. Both textiles have decorative bands of supplementary wefts with little to no twist ([fig. 4.9](fig-4-9)). The Hathor shroud has six decorative bands—four on the bottom half and two on the top half—while the Osiris shroud has only four decorative bands on its remaining top half. These decorative patterns and a comparable weave count have been documented previously on Hathor-type shroud EA68950, currently housed in the British Museum.[^20]
+
+**\[\[fig-4-9\]\]**
+
+Fibers from both shrouds were observed via PLM and positively identified as undyed linen (flax). Morphological features include irregular, roughly cylindrical fibers with cross-shape nodes and ultimate bundles (from incomplete retting during processing). The identification was further corroborated using the modified Herzog twist test, an empirical test to determine the fibrillar orientation (Z- or S-twist) of bast fibers—specifically the helical orientation of the microfibrils of the secondary wall—that employs a polarizing light microscope and a first-order red tint plate. Fibrillar orientation is a characteristic feature, discernible from species to species, allowing for fiber identification.[^21]
+
+## Ground Layers
+
+The Hathor shroud’s white preparatory layer has a uniform, coarsely ground particle size with frequent cracking through the ground layer, often along the interstices of the underlying textile. The thick application of the material appears well-adhered to the textile substrate. Where damaged, it reveals a layer characterized by small, irregular, loosely bound clumps. In contrast, the Osiris shroud’s ground layer is much thinner, has a high gloss, and the particles are fine and uniform, with cracking through to the textile substrate. Damaged areas show cracking with clean, sharp breaks of even thickness, rather than irregular, loosely bound clumps.
+
+The preparatory ground of the Hathor shroud has been identified with XRF and FTIR as a mixture of calcite (CaCO~3~) and gypsum (CaSO~4~ · 2H~2~O), while only gypsum was used on the Osiris shroud. The use of these calcium-based materials as a preparatory layer is consistent with the manufacture of other painted shrouds, and the presence of calcite could imply specific use as a pigment, rather than as a preparatory layer.[^22] However, the SEM-EDS imaging of the Hathor shroud suggested a mixture of these materials, rather than explicit layering of one atop the other, ruling out application as a pigment.
+
+## Original Pigments, Binding Media, and Residues
+
+Features such as particle size, presence or absence of inclusions, particle luster, and the overall condition of paint layers aided in their determination as either original or a later addition. For the Hathor shroud, original paint layers are thicker, possessing a matte finish with variable particle sizes and noticeably large quartz-like inclusions ([fig. 4.10](fig-4-10)). A greater number of cracks appear in the original paint and ground layers than in areas of later restoration. The paint layers of the Osiris shroud are much thinner overall but also have a matte finish with variable particle sizes—although all of the Osiris shroud’s paint particles are more finely ground within the paint matrix ([fig. 4.11](fig-4-11)). As with the ground layers, cracks are present along the interstices of the underlying textile weave.
+
+**\[\[fig-4-10\]\]**
+
+**\[\[fig-4-11\]\]**
+
+Areas of original dark red in both shrouds yielded a positive result for an iron-based material such as red ochre with XRF. This result was further confirmed by Raman and FORS, which specifically identified the use of hematite (Fe~2~O~3~).[^23] Original oranges confirmed a high concentration of lead via XRF. Using FTIR, Raman, and FORS, the presence of both litharge (PbO) and minium (Pb~3~O~4~) was confirmed for Hathor but solely minium for Osiris. The yellow pigment on Osiris was hypothesized to be yellow ochre pigmented by goethite (Fe~2~O~3~ · 2H~2~O). As it lacked the characteristic peaks in FTIR, and in the absence of visible iron-containing particles in SEM-EDS, this pigment could not be reliably identified—likely due to its thin, limited application. 
+
+Green sections of both shrouds are of particular interest, revealing high concentrations of Fe, Mg, and K with XRF and SEM-EDS, suggestive of a green earth pigment. Transmitted FTIR yielded a good match to celadonite: one of the principal source minerals of green earth pigments. The sharp OH-stretching bands (ca. 3557, 3554, and 3602 cm^−1^) are associated with a highly ordered distribution of Fe^3+^, Mg, and Al in octahedral sites of the mineral. The Si-O stretching region (1200–700 cm^−1^) also closely matches published spectra of this mineral,[^24] although the bands here overlap major absorption bands for gypsum, a component of the ground layer was included in the samples that were analyzed ([fig. 4.12](fig-4-12)). SEM-EDS analyses of both shrouds’ greens indicate that other (unidentified) silicate minerals are also present, probably natural components of the green earth deposits from which the pigment originated. SEM images suggest that the celadonite is present mainly in the form of small, elongated crystals a few micrometers in length. 
+
+**\[\[fig-4-12\]\]**
+
+Original pink areas of Hathor bore a strong luminescent response via MSI (using green light visible-induced visible luminescence \[VIVL\]),[^25] and once supported by EEM, confirmed the presence of a madder-based pigment (see [fig. 4.13](fig-4-13)).[^26] This identification is further supported by (1) SEM showing the layering of red-pink material atop the mixed calcite and gypsum ground and (2) EDS revealing a high concentration of aluminum, which is necessary to form complexes with the alizarin and/or purpurin chromophores of madder-based pigments (hydroxyanthraquinones) during production.[^27] For the red-pink of Osiris, the same luminescent response was observed, though it was less intense than Hathor’s ([fig. 4.14](fig-4-14)). This may be due to variable preparation methods, such as the mixing of madder pigments with a lead-based material (e.g., minium), as suggested by small Pb peaks observed with XRF. Raman spectroscopy and SEM-EDS confirmed amorphous carbon as the source of the original black pigments for both shrouds.
+
+**\[\[fig-4-13\]\]**
+
+**\[\[fig-4-14\]\]**
+
+The paints are likely bound in a water-soluble medium. Animal glue is an often-observed medium of “tempera” for funerary portraits, whether on linen or wood. PMF via MALDI-ToF was conducted on two samples from Hathor and three samples from Osiris. The samples analyzed consisted of white ground and thin overlying paint. None of these samples revealed detectable levels of protein (aside from the common contaminant keratin, unrelated to original material). While it is conceivable that protein is present beyond detection limits, it seems probable that animal glue was not a binder, at least not in the ground layers on the shrouds. 
+
+In FTIR spectra of paint and ground layers from both shrouds, C-H stretching absorbance bands in the 3000–2500 cm^−1^ region of several samples resembled those of plant gums and gave no indications of protein. Absorbance for gums in the lower wavelength region was masked by inorganic compounds in the samples. The presence of a plant gum binder can only be considered possible, not proven. Future analysis with gas chromatography mass spectroscopy (GC-MS) may aid in the identification of these materials.
+
+## Historical Restorations: Textile Mounting and Overpainting
+
+In 1957, both shrouds were “flattened out and mounted” by Suzanne Chapman: stitched to backing fabric affixed over wooden stretchers. This work was conducted in preparation for an exhibition of Way Collection material in the Egyptian galleries, commemorating the gift of the collection in 1872, which formed the foundations of the MFA’s Egyptian collections.[^28]
+
+Overpainting was observed only on the Hathor shroud, having occurred after the textile had been stitched to the backing fabric, as shown by the restoration paints visible atop the stitching that fastens the shroud to its backing. Five areas were identified both visually and via MSI as potential historical restorations emulative of the original ground, red, and pink layers. These locations coincide with areas most heavily affected by staining: the figure’s face, proper-left ear and neck, proper-right arm, and the upper, proper-left register of the shroud. 
+
+XRF of the restoration white yielded high concentrations of Ba, Zn, and Ti, in addition to the high Ca peaks from the underlying original mixed gypsum/calcite ground. Further Raman spectroscopy yielded a positive result for anatase—a natural mineral form of titanium dioxide (TiO~2~)—as well as barium sulfate (BaSO~4~). The analysis of the restoration red suggests the use of this restoration white as a base to which vermilion (HgS) and carbon black were likely added. Further, the restoration pink is identical in composition to the restoration red, likely mixed in a ratio to produce a pink rather than a crimson red.
+
+# Discussion
+
+Overall, the material results of the analysis are in concert with the materials and practices utilized in Roman period Egypt. Highlights of these results and notable features of condition include applications of a shroud to an individual, wear patterns in paint layers, and the use of pigments from beyond Egypt.
+
+Aspects of the shrouds’ condition indicate probable ways that they were secured to their individuals. Mummy shrouds were designed to cover the length of the body, with the painted figure aligning with the anatomy of the deceased.[^29] The shrouds were loosely wrapped around the body or secured in place with linen strips.[^30] The use of linen strips would bring attention to the face while simultaneously ensuring “the mummified body and the shroud were never separated.” This allows the funerary imagery to maintain the status of the deceased as a transfigured likeness of the respective deity, the deceased having been reborn as a god.[^31] No features of the Hathor shroud’s condition suggest that linen strips were used to secure the shroud, and the flattening treatment performed on the shroud in the 1950s removed any potentially diagnostic creasing that might have provided insight into how it was laid and/or secured to the individual. 
+
+The Osiris shroud has a stark, linear pattern of discoloration and wear in the paint layers. These features are made apparent in [figures 4.15](fig-4-15) and [4.16](fig-4-16). The linen strips used to secure the shroud protected the underlying paint layers from exposure to dust and soot accumulation within the tomb context, though they also preferentially abraded the paint. Comparison to the wrappings used on the intact mummy of Cleopatra, daughter of Candace (ca. 100–120 CE), deriving from the Theban necropolis—and significantly identified as Soternalia—supports this hypothesis. The Cleopatra shroud is secured to the body with strips of linen in a crisscross pattern, diagonally and horizontally, over the painted image. The positioning of these strips corresponds to the nonsoiled—though abraded—areas of the Osiris shroud, suggesting a similar method of wrapping (see [fig. 4.16](fig-4-16)). This manner of securing shrouds is similar to both Third Intermediate Period mummy wrappings and those of the Roman period,[^32] perhaps implying a hybridization of ancient Theban tradition and “new” Roman practice.
+
+**\[\[fig-4-15\]\]**
+
+**\[\[fig-4-16\]\]**
+
+Calcium-based grounds, red ochres, madder lake, carbon black pigments, and flax for the textile substrate identified on both shrouds are materials native to Egypt and consistent with traditional Egyptian usage spanning both the Pharaonic and Greco-Roman periods.[^33] However, the presence of celadonite and minium on both shrouds reflects the selection of nontraditional materials sourced from outside Egypt by Roman-Theban artisans. This suggests that artists were continuing traditional Egyptian usage of materials while also choosing newly imported pigments for their craft. 
+
+Copper-based materials were the traditional green pigments used throughout Pharaonic Egypt. Celadonite, a phyllosilicate of potassium and iron, is not native to Egypt but has two well-known sources in the Mediterranean: Italy (Verona) and the island of Cyprus.[^34] It sees widespread use in Hellenistic Cyprus, Israel, and Greece[^35] and has been identified on other second-century CE Roman period painted shrouds, such as Hathor-type shroud (EA68950),[^36] Osiris-type shroud (25.184.20),[^37] and a fragment of a painted shroud (X.390).[^38] Thus, in Egypt, celadonite is readily accepted and integrated into the existing palette of Egyptian artisans, despite being nontraditional and of foreign origin. 
+
+Similarly, the use of minium as pigment is atypical in Greco-Roman Egypt. Minium production was often a by-product of silver cupellation, a major source being the Roman silver mines at Rio Tinto, Spain.[^39] Use of this Iberian minium was identified on the red-shrouded mummy of Herakleides, dated to the first century CE, possibly from el-Hibeh in Lower Egypt, based on stylistic similarities with other red-shroud mummies.[^40] 
+
+While the minium identified in the MFA shrouds was not sourced, the utilization of pigments from beyond the Egyptian sphere—such as celadonite and minium—is significant. Their use on these shrouds, and others, should prompt important questions. Perhaps the use of such costly, imported pigments in nonnaturalistic portraiture should challenge the existing perspectives and value judgments concerning “what is significant,” rather than tethering these perceptions so strongly on the degree to which an image approaches realism. Is this use of “new” materials of non-Egyptian origin a choice rooted in aesthetics, working properties, symbolism, or some combination thereof? Could the costs of these materials potentially impact the nature or number of workshops dedicated to these shroud forms? Pursuing answers to these kinds of questions will help to untangle what is likely a complex hybridization of material usages and funerary practices, rather than strictly of local Theban practice.
+
+# Conclusion
+
+Driven by a gap in existing scholarship, this paper presents a detailed material analysis of two shrouds from the MFA’s collection. Through extensive imaging and analysis, most of the shrouds’ materials and methods were identified, areas of later restoration were discovered, and historical accretions were interpreted. The shrouds’ linen textile substrates bear similar elements of construction. The manner of securing the shroud to the deceased, suggested by the wear patterns and discoloration of the Osiris shroud, reveals the continuation of a unique, longstanding local practice that is distinct from, while also inclusive of, external mummy wrappings seen elsewhere in Roman Egypt.
+
+Nearly all the original pigments were able to be identified on the Hathor and Osiris shrouds, and this has provided insight into the Roman-Theban color palette used for painted shrouds. Materials of non-Egyptian origin were consciously incorporated, despite longstanding local funerary tradition, even when from distant imported sources. The paints used in the twentieth-century restoration of the Hathor shroud were also characterized, providing a clearer picture of the shroud’s life within the MFA collection and its original appearance. 
+
+Overall, this research shows that—as with portraits on wood panels—information gleaned from the examination and analysis of painted portraits on textiles can lead to broader interpretations and understanding of life and death in Romano-Egyptian Thebes. A future survey of weave type, count, spin direction, decorative elements, and patterns of wear of the textile substrates of other extant shrouds from Roman Egypt would be an invaluable resource in further enhancing understanding of artist choices and materials. It is hoped that other institutions will be encouraged to research and analyze the materials, construction, and condition of their Romano-Egyptian shrouds so that a more comprehensive picture of the production and use of these objects can be elucidated.
+
+# Notes
+
+[^1]: \$\$Jimenez 2014\$\$.
+
+[^2]: \$\$Jimenez 2014\$\$.
+
+[^3]: \$\$Manning 2013\$\$.
+
+[^4]: \$\$Lajtar 2005\$\$; \$\$Lajtar 2012\$\$.
+
+[^5]: \$\$Lajtar 2005, 75\$\$; \$\$Lajtar 2012, 180\$\$.
+
+[^6]: \$\$Lajtar 2012, 173–74\$\$.
+
+[^7]: \$\$Clarysse 1995\$\$.
+
+[^8]: \$\$Lajtar 2012, 179\$\$.
+
+[^9]:  \$\$Riggs 2006\$\$.
+
+[^10]: \$\$Ikram and Dodson 1998\$\$.
+
+[^11]: \$\$Jimenez 2014, 17, 19\$\$.
+
+[^12]: \$\$Jimenez 2014, 20, 22\$\$.
+
+[^13]: \$\$Riggs 2005, 177\$\$; \$\$Schreiber, Vasáros, and Almásy 2013, 126\$\$. \[(Authors: Page 126 does not match page range of article. Please confirm page number.)
+
+[^14]: \$\$Schreiber, Vasáros, and Almásy 2013\$\$.
+
+[^15]: \$\$Riggs 2005\$\$.
+
+[^16]: \$\$Bierbrier 2012\$\$.
+
+[^17]: \$\$Bierbrier 2012, 52, 114, 579\$\$.
+
+[^18]: The remaining portion was gifted to the British Museum.
+
+[^19]: \$\$Stevenson Smith 1957\$\$.
+
+[^20]: \$\$Hillyer 1984\$\$; \$\$Vandenbeusch 2022\$\$.
+
+[^21]: \$\$Haugan and Holst 2013\$\$.
+
+[^22]: \$\$Pagès-Camagna and Guichard 2010\$\$.
+
+[^23]: Special thanks to Dr. Erin Mysak, senior preventive conservation scientist at Harvard Library, for her assistance with EEM and FORS analyses.
+
+[^24]: \$\$Zviagina, Drits, and Dorzhieva 2020\$\$.
+
+[^25]: Extraneous information from the intensity of the excitation light source (CrimeScope at 535 nm) could not be fully removed from image capture via filters. While properly highlighting a madder response, this unintentional “bleeding” of nonluminescence accounts for the uncharacteristic appearance of the VIVL image.
+
+[^26]: The EEM instrument is set to a specific excitation wavelength; it then acquires a full emission spectrum at that excitation wavelength. Following, it sets a new excitation wavelength 10 nm higher than the previous one and collects a full emission spectrum. This is conducted for the entire range denoted in the software. With the resulting data, one may then plot the emission spectrum at any excitation wavelength, or an excitation spectrum at any emission wavelength can be extracted and plotted.
+
+[^27]: \$\$Newman and Gates 2020\$\$.
+
+[^28]: \$\$Stevenson Smith 1957, 40\$\$.
+
+[^29]: \$\$Jimenez 2014\$\$.
+
+[^30]: \$\$Jimenez 2014, 4\$\$.
+
+[^31]: \$\$Jimenez 2014, 183\$\$.
+
+[^32]: \$\$Ikram and Dodson 1998, 157, 160\$\$.
+
+[^33]: \$\$Pagès-Camagna and Guichard 2010, 26–28\$\$.
+
+[^34]: \$\$Roberts 2020\$\$; \$\$Pagès-Camagna and Guichard 2010, 30\$\$; \$\$Kakoulli 2009\$\$.
+
+[^35]: \$\$Kakoulli 2009, 48\$\$.
+
+[^36]: \$\$Hillyer 1984, 8\$\$; \$\$Scott 2010\$\$. Object currently housed at the British Museum: <https://www.britishmuseum.org/collection/object/Y_EA68950>.
+
+[^37]: Object currently housed at the Metropolitan Museum of Art, New York: <https://www.metmuseum.org/art/collection/search/548243>.
+
+[^38]: \$\$Roberts 2020, 40\$\$. Object currently housed at the Metropolitan Museum of Art, New York: <https://www.metmuseum.org/art/collection/search/256830>.
+
+[^39]: \$\$Walton and Trentelman 2009\$\$.
+
+[^40]: \$\$Svoboda and Walton 2010\$\$.
