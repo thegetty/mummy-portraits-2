@@ -1,6 +1,6 @@
 ---
-title: Introduction
+title: Glossary
 layout: page
 contributor: 
-order: 8
+order: 180
 ---
