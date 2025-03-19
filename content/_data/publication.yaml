@@ -412,7 +412,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2026 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -453,11 +453,9 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: keywords
-    name: photography, black-and-white, great despression
+  - type: 
+    name: 
+    identifer: 
 
 # ------------------------------------------------------------------------------
 # Revision History
