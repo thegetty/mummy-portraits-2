@@ -467,7 +467,7 @@ revision_history:
     summary:
 
 revision_statement: |
-    Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com<wbr>/thegetty/mummy-portraits-2, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
+    Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/mummy-portraits-2, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
 repository_url: https://github.com/thegetty/mummy-portraits-2
 
