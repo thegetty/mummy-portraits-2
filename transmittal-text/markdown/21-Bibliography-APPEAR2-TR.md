@@ -126,7 +126,7 @@ full: Bisulca, Christina, Ellen Hanspach-Bernal, Aaron Steele, and Caroline Robe
 
 id: Borchardt 1930
 
-full: Borchardt, Ludwig. 1930. “Ägyptische \>\>Altertümer\<\<, die ich für neuzeitlich halte.” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 65 (): unnumbered appendix.
+full: Borchardt, Ludwig. 1930. “Ägyptische \>\>Altertümer\<\<, die ich für neuzeitlich halte.” *Zeitschrift für Ägyptische Sprache und Altertumskunde* 65 (1): unnumbered appendix.
 
 id: Borg 1996
 
@@ -147,6 +147,10 @@ full: Borg, Barbara E., and Glenn W. Most. 2000. “The Face of the Elite.” *A
 id: Borromeo et al. 2020
 
 full: Borromeo, Georgina E., Ingrid A. Neuman, Scott Collins, Catherine Cooper, Derek Merck, and David Murray. 2020. “Framing the Heron Panel: Iconographic and Technical Comparanda.” In Svoboda and Cartwright 2020.
+
+id: Bostock and Riley 1855
+
+full: Bostock, J., and H. Riley, trans. 1855. *The Natural History* (*Naturalis Historia*). By Pliny the Elder. Taylor and Francis; Henry G. Bohn.
 
 id: Bouchard and Smith 2003
 
@@ -183,6 +187,10 @@ full: Bierbrier, Morris L. 2012. *Who Was Who in Egyptology*. 4th ed. Egyptian E
 id: Briefel 2006
 
 full: Briefel, Aviva. 2006. *The Deceivers: Art Forgery and Identity in the Nineteenth Century*. Cornell University Press.
+
+id: Brigantini 2010
+
+full: Bragantini, Irene. 2010. *Atti del X Congresso internazionale dell'AIPMA, Association internationale pour la peinture murale antique, Napoli 17-21 Settembre 2007 / a cura di Irene Bragantini.* of *Annali Di Archeologia e Storia Antica. Quaderni / Dipartimento Di Studi Del Mondo Classico e Del Mediterraneo Antico ; n. 18*. Napoli: Universitá degli Studi di Napoli “L'Orientale.”
 
 id: Brill 1980
 
@@ -437,21 +445,21 @@ id: Ebers 1893
 
 full: Ebers, Georg. 1893. *Antike Portraits: Die hellenistischen Bildnisse aus dem Fajjûm*. Leipzig.
 
-[id: Ebbinghaus et al. N.D. \[needs letter and date, if all published in 2022\]]{.mark}
+id: Ebbinghaus et al. 2022A
 
-[full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Funerary Portraits from Roman Egypt: Facing Forward,” Harvard Art Museums. Accessed September 2, 2022. <https://harvardartmuseums.org/tour/770>.]{.mark}
+full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Funerary Portraits from Roman Egypt: Facing Forward,” Harvard Art Museums. Accessed September 2, 2022. <https://harvardartmuseums.org/tour/770>.
 
-[id: Ebbinghaus et al. N.D. \[needs letter\]]{.mark}
+id: Ebbinghaus et al. 2022B
 
-[full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Portrait of a Woman.” Harvard Art Museums. Accessed December 28, 2022. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward-2/slide/12405>.]{.mark}
+full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Portrait of a Woman.” Harvard Art Museums. Accessed December 28, 2022. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward-2/slide/12405>.
 
-[id: Ebbinghaus et al. N.D. \[needs letter\]]{.mark}
+id: Ebbinghaus et al. 2022C
 
-[full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Results of Technical Studies.” Harvard Art Museums. Accessed December 28, 2022. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward/stop/2609>.]{.mark}
+full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Results of Technical Studies.” Harvard Art Museums. Accessed December 28, 2022. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward/stop/2609>.
 
-[id: Ebbinghaus et al. N.D. \[needs letter\]]{.mark}
+id: Ebbinghaus et al. 2022D
 
-[full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Tracing the Path to the Museum.” Harvard Art Museums. September 2. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward-2/slide/12413>.]{.mark}
+full: Ebbinghaus, Susanne, Georgina Rayner, Kate Smith, and Jen Thum. n. d. “Tracing the Path to the Museum.” Harvard Art Museums. September 2. <https://harvardartmuseums.org/tour/funerary-portraits-from-roman-egypt-facing-forward-2/slide/12413>.
 
 id: Edgar 1905
 
@@ -521,6 +529,14 @@ id: Gemological Institute of America N.D.
 
 full: Gemological Institute of America. n.d. “Buyer’s Guide.” Accessed September 9, 2022. <https://www.gia.edu/emerald/buyers-guide>.
 
+id: Granger 1931
+
+full: Granger, Frank, trans. 1931. *On Architecture; Volume I: Books 1–5*. By Vitruvius. Cambridge, MA: Harvard University Press
+
+id: Granger 1934
+
+full: Granger, Frank, trans. 1934. *On Architecture; Volume II: Books 6–10*. By Vitruvius. Cambridge, MA: Harvard University Press.
+
 id: Griswold 2014
 
 full: Griswold, Geneva. 2014. “Light as a Feather, Stiff as a Board: Highlights from the Objects Lab at the Walters Art Museum.” Unpublished Document. Walters Art Museum.
@@ -563,6 +579,10 @@ id: Hetherington 1996
 
 full: Hetherington, Paul, trans. 1996. *The ‘Painter’s Manual’ of Dionysius of Fourna*. By Dionysius of Fourna. Oakwood.
 
+id: Hett 1936
+
+full: Hett, W., trans. 1936. *Minor works: On colours, On things heard, Physiognomics, On plants, On marvelous things heard, Mechanical problems, On indivisible lines, The situations and names of words, On Melissus, Xenophanes, and Gorgia*. By Aristotle. Cambridge: Harvard University Press.
+
 id: Hillyer 1984
 
 full: Hillyer, Lynda. 1984. “The Conservation of a Group of Painted Mummy Cloths from Roman Egypt.” *Studies in*
@@ -599,7 +619,7 @@ full: Ikram, Salima, and Aidan Dodson. 1998. *The Mummy in Ancient Egypt: Equipp
 
 id: Imbrogno, Nayak, and Belfort 2014
 
-full: Imbrogno, Joseph, Arpad Nayak, and Georges Belfort. 2014. “Egg Varnishes on Ancient paintings: A Molecular Connection to Amyloid Proteins.” *Angewandte Chemie* 53 (27): 1–5.
+full: Imbrogno, Joseph, Arpad Nayak, and Georges Belfort. 2014. “Egg Varnishes on Ancient paintings: A Molecular Connection to Amyloid Proteins.” *Angewandte Chemie* 53 (27). <https://doi.org/10.1002/anie.201400251>.
 
 id: Iversen 1955
 
@@ -680,6 +700,10 @@ full: Konstan, David. 2014. *Beauty: The Fortunes of an Ancient Greek Idea*. Oxf
 id: Kostomitsopoulou Marketou et al. 2020
 
 full: Kostomitsopoulou Marketou, Ariadne, Fabrizio Andriulo, Calin Steindal, C., and Søren Handberg. 2020. “Egyptian Blue Pellets from the First Century BCE Workshop of Kos (Greece): Microanalytical Investigation by Optical Microscopy, Scanning Electron Microscopy-X-ray Energy Dispersive Spectroscopy and Micro-Raman Spectroscopy.” *Minerals* 10 (12): 1063. <https://doi.org/10.3390/min10121063>.
+
+id: Krohn 1912
+
+full: Krohn, F., ed. *On Architecture.* By Vitruvius. B. G. Teubner.
 
 id: Kühn 1960
 
@@ -777,11 +801,11 @@ full: Marconi, Bohdan. “Wspomnienia z lat 1939–1945.” *Rocznik Muzeum Naro
 
 id: Marvelia 2019
 
-full: Maravelia, Alicia. 2019. “The Conception of the Cosmic Egg in the Ancient Egyptian and in the Orphic Cosmovision.” *The Oriental Studies* (83): 33–34.
+full: Maravelia, Alicia. 2019. “The Conception of the Cosmic Egg in the Ancient Egyptian and in the Orphic Cosmovision.” *The Oriental Studies* (83): 25–52.
 
-id: Matheson N.D.
+id: Matheson 2022
 
-full: Matheson, Susan. n.d. “Individuality and Old Age in the Painted Funerary Portraits of Roman Egypt.” Harvard Art Museums. Accessed December 29, 2024. <https://harvardartmuseums.org/tour/770/slide/12398>.
+full: Matheson, Susan. 2022. “Individuality and Old Age in the Painted Funerary Portraits of Roman Egypt.” Harvard Art Museums. Accessed December 29, 2024. <https://harvardartmuseums.org/tour/770/slide/12398>.
 
 id: Mathews 2016
 
@@ -855,9 +879,13 @@ id: Moreau et al. 2024
 
 full: Moreau, Raphaël, Thomas Calligaro, Laurent Pichon, Brice Moignard, Sorin Hermon, and Ina Reiche. “A Multimodal Scanner Coupling XRF, UV–Vis–NIR Photoluminescence and Vis–NIR–SWIR Reflectance Imaging Spectroscopy for Cultural Heritage Studies.” *X-Ray Spectrometry* 53 (2): 271–81. <https://doi.org/10.1002/xrs.3364>.
 
+id: Morgan 1914
+
+full: Morgan, M., trans. 1914. *The Ten Books on Architecture*. By Vitruvius. Cambridge, MA: Harvard University Press.
+
 id: Morgan 2006
 
-full: Morgan, Morris Hicky. Trans. 2006. *Vitruvius Pollio: The Ten Books on Architecture.* Adamant Media.
+full: Morgan, Morris Hicky, trans. 2006. *Vitruvius Pollio: The Ten Books on Architecture.* Adamant Media.
 
 id: Nahar, Schmets, and Scarpas 2016
 
@@ -963,6 +991,10 @@ id: Petrie 1911
 
 full: Petrie, William Matthew Flinders. 1911. *Roman Portraits and Memphis (IV).* School of Archaeology in Egypt, University College.
 
+id: Pharr, Davidson, and Pharr 2001
+
+full: Pharr, Clyde, Theresa Sherrer Davidson, and Mary Brown Pharr, trans. 2001. *The Theodosian Code and Novels, and the Sirmondian Constitutions*. The Lawbook Exchange.
+
 id: Picton, Quirke, and Roberts 2007
 
 full: Picton, Janet, Stephen Quirke, and Paul C. Roberts, eds. 2007. *Living Images: Egyptian Funerary Portraits in the Petrie Museum*. Left Coast Press.
@@ -974,6 +1006,10 @@ full: Picton, Janet, Stephen Quirke, and Paul C. Roberts. 2018. *Living Images: 
 id: Plater et al. 2003
 
 full: Plater, M. John, Ben De Silva, Thomas Gelbrich, Michael B. Hursthouse, Catherine L. Higgitt, and David R. Saunders, 2003. “The Characterisation of Lead Fatty Acid Soaps in ‘Protrusions’ in Aged Traditional Oil Paint.” *Polyhedron* 22 (24): 3171–79. <https://doi.org/10.1016/S0277-5387(03)00461-3>.
+
+id: Pliny the Elder 77–79 CE
+
+full: Pliny the Elder (Gaius Plinius Secundus). 77–79 CE. *Naturalis Historia*. <https://la.wikisource.org/wiki/Naturalis_Historia>.
 
 id: Pouyet et al. 2020
 
@@ -991,6 +1027,10 @@ id: Purup 2019
 
 full: Purup, Bjarne B. 2019. “A Social Approach to the Sex and Age Distribution in the Mummy Portraits.” In *Family Lives: Aspects of Life and Death in Ancient Families*, edited by Kristine Bøggild Johannsen and Jane Hjarl Petersen. Acta Hyperborea 15. Museum Tusculanum Press.
 
+id: Rackham 1938–1952
+
+full: Rackham, H., trans. 1938–52. *The Natural History* (*Naturalis Historia*). By Pliny the Elder. Loeb Classical Library. Cambridge, MA: Harvard University Press.
+
 id: Radpour et al. 2022
 
 full: Radpour, Roxanne, Glenn A. Gates, Ioanna Kakoulli, and John K. Delaney. 2022. “Identification and Mapping of Ancient Pigments in a Roman Egyptian Funerary Portrait by Application of Reflectance and Luminescence Imaging Spectroscopy.” *Heritage Science* 10 (8). <https://doi.org/10.1186/s40494-021-00639-5>.
@@ -1003,9 +1043,9 @@ id: Redding 2015
 
 full: Redding, Richard W. 2015. “The Pig and the Chicken in the Middle East: Modeling Human Subsistence Behavior in the Archaeological Record Using Historical and Animal Husbandry Data.” *Journal of Archaeological Research* 23: 325–68.
 
-[id: Reeler 2013]{.mark}
+id: Reeler 2013
 
-[full: Reeler, XXXXX. 2013. Full citation needed.]{.mark}
+full: Reeler, XXXXX. 2013. Full citation needed from author(s) or volume editors.
 
 id: Rickerby 1993
 
@@ -1217,6 +1257,10 @@ id: Tappert et al. 2011
 
 full: Tappert, Ralf, Alexander P. Wolfe, Ryan C. McKellar, Michelle C. Tappert, and Karlis Muehlenbachs. 2011. “Characterizing Modern and Fossil Gymnosperm Exudates Using Micro-Fourier Transform Infrared Spectroscopy.” *International Journal of Plant Sciences* 172 (1): 120–38. <https://doi.org/10.1086/657277>.
 
+id: Thayer 1923
+
+full: Thayer, Bill, trans. 1923. *De Divinatione*. By Cicero. Book 1, XXXIV, 74. Loeb Classical Library. <https://penelope.uchicago.edu/Thayer/e/roman/texts/cicero/de_divinatione/1*.html>.
+
 id: Thiboutot 2020
 
 full: Thiboutot, Gabrielle. 2020. “Egyptian Blue in Romano-Egyptian Mummy Portraits.” In Svoboda and Cartwright 2020.
@@ -1241,13 +1285,13 @@ id: Thompson 1973
 
 full: Thompson, David L. 1973. “A Patchwork Fayum in Toledo.” *American Journal of Archaeology* 77 (4): 438–39.
 
-[id: Thompson 1976 **(needs letter)**]{.mark}
+id: Thompson 1976A
 
-[full: Thompson, David L. 1976. “A Painted Funerary Portrait from Roman Egypt.” *Boston Museum Bulletin* 74 (370): 115–19.]{.mark}
+full: Thompson, David L. 1976. “A Painted Funerary Portrait from Roman Egypt.” *Boston Museum Bulletin* 74 (370): 115–19.
 
-[id: Thompson 1976 **(needs letter)**]{.mark}
+id: Thompson 1976B
 
-[full: Thompson, David L. 1976. *The Artists of the Mummy Portraits.* J. Paul Getty Museum.]{.mark}
+full: Thompson, David L. 1976. *The Artists of the Mummy Portraits.* J. Paul Getty Museum.
 
 id: Thompson 1981
 
@@ -1263,7 +1307,7 @@ full: Thum, Jen. 2022. “The People behind the Portraits.” Harvard Art Museum
 
 id: Thum 2022B
 
-full: Thum, Jen, 2022. “Speak Their Names.” Harvard Art Museums. September 2. <https://harvardartmuseums.org/tour/770/slide/12399>.
+full: Thum, Jen. 2022. “Speak Their Names.” Harvard Art Museums. September 2. <https://harvardartmuseums.org/tour/770/slide/12399>.
 
 id: Tobin 1975
 
@@ -1271,7 +1315,7 @@ full: Tobin, Richard. 1975. “The Canon of Polykleitos.” *American Journal of
 
 id: Töpfer 2017
 
-full: Töpfer, Susanne. 2017. “Theory and Practice/Text and Mummies: The Instructions of the ‘Embalming Ritual.’” In *The Light of Archeological Evidence in Burial and Mortuary Practices in Late Period and Graeco-Roman Egypt*: *Proceedings of the International Conference held at Museum of Fine Arts, Budapest, 17–19 July 2014*, edited by K. A. Kóthay.
+full: Töpfer, Susanne. 2017. “Theory and Practice/Text and Mummies: The Instructions of the ‘Embalming Ritual’ in the Light of Archaeological Evidence.” In *Burial and Mortuary Practices in Late Period and Graeco-Roman Egypt*: *Proceedings of the International Conference held at Museum of Fine Arts, Budapest, 17–19 July 2014*, edited by K. A. Kóthay. Museum of Fine Arts, Budapest.
 
 id: Totelin 2016
 
@@ -1349,6 +1393,14 @@ id: Verri and Brecoulaki 2023
 
 full: Verri, Giovanni, and Hariclia Brecoulaki. 2023. “From the Face and the Expression of the Eyes”: Multidisciplinary Studies of Pigments in Ancient Greek and Roman Painted Surfaces.” *Technai: An International Journal for Ancient Science and Technology* 14: 51–69*.*
 
+id: Verri et al. forthcoming
+
+full: Verri, Giovanni, Hariclia Brecoulaki, (FIRST NAME) Mennenga, (FIRST NAME) Ignatiadou. Forthcoming. *Evoking Enargeia (ἐνάργεια): The Investigation and Color Reconstruction of the Portrait Bust of Psyche from Melos, Proceedings of CHROMA*. The Metropolitan Museum of Art.   
+
+id: Verri et al. 2023
+
+full: Verri, Giovanni, Hero Granger-Taylor, Ian Jenkins, Tracey Sweek, Katarzyna Weglowska, and William Thomas Wootton. 2023. “The Goddess’ New Clothes: The Carving and Polychromy of the Parthenon Sculptures.” *Antiquity* 97(395): 1173–92. https://doi.org/10.15184/aqy.2023.130.
+
 id: Verri and Saunders 2014
 
 full: Verri, Giovanni, and David Saunders. 2014. “Xenon Flash for Reflectance and Luminescence (Multispectral) Imaging in Cultural Heritage Applications.” *The British Museum Technical Research Bulletin* 8: 83–92.
@@ -1400,6 +1452,10 @@ full: Walton, Marc S., and Karen Trentelman. 2009. “Romano-Egyptian Red Lead P
 id: Warda 2011
 
 full: Warda, Jeffrey. 2011.*The AIC Guide to Digital Photography and Conservation Documentation*. 2nd ed. American Institute for Conservation of Historic and Artistic Works.
+
+id: Webb, Summerour, and Giaccai 2014
+
+full: Webb, E. K., R. Summerour, and J. Giaccai. 2014. “A Case Study Using Multiband and Hyperspectral Imaging for the Identification and Characterization of Materials on Archaeological Andean Painted Textiles.” *Postprints of the Textile Specialty Group of the American Institute for Conservation of Historic and Artistic Works* 24: 23–35.
 
 id: Wegner 2021
 
