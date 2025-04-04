@@ -1,0 +1,281 @@
+**label:** 15
+
+**title:** Linked Histories
+
+**subtitle:** Understanding the Making and Remaking of a Roman Egyptian Portrait at the Detroit Institute of Arts Through Comparison to a Funerary Portrait at the Walters Art Museum, Baltimore
+
+**short_title:** Linked Histories
+
+**name:** Christina Bisulca
+
+**name:** Ellen Hanspach-Bernal
+
+**name:** Aaron Steele
+
+Among the Egyptian antiquities in the Detroit Institute of Arts (DIA) is a Roman-period funerary portrait[^1] ([fig. 15.1a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-1-a)). Little is known about this portrait’s archeological provenience. Records at the DIA indicate only that the object was given to the museum in 1925[^2] by Julius Haass[^3] (1869–1931), who, at an unknown time, had purchased it from the art dealer Dikran Kelekian (1867–1951).[^4]
+
+**\[\[fig-15-1-a\]\]**
+
+Despite the lack of archeological information on the DIA panel, the similarities in style and provenance with another funerary portrait now housed in the collection of the Walters Art Museum in Baltimore[^5] ([fig. 15.1b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-1-b)) have been known since David Lowell Thompson’s 1972 thesis.[^6] Most notable are the nearly identical high-relief coin pendant necklaces ([figs. 15.2a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-a) and [b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-b)), which (to date) are unique to these two portraits. Both portraits are believed to have originated from Antinoöpolis[^7] and their sale to American collectors was facilitated by the Kelekian Gallery in both instances.[^8]
+
+**\[\[fig-15-1-b\]\]**
+
+**\[\[fig-15-2-a\]\]**
+
+**\[\[fig-15-2-b\]\]**
+
+The APPEAR project initiated the independent examination of these two portraits in recent years. Because of the resulting wealth of information, a close comparison between the materials and techniques of the two panels promised further insights into the original makers as well as later alterations to the objects.
+
+The Detroit portrait was examined by close visual observation, using primarily nondestructive instrumentation relying heavily on point analysis with visible near-infrared fiber optics reflectance spectroscopy (vis-NIR FORS), X-ray fluorescence spectroscopy (XRF), and various imaging techniques. Samples were removed from the edge of the panel to yield further information about the binding media and pigment components of select colors. For technical information on the corresponding panel, we relied on the extensive research that was undertaken by the Walters Museum’s Department of Conservation and Technical Research.[^9]
+
+# Making the Funerary Portraits
+
+The Panels and Their Preparation
+
+The wood from which the Detroit panel was cut was identified as native tamarisk (*Tamarix aphylla*) by Caroline Cartwright of the British Museum.[^10] Within the known body of wooden mummy portrait supports, the choice of this native wood is unusual.[^11] Tamarisk is not of particularly high quality and panels made from this material needed to be of a thicker cut to maintain stability, reflected in the 1.5 cm depth of this board (see [fig. 15.6a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-6-a)). Though comparable in size and shape, the Walters panel was made from a different wood, beech (*Fagus* sp), and at 0.6 cm it is half as thick as the Detroit portrait. The different thickness in the boards could point to adjustments that were made by the carpenters in response to different woodworking characteristics or to prior use. Panels believed to have originated from Antinoöpolis generally show a wide range of different wood species: native sycomore fig (*Ficus sycomorus*) or cedar of Lebanon (*Cedrus libani*),[^12] for example, have also been identified. Compared to the very thin panels made from linden wood (*Tilia* sp—speculated to have been flexible enough to follow the contours of the mummy’s face—most of the Antinoöpolis boards are also of substantial thickness, some measuring up to 2 cm.[^13] In this context the Detroit and even the Walters panels may not be such outliers. They may fit well within local artistic traditions and preferences in how these panels were prepared and later enclosed within the wrapped shroud.[^14]
+
+Much of both panels’ reverse surfaces ([figs. 15.3a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-a), [15.4a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-a), [15.4b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-b)) are coated with a dark, glossy material, identified as a terpenoid resin,[^15] assumed to have been added during mummification. In addition, both panels include resin-soaked textile fragments from the mummy wrapping adhered to the reverse.[^16] Today, these fragments remain the most tangible connection of the portraits to their original function and larger mummy assemblage.
+
+**\[\[fig-15-3-a\]\]**
+
+**\[\[fig-15-3-b\]\]**
+
+**\[\[fig-15-4-a\]\]**
+
+**\[\[fig-15-4-b\]\]**
+
+The wood grain of the Detroit panel is irregular and includes numerous small defects, some of which appear to have ancient repairs. On the back of the panel, just below the center, a thick white coating containing calcium carbonate[^17] was loosely brushed over knots in the wood ([fig. 15.5a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-5-a)). Similar applications, near the bottom edge, are now mostly covered by a modern repair comprising polyvinyl acetate (PVA) and sawdust[^18] (see [fig. 15.3a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/15-13-a)). However, these calcium carbonate preparations can also be observed as amorphous shapes in corresponding areas in the X-radiograph (fig. [15.3b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-b)). They are identified as ancient because they are covered by the terpenoid resin coating associated with the attachment of the panel to the mummified body. Also detectable in the X-radiograph taken from the back are additional small round fills and possibly dowels (see fig. 15.3b). These repairs were inserted from the front, suggesting that holes left from removed knots or of other origin were plugged prior to ground and paint application.
+
+**\[\[fig-15-5-a\]\]**
+
+The Walters’s wood, in contrast, is speculated to have been reused. The boards have open insect tunneling on the reverse. However, some of this tunnelling is filled with pine resin that was applied with the textile wrapping. This suggests that an older board, already insect damaged, was cut and prepared for painting ([fig. 15.4a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-a)).[^19] Drill holes with no direct function to the portrait are also present ([figs. 15.4a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-a), [15.4b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-b), and [15.5b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-5-b)). Both boards show evidence of similar wood preparations, such as holes that were filled or plugged as well as brushed-applied fill material.[^20]
+
+**\[\[fig-15-5-b\]\]**
+
+A rectangular area on the back of the Detroit panel (see [fig. 15.3a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-a))—located parallel to the top edge—is noticeable because it is not fully coated with resin. It appears as if an external piece (e.g., a strip of wood or fabric) had once covered this section. This feature could either indicate an element attached for the initial preparation of the panel or a post-excavation modification, perhaps for mounting. No such evidence can be observed on the back of the Walters panel.
+
+Examination of the panels also suggests that both boards were sawed into their distinct stepped shape only after painting was completed. No ground or paint layers overlap onto the sides of the narrower top section ([fig. 15.6a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-6-a)) and a distinct tool cut can be observed in each panel where the horizontal step is placed.[^21] Paint from the front still extends over the sides of the wider bottom half on the Detroit panel, indicating that these are the initial edges of the board ([fig. 15.6b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-6-b)). Some of the edges on the reverse of each panel were also beveled: specifically, the top edge of the Walters panel and the bottom left edge of the Detroit portrait (see [figs. 15.3a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-a) and [15.4a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-a)). The changes to the boards’ dimensions after painting suggests that the final shape of these panels is closely tied to the process of including the portrait within the mummy wrappings. Small textile fragments as well as dark brown residue have remained on the trimmed edges of the Detroit panel (see fig. 15.6a). The residue was identified as a polysaccharide,[^22] possibly a plant gum. A similar residue was not observed on the edges of the wider section of the panel.
+
+**\[\[fig-15-6-a\]\]**
+
+**\[\[fig-15-6-b\]\]**
+
+Modern repairs in the Detroit panel indicate structural insecurities in the board. Cracks needed to be stabilized, and parts of the wood are now supported by fills and a fabric patch; these later additions are made with a polyvinyl acetate (PVA) adhesive and were likely added during an undocumented treatment.[^23] Structural post-excavation interventions were not needed for the Walters panel.
+
+## The Paint Layers 
+
+A dark brown ground was thinly applied across the surface to prepare both panels for painting. This layer contains large particles in the Detroit work and is composed of a variety of materials including sand grains, calcite, red ochre, and various clay minerals.[^24] The black pigment in the Walters’s ground has a high calcium and phosphorus content suggesting bone black—a pigment that was not used in the portrait’s pictorial layers.[^25] Phosphorus and calcium were also detected in small particles of the Detroit ground in scanning electron microscopy / energy-dispersive X-ray spectrometry (SEM/EDS). However, these particles were only a very minor component and, given the inhomogeneous nature of the ground, could not be clearly characterized. It is therefore inconclusive whether bone black or some other mineral phosphate is present in the Detroit ground layer. However, the selective use of bone black in the ground layer could provide further insight into workshop practices if confirmed in other portraits.
+
+Palette and pigment distribution are very similar in both works ([fig. 15.7](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-7)) but are also aligned with techniques observed on other funerary portraits of the Roman period.[^26] The white tunics, for example, are composed of lead white and natrojarosite, with Egyptian blue added in the highlights.[^27] Although a blue tint is not perceptible, the scattered blue pigment particles can be seen under magnification. The presence of Egyptian blue in white garments or flesh tones has been found in a number of other examples.[^28]
+
+**\[\[fig-15-7\]\]**
+
+Madder lake[^29] was confirmed in the purple fabrics for both works. Red madder was combined with indigo in the Detroit panel to create the dark purple tones in the tunic.^30^ Indigo was not detected in the purple garment depicted in the Walters panel, which could explain the overall lighter hues compared to the Detroit paints. The use of madder lake mixed with indigo in purple garments is consistent with finds of other funerary portraits, for example *Portrait of a Woman* (Harvard Art Museums), also believed to be from Antinoöpolis.^31^
+
+The binder was identified as wax—most likely beeswax—in the pictorial layers of both works.^32^ As a consequence, the paint application techniques are analogous. In both paintings the artist employed a stiff, narrow tool that left fine concave marks in areas where complex shading was required, e.g., in the faces. In sections of uniform color, such as the background and the garments, they utilized brushes of various widths for longer, even marks (see [figs. 15.2a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-a) and [b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-b)).^33^ A detail that indicates how close the painting techniques align is the transition from forehead to the dark braid that is modeled with brown and marbled paints in both portraits. The use of multiple application techniques within one painting has been well noted in other mummy portraits.^34^
+
+The Necklace
+
+One of the most interesting and unusual features of the Detroit and Walters portraits is the high relief, collar-like gold necklace with coin pendant (see [figs. 15.2a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-a) and [b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-2-b)). Both depict a mounted Roman coin (aureus), which became a fashionable accessory in the Roman Egyptian colonies by the third century CE ([figs. 15.8a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-a)–[c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-c)).^35^ This is consistent with the radiocarbon date of the Detroit portrait.^36^ Gold necklaces in low relief or other forms of gilt stucco are not uncommon in funerary portraits from Antinoöpolis, as seen, for example, on two painted shrouds now at the Musée du Louvre, Paris^37^ or a panel at the Nelson-Atkins Museum of Art in Kansas City.^38^ The Detroit and Walters gilt stucco elements are, however, distinctive in that they are of a much higher relief than these other examples.
+
+**\[\[fig-15-8-a\]\]**
+
+**\[\[fig-15-8-b\]\]**
+
+**\[\[fig-15-8-c\]\]**
+
+The necklace in the DIA portrait is made of a stucco consistent with calcium carbonate bound in a proteinaceous glue from which a moldable compound was made.^39^ Based on visual observation, a similar white material is likely for the Walters necklace (see [figs. 15.8b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-b) and [15.9b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-b)). The X-radiographs of both portraits (see [figs. 15.3b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-b) and [15.4b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-4-b)) show that the necklaces are similar in construction and are uniform in composition. The artists applied a preparatory layer of red bole to both necklaces to receive the gold leaf (see [figs. 15.8b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-b) and [15.9b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-b)). The gilding is a gold alloy that contains minor amounts of silver in both.^40^ While difficult to discern because of the numerous repairs that occurred to the necklaces post-excavation, the gold leaf may cover the encaustic paint layer, which would indicate that gilding occurred directly on the panel and after painting was completed. In a final step, the gilt necklaces were outlined in a red iron oxide pigmented wax paint. In the case of the Walters portrait, this wax outline also contains yellow ochre as well as traces of natrojarosite and is of a duller brown overall.^41^ The outlines form a scalloped edge around each pendant, perhaps to mimic the gold settings used to mount the coin^42^ (see [figs. 15.8b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-b) and [c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-b)). A white haze and reddish crust can be observed over the gilding in both necklaces.
+
+**\[\[fig-15-9-a\]\]**
+
+**\[\[fig-15-9-b\]\]**
+
+More pronounced in the Detroit necklace is a surface texture ([fig. 15.9a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-a)) that resembles the imprinted weave of a textile, possibly to mimic woven gold chains found in similar necklaces^43^ (see [fig. 15.8a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-a)). The majority of the Walters’s necklace surface is smooth (see [fig. 15.9b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-b)), although some areas show similar—albeit much fainter—impressions, especially in the pendant (see [fig. 15.8c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-c)). Despite these differences the distinct surface texture could indicate that a textile was pressed into the surface during construction. Both necklaces also have designs that appear to be made with a straight tool impressed into the surface on both sides of the collar to create a V pattern, presumably to depict the twists of gold chains (see [figs. 15.8a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-8-a), [15.9a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-a), and [15.9b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-9-b)). The Walters pendant and collar are smaller in size to accommodate the more delicate neck and generally smaller dimension of the portrait. This precludes the possibility that an identical mold was used in both works. Rather, the precise placement and proportional size of each necklace indicates they were individually constructed for each portrait.
+
+The gilded stucco necklace of the Walters portrait is believed to have been attached with pitch that was removed during a past repair.^44^ Evidence for the initial attachment technique of the Detroit necklace could not be found as the necklace was reattached at least three times since its excavation.^45^ Fine holes are located along the periphery of this necklace. These holes could indicate where pins were once the initial attachment or during one of the more recent repairs. Similar pin marks were not noticed around the Walters necklace. It is not entirely clear when exactly in the painting process the necklaces were added. While a placement directly on the completed encaustic layer makes the most sense technically and compositionally, only the dark ground is visible in the void as seen in a historic.^46^ However, paint could have been removed from this area when the necklace detached and was readhered in the past. The sequence of application could possibly illuminate whether there was a separation of labor between those who painted these portraits and those responsible for the stucco and gilding.
+
+Post-Ancient Treatments
+
+The panels depart drastically from one another in their post-ancient treatments. Little aesthetic intervention can be noted on the Walters panel where past treatments prioritized preservation. In contrast, examination of the DIA portrait revealed large areas of restoration that took place after the piece’s excavation. Large losses with associated repairs are located along the left edge and the upper right corner (see [fig. 15.3b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-3-b)). Further additions of overpaint, glues, and coatings can be observed throughout. The quality of these repairs—executed over gypsum fills in wax paint that carefully match the original technique—suggests that they were done by a restorer who specialized in paintings and had the ability to closely match colors and brushstrokes (see [fig. 15.1a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%2015-Bisulca-final%20files%20from%20KP/fig-15-1-a)). That treatment aimed to render the portrait pristine, with little visible signs of damage or loss.^47^
+
+It has not been possible to determine by who and when this extensive restoration was completed. Photographs of the portrait taken at the time of its acquisition already document these major changes, indicating that the repairs were completed prior to its arrival at the DIA in 1925. Many early twentieth-century galleries employed restorers, which could suggest that the Kelekian Gallery arranged for the treatment of the DIA portrait prior to acquisition. A review of other mummy portraits sold through Kelekian, however, reveals that they did not all receive the same level of restoration. One example^48^ was found to have been assembled from at least three different portraits, while others show little evidence of restoration, such as, for example, the four portraits in the Walters collection.^49^ With the extensive repairs present in the DIA panel, especially as they extend beneath the necklace, one even wonders if the necklace could be a modern addition, crafted after the Walters version to make the work more appealing on the market. If this was the case—at this point the necklace is still considered authentic to the painting—the Kelekian gallery could be further indicated as having initiated the extensive reconstructions in the pictorial layer of the Detroit panel. Considering that we do not know how Kelekian acquired the DIA portrait, it is possible that the restoration was completed prior to its arrival at his gallery or that Haass had the work restored prior to donation to the DIA.
+
+Conclusion
+
+Material evidence gained directly from the Detroit mummy portrait has allowed us to bridge some of the gaps resulting from missing physical and archival information. Even though we still do not know where and when the mummy with its attached portrait was excavated, the technical information roots the work firmly in antiquity. Further, specific techniques and materials as well as stylistic features strongly suggest its production and possible deposition in Roman Egypt’s Antinoöpolis.
+
+While we are not yet equipped to determine whether the Walters and Detroit funerary portraits originated in the same or in associated workshops, the close comparison provides a more tangible context in which to interpret observations. The technical evidence gathered on the wooden boards contributes further information to the larger understanding of questions such as regional access to wood, possible uses of the portraits prior to mummification,^50^ or workshop attributions based on distinct wood preparation techniques. The necklaces add complexity to the manufacture of these portraits and trigger questions about workshop organization and the relationship between the artists responsible for painting and those working on the mummy.
+
+Through material evidence, we were also able to trace the panels’ transformation from part of a mummy into a portrait painting, displayed in a fine arts museum. The separation of these portraits from the human remains coupled with the absence of an archaeological context contributes to the erasure of the deceased person’s identity, as well as a loss of knowledge about the material, cultural, and religious practices that surrounded these objects.^51^ In the case of the DIA’s funerary portrait, this technical investigation also clarified the panel’s evolving functions and its modern identity as a dissociated fragment.^52^ Despite the many remaining gaps, the palpable human traces of its unknown makers and the material connection to an individual’s funerary rite add important context to the research, care, and presentation of these complex ancient objects today.^53^
+
+# Experimental Details
+
+XRF spectroscopy was performed using a Bruker Artax XRF spectrometer at 50 kV, 700 uA, 0.65 mm collimator and 180-second acquisition time. Vis-NIR FORS was performed with an ASD FieldSpec 4 HR spectroradiometer (350–2500 nm, spectral resolution 3 nm @ 700 nm and 8 nm @ 1400/2100 nm) using the ASD contact probe (\~8 mm spot size) or a small diameter bifurcated probe (\~2 mm spot size). For Fourier transform infrared (FTIR) spectroscopy small samples were removed and analyzed on a Thermo iS20 spectrometer equipped with an ATR attachment, 4000–400 cm^-1^, 4 cm^-1^ resolution, 32 scans. Transmission X-radiographs were taken with a Hamamatsu Microfocus unit (130 kV, 300 μA, \~130 in. to subject, 9-minute exposure, 10-micron spot size); 2 exposures via Carestream HR 50-micron CR 14 x 17 in. plates. SEM/EDS was performed on a Joel JSM-7800FLV SEM with an Oxford XMaxX EDS system, 20 keV, at the Electron Microbeam Analysis Lab, University of Michigan. Further experimental details and data and reverenced have been uploaded to the APPEAR database.
+
+# Acknowledgments
+
+Colleagues at the Walters Art Museum, Baltimore, have been incredibly generous with sharing their knowledge and information about the mummy portrait housed in their collection. The authors extend special gratitude to Angie Elliott, Terry Drayman-Weisser Head of Objects Conservation and William B. Ziff, Jr. Conservator of Objects at the Walters Art Museum, for her support. We are grateful to Hae Min Park, Kaitiaki Taonga Conservator of Paintings, Museum of New Zealand, Te Papa Tongarewa and Lisa Anderson-Zhu, associate curator of Art of the Mediterranean, for being so generous with their expertise and time during our visit. We thank Roxanne Radpour and Glenn Gates as well as Geneva Griswold, on whose excellent published and unpublished research on the Walters portrait we heavily relied. Caroline Cartwright of the British Museum, London, completed the wood identification of our panel; we are grateful for her work and her insightful, extensive analytical report. We also thank Katherine Aguirre, then graduate student in the Art Conservation Department at Buffalo State College, for her sharp observations on the Detroit portrait and her thorough research. Marie Svoboda of the J. Paul Getty Museum, Los Angeles, was always generous with her knowledge and experience, even beyond the APPEAR project’s framework. We thank Caroline Roberts, Kelsey Museum of Archeology, University of Michigan, Ann Arbor, for her many insightful comments. At the DIA we are especially grateful to Christopher Foster, Katherine Kasdorf, and Marisa Szpytman. Travel for the research of this paper was supported by funds from the Andrew W. Mellon Foundation.
+
+# Notes
+
+1\. *Head of a Woman*, Egyptian (Antinoöpolis?), late second-third century CE. Encaustic with gilded stucco on tamarisk panel, 44.8 x 24.8 x 1.5 cm (17 5/8 x 9 3/4 x 5/8 in.). Detroit Institute of Arts, Gift of Julius H. Haass, 25.2.
+
+2\. See File 25.2, Registration Department, Detroit Institute of Arts.
+
+3\. Julius Haass was a Detroit banker, a prominent art collector, and served as a museum trustee in the mid-1920s.
+
+4\. Kelekian was a successful dealer of Islamic art and Egyptian antiquities with galleries in Cairo, New York, and Paris, from which he sold to major museums and collectors around the world. See also “Dirkan Garabed Kelekian (1868–1951),” Bliss-Tyler Correspondence, Dumbarton Oaks Museum, Washington, DC, accessed May 7, 2021. <https://www.doaks.org/resources/bliss-tyler-correspondence/annotations/dikran-garabed-kelekian>.
+
+5\. *Panel Portrait of a Woman*, Egyptian (Antinoöpolis), ca. 130–200 CE. Encaustic with gilded stucco on beech wood, 45.7 x 20.6 x 0.64 cm (18 x 8 1/8 x 1/4 in.). The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4.
+
+6\. \$\$Thompson 1972, 34–36\$\$.
+
+7\. Based mostly on the distinct “stepped” contour of the wood panel. For further information, see \$\$Thompson 1972\$\$.
+
+8\. Provenance as published on museum’s website, accessed December 29, 2022. <https://art.thewalters.org/detail/30478/mummy-portrait-of-a-woman-from-fayum-egypt/>.
+
+9\. \$\$Radpour et al. 2022\$\$. <https://doi.org/10.1186/s40494-021-00639-5>; File 32.4, Department of Conservation and Technical Research, Walters Art Museum, Baltimore; APPEAR database entry for Walters Art Museum, Panel Portrait of a Woman, 32.4, accessed December 28, 2022, <https://www.appeardatabase.org/portrait/531/>; \$\$Griswold 2014\$\$.
+
+10\. \$\$Cartwright 2022\$\$.
+
+11\. \$\$Cartwright 2020, 16–23\$\$.
+
+12\. \$\$Spaabæk 2012, 66–67\$\$; review of data available on APPEAR database, accessed December 28, 2022, <https://www.appeardatabase.org>: Of the fourteen panels here believed to be from Antinoöpolis (with wood identifications), 64% are a wood other than linden (five sycomore fig, two cedar of Lebanon, one tamarisk, one beech).
+
+13\. Review of data available on APPEAR database, accessed December 28, 2022, <https://www.appeardatabase.org>.
+
+14\. \$\$Spaabæk 2012, 67\$\$; \$\$Cartwright, Spaabæk, and Svoboda 2011, 57\$\$.
+
+15\. Fragments were analyzed with Fourier transform infrared spectroscopy (FTIR). The sample correlates with a diterpenoid resin, with a highest correlation to exudates from Pinaceae. See \$\$Tappert et al. 2011, 120–38\$\$.
+
+16\. These textile pieces are of various thread weights and weave densities and are saturated with a dark, resinous material (see note 15). In the Detroit panel there appear to be at least eight and possibly up to ten layers present. Based on identification with polarized light microscopy, the analyzed fibers are linen.
+
+17\. A small sample was removed and identified with FTIR and spectral correlation to known references.
+
+18\. A small sample was removed and identified as PVA by FTIR and spectral correlation. Wood dust was identified by polarized light microscopy.
+
+19\. For all information on the Walters board see Walters Conservation File 32.4 and the Walters APPEAR database entry.
+
+20\. Walters APPEAR database entry.
+
+21\. Seen from the front, the saw cut is located on the right side of the Detroit panel and on the left side of the Walters portrait.
+
+22\. Identification based on FTIR and spectral correlation to known reference samples.
+
+23\. Identification based on FTIR and spectral correlation to known reference samples.
+
+24\. Identification based on SEM/EDS analysis of a sample of the ground in cross section. In point analysis, red areas were consistent with iron oxide and silica and calcite grains were also noted. A significant portion of the ground was identified as clay based on the characteristic 2:1 ratio of Si:Al with varying amounts of K/Mg/Na. Small particles with calcium and phosphorous are also noted, indicating a geological apatite/phosphate mineral or possibly bone black.
+
+25\. \$\$Radpour et. al. 2022, 8\$\$.
+
+26\. For example: review of data available on APPEAR database, accessed December 28, 2022, <https://www.appeardatabase.org>; \$\$Susanne Ebbinghaus et. al 2022\$\$; and \$\$Park et al. 2019\$\$.
+
+27\. The use of Egyptian blue was inferred through visible-induced NIR luminescence alone. For further information on the Walters identification see \$\$Radpour et al. 2022\$\$; \$\$Verri et al 2010\$\$; and \$\$Ganio et al. 2015\$\$.
+
+28\. \$\$Thibout 2020, 48–50\$\$; \$\$Ganio et al. 2015, 9\$\$.
+
+29\. Confirmed as a plant-based red lake through vis-NIR FORS; \$\$Newman and Gates 2020, 24–30\$\$. Indigo was deduced through vis-NIR FORS by visible spectra with a sharp increase in reflectance at \~690 nm, with an inflection point at \~725 nm, consistent with indigo. See \$\$Ichimiya 2021, 97–99\$\$. The depiction of a white and purple bichromatic shawl is most likely not authentic to the painting. Because of the large loss over the PR shoulder the second purple stripe on the white tunic was misinterpreted as part of the scarf during a past restoration. The scarf most likely just covered the PL shoulder. For further information see \$\$Bisulca et al. 2021, 12–14\$\$.
+
+31\. Egyptian, probably from Antinoöpolis, *Portrait of a Woman*, ca. 130–50 CE, encaustic on native sycomore fig, 35.3 x 22.5 x 2 cm (14 x 9 x 0.8 in.). Harvard Art Museums/Arthur M. Sackler Museum, 1923.60; \$\$Susanne Ebbinghaus et al. 2022\$\$.
+
+32\. Identification through vis-NIR FORS and FTIR for DIA painting (see APPEAR database). For wax identification in the Walters painting see \$\$Radpour et al. 2022, 8–9\$\$; \$\$Ramer 1979, 6–7\$\$; and \$\$Mazurek 2020, 142–47\$\$.
+
+33\. For a more detailed description of the painting materials and techniques used in the Walters funerary portrait see \$\$Radpour et. al. 2022, 6–14\$\$. All technical information listed here is based on the findings published in this article. For further information on the making of the Detroit portrait see \$\$Bisulca et al. 2021, 6–19\$\$.
+
+34\. Review of data available on APPEAR database. See also \$\$Thompson 1976, 115–19\$\$.
+
+35\. \$\$Bruhn 1993, 30–32\$\$.
+
+36\. The wood from the DIA panel was radiocarbon dated at the Accelerator Mass Spectrometry Laboratory, University of Arizona. The results are a calendar date range of 132 calCE to 335 calCE (95%), 214 calCE to 315 calCE (68%). See \$\$Bisulca et al. 2021, 11\$\$.
+
+37\. Shroud, Egyptian (Antinoöpolis), 200–299 CE. Encaustic on linen, 115 x 62 cm (45 1/4 x 24 1/2 in.). Musée du Louvre, Paris, AF 6486; Painted Shroud, Mummy Portrait*,* Egyptian (Antinoöpolis), 200–249 CE. Tempera and encaustic with gilt stucco on linen, 81 x 45 cm (32 x 17 3/4 in.). Musée du Louvre, Paris, AF 6487.
+
+38\. *Portrait of a Woman*, Egyptian (Antinoöpolis), 130–161 CE. Encaustic on wood with gilt stucco, 44.45 x 17.15 cm (17 1/2 x 6 3/4 in.). The Nelson-Atkins Museum of Art, Kansas City, Purchase: William Rockhill Nelson Trust, 37–40.
+
+39\. The gesso is consistent with calcium carbonate in a proteinaceous binder based on vis-NIR FORS. Gessos made with calcium carbonate/calcite appear to be common in ancient Egyptian artefacts, possibly more so than gypsum. See \$\$Hatchfield and Newman 1991, 34–38\$\$.
+
+40\. \$\$Radpour et. al. 2022, 9\$\$.
+
+41\. \$\$Radpour et. al. 2022, 8\$\$.
+
+42\. \$\$Bruhn 1993, 10–16\$\$.
+
+43\. \$\$Bruhn 1993*,* 32\$\$. Bruhn notes the modeling of the necklace could also indicate an embossed gold neck ring.
+
+44\. This material was removed during a treatment in the 1970s. See Walters Conservation File 32.4, Walters APPEAR database entry.
+
+45\. Today, the Detroit necklace is held in place with a clear modern glue, applied likely during a 1970s repair after an incident. No conservation record has been preserved. See Registration file for 25.2 (also see note 2). A note in the conservation file mentions that a portion of the raised stucco necklace was replaced in 1947 by conservator William Suhr. See File 25.2, Conservation Department, Detroit Institute of Arts.
+
+46\. For historic image see: <https://art.thewalters.org/detail/30478/mummy-portrait-of-a-woman-from-fayum-egypt/>.
+
+47\. For more on the restoration and the resulting misrepresentation of the garment see \$\$Bisulca et al. 2021, 12–14\$\$.
+
+48\. \$\$Stein and Corcoran 2020, 128–31\$\$.
+
+49\. Henry Walters purchased altogether four Roman Egyptian funerary portraits from Kelekian in 1912. Walters Arts Museum, Baltimore 32.4, 32.5, 32.6, 32.7.
+
+50\. \$\$Cartwright 2022\$\$.
+
+51\. \$\$Riggs 2012, 664\$\$.
+
+52\. \$\$Kersel 2021, 263–64\$\$, and \$\$Hopkins, Costello, and Davis 2021, 1–25\$\$.
+
+53\. See also introductory text panels “Facing Forward” and “Statement from the Curators” to the exhibition *Funerary Portraits from Roman Egypt: Facing Forward*, held at the Harvard Art Museums, August 27–December 30, 2022.
+
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
+
+[^14]:
+
+[^15]:
+
+[^16]:
+
+[^17]:
+
+[^18]:
+
+[^19]:
+
+[^20]:
+
+[^21]:
+
+[^22]:
+
+[^23]:
+
+[^24]:
+
+[^25]:
+
+[^26]:
+
+[^27]:
+
+[^28]:
+
+[^29]:

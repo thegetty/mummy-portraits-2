@@ -1,5 +1,5 @@
 ---
 title: Bibliography
 layout: bibliography
-order: 500
+order: 190
 ---

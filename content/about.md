@@ -6,18 +6,100 @@ outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+{{ publication.description.full }}
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+{% backmatter %}
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+<div class="citation-info">
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+## Citation Information
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+### Chicago
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+{% citation context='publication', type='chicago' %}
+
+### MLA
+
+{% citation context='publication', type='mla' %}
+
+### Permanent URL
+
+{{ publication.url }}
+
+</div>
+<div class="revision-history">
+
+## Revision History
+
+{{ publication.revision_statement | markdownify }}
+
+{% for revision in publication.revision_history %}
+
+### {{ revision.date }}
+
+{% for item in revision.summary %}
+- {{ item | markdownify }}
+{% endfor %}
+
+{% endfor %}
+
+</div>
+<div class="other-formats">
+
+## Other Formats
+
+{% for link in publication.resource_link %}
+{% if link.type == "other-format" %}
+- [{{ link.name }}]({{ link.url }})
+{% endif %}
+{% endfor %}
+
+</div>
+<div class="copyright">
+
+## Copyright
+
+{{ config.quire_credit_line | markdownify }}
+
+{% copyright %}
+
+
+</div>
+<div class="publisher">
+
+{% for press in publication.publisher %}
+**Published by the {{ press.name }}, {{ press.location }}**
+{{ press.address | markdownify }}
+{% endfor %}
+
+</div>
+<div class="project-team">
+
+{% for person in publication.project_team %}
+- {{ person | markdownify }}
+{% endfor %}
+
+</div>
+<div class="cip-data">
+
+{{ publication.library_of_congress_cip | markdownify }}
+
+</div>
+<div class="cover-image-credits">
+
+Front cover: Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century AD (detail, fig. 13.6)
+
+Illustration Credits
+
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+
+All papers collected in this work were peer reviewed through either a single-masked or double-masked process in which the reviewers remained anonymous. 
+
+Authorized Product Safety Representative in the European Union: Easy Access System Europe, Mustamäe tee 50, 10621 Tallinn, Estonia, gpsr.[requests@easproject.com](mailto:requests@easproject.com)
+
+</div>
+
+{% endbackmatter %}
+
+
+
