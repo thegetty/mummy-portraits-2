@@ -49,6 +49,8 @@
     "core-js": "2.5.0",
     "lit": "^2.6.1",
     "lunr": "^2.3.9",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
     "template-polyfill": "^2.0.0"
   },
   "devDependencies": {
