@@ -1690,7 +1690,7 @@ figure_list:
     alt: "TK"
 
  - id: "fig-15-7.docx"
-    src: "figures/fig-15-7.docx"
+    src: "figures/fig-15-7.html"
     label: "Figure 15.7"
     caption: "Palette and pigment distribution of Detroit and Walters mummy portraits based on published and unpublished results from independent examinations at both institutions."
     credit: "TK"
@@ -1923,7 +1923,7 @@ figure_list:
  
  - id: "fig-17-12"
     src: "figures/fig-17-12.jpg"
-    label: "Figure 17.12a"
+    label: "Figure 17.12"
     caption: "X-radiograph of Saint Louis Art Museum."
     credit: "TK"
     alt: "TK"
