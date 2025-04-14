@@ -142,6 +142,7 @@ figure_list:
 
   - id: "table-2-7"
     src: "tables/table-2-7.html"
+    media_type: table
     label: "Table 2.7"
     caption: "Results obtained on the thirty-one mummy portraits from the Louvre collection: identification, materials, and underlayers."
     credit: "Photo: Friedrich Wilhelm Schmidt. Courtesy: The Royal Danish Library"
@@ -149,6 +150,7 @@ figure_list:
 
   - id: "table-2-8"
     src: "tables/fig-2-8.html"
+    media_type: table
     label: "Table 2.8"
     caption: "Results obtained on the thirty-one mummy portraits from the Louvre collection: polychromy."
     credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
@@ -156,6 +158,7 @@ figure_list:
 
   - id: "table-2-9"
     src: "tables/table-2-9.html"
+    media_type: table
     label: "Table 2.9"
     caption: "Results obtained on the two panels of gods from the Louvre collection."
     credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
@@ -764,7 +767,7 @@ figure_list:
     credit: "Table: Daniel Kirby"
     alt: "TK"
 
-  - id: 
+  - id: "fig-8-5-b"
     src: "figures/fig-8-5-b.jpg"
     label: "Figure 8.5b"
     caption: "Surface detail of Mummy Portrait of a Bearded Man. Surface accretion, at 40x magnification. Ny Carlsberg Glyptotek. ÆIN 684."
@@ -1120,6 +1123,7 @@ figure_list:
 
   - id: "table-12-4"
     src: "tables/table-12-4.html"
+    media_type: table
     label: "Table 12.4"
     caption: "Detail of Portrait of a young woman in red (Portrait F) showing that the panel was crudely trimmed with a sharp knife after painting, in preparation for attachment to the mummy bundle. The Metropolitan Museum of Art, Department of Paintings Conservation."
     credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
@@ -1689,8 +1693,9 @@ figure_list:
     credit: "TK"
     alt: "TK"
 
-  - id: "fig-15-7.docx"
+  - id: "fig-15-7"
     src: "figures/fig-15-7.html"
+    media_type: table
     label: "Figure 15.7"
     caption: "Palette and pigment distribution of Detroit and Walters mummy portraits based on published and unpublished results from independent examinations at both institutions."
     credit: "TK"
