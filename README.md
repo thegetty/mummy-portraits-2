@@ -63,3 +63,6 @@ TK
 
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
+
+**_plugins/markdown/index.js**
+Add plugins for subscript and superscript

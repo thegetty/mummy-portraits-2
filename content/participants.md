@@ -6,12 +6,9 @@ order: 200
 
 Allard Pierson Museum, Amsterdam
 Ägyptisches Museum und Papyrussammlung, Berlin
-
 Antikensammlung, Staatliche Museen zu Berlin
-
 ArtAncient Ltd, London
 Art Institute of Chicago
-
 Ashmolean Museum of Art and Archaeology, Oxford
 British Museum, London
 Brooklyn Museum of Art
@@ -20,11 +17,8 @@ Cleveland Museum of Art
 Detroit Institute of Arts
 The Fitzwilliam, Cambridge, UK
 Goucher College, Maryland
-
 Harvard Art Museums, Cambridge, Massachusetts
-
 Icon Museum and Study Center
-
 Institute for the Study of Ancient Cultures, Chicago, IL
 The J. Paul Getty Museum and Getty Conservation Institute, Los Angeles
 Johns Hopkins Archaeological Museum, Baltimore
