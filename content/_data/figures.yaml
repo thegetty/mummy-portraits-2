@@ -928,7 +928,7 @@ figure_list:
     src: "figures/fig-10-2.jpg"
     label: "Figure 10.2"
     caption: "Top: Diagram illustrating sight lines when the human head is viewed straight-on. Bottom: Diagram illustrating the corresponding locations of facial features on a mummy portrait support using the same viewing location."
-    credit: "Photos: A: Courtesy Rijksmuseum van Oudheden. B: Courtesy Freud Museum. C: Courtesy Kunsthistorisches Museum. D: Courtesy Stockholm National Museum. E: Image: Courtesy Staatliche Museen zu Berlin, Antikensammlung*.* F: Courtesy Freud Museum. G: Courtesy Trustees of the British Museum. H: Courtesy of Los Angeles County Museum of Art"
+    credit: "Photos: A: Courtesy Rijksmuseum van Oudheden. B: Courtesy Freud Museum. C: Courtesy Kunsthistorisches Museum. D: Courtesy Stockholm National Museum. E: Image: Courtesy Staatliche Museen zu Berlin, Antikensammlung. F: Courtesy Freud Museum. G: Courtesy Trustees of the British Museum. H: Courtesy of Los Angeles County Museum of Art"
     alt: "TK"
 
   - id: "fig-10-3"
@@ -1011,7 +1011,7 @@ figure_list:
   - id: "fig-11-4"
     src: "figures/fig-11-4.jpg"
     label: "Figure 11.4"
-    caption: "Selection of eight male portraits, Philadelphia, Fayum, Egypt; ca. second to third century CE. Tempera on wood (see appendix nos. 14–19, 21–22). A: Leiden, Rijksmuseum van Oudheden, F 1932/3.1*.* B: London, Freud Museum, 4947. C: Vienna, Kunsthistorisches Museum Wien, AS X-300. D: Stockholm, National Museum, Ant. 2309. E: Berlin, Staatliche Museen zu Berlin, Antikensammlung, 31.161/38. F: London, Freud Museum, 4946. G: London, British Museum, 1931,0711.3/EA-63.397. H: Los Angeles County Museum of Art, M.71.73.62."
+    caption: "Selection of eight male portraits, Philadelphia, Fayum, Egypt; ca. second to third century CE. Tempera on wood (see appendix nos. 14–19, 21–22). A: Leiden, Rijksmuseum van Oudheden, F 1932/3.1. B: London, Freud Museum, 4947. C: Vienna, Kunsthistorisches Museum Wien, AS X-300. D: Stockholm, National Museum, Ant. 2309. E: Berlin, Staatliche Museen zu Berlin, Antikensammlung, 31.161/38. F: London, Freud Museum, 4946. G: London, British Museum, 1931,0711.3/EA-63.397. H: Los Angeles County Museum of Art, M.71.73.62."
     credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
@@ -1047,7 +1047,7 @@ figure_list:
   - id: "fig-11-9"
     src: "figures/fig-11-9.jpg"
     label: "Figure 11.9"
-    caption: "Rosters of 4 x 4 (en profile) and 4 x 5 (en face) follow evidently different proportional subdivisions for Pharaonic portraits. A: Gridded Sketch of Senenmut; Thebes, West Bank (TT 71), Upper Egypt, ca. 1479–1458 BCE. Ink on limestone sherd, 22.5 x 18 x 3.3 cm (8 7/8 x 7 1/16 x 1.3 in.). New York, Metropolitan Museum of Art, 36.3.252*.* B: Gridded Portrait of Hatshepsut or Thutmosis III (detail); Thebes, West Bank (TT 11), Upper Egypt, ca. 1479–1425 BCE. Acacia wood, ca. 31 x 45.8 cm [[TK inches]]. Luxor Museum, 1001."
+    caption: "Rosters of 4 x 4 (en profile) and 4 x 5 (en face) follow evidently different proportional subdivisions for Pharaonic portraits. A: Gridded Sketch of Senenmut; Thebes, West Bank (TT 71), Upper Egypt, ca. 1479–1458 BCE. Ink on limestone sherd, 22.5 x 18 x 3.3 cm (8 7/8 x 7 1/16 x 1.3 in.). New York, Metropolitan Museum of Art, 36.3.252. B: Gridded Portrait of Hatshepsut or Thutmosis III (detail); Thebes, West Bank (TT 11), Upper Egypt, ca. 1479–1425 BCE. Acacia wood, ca. 31 x 45.8 cm [[TK inches]]. Luxor Museum, 1001."
     credit: "Photos: A: © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. B: The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
