@@ -149,7 +149,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-2-8"
-    src: "tables/fig-2-8.html"
+    src: "tables/table-2-8.html"
     media_type: table
     label: "Table 2.8"
     caption: "Results obtained on the thirty-one mummy portraits from the Louvre collection: polychromy."
@@ -1693,8 +1693,8 @@ figure_list:
     credit: "TK"
     alt: "TK"
 
-  - id: "fig-15-7"
-    src: "figures/fig-15-7.html"
+  - id: "table-15-7"
+    src: "figures/table-15-7.html"
     media_type: table
     label: "Figure 15.7"
     caption: "Palette and pigment distribution of Detroit and Walters mummy portraits based on published and unpublished results from independent examinations at both institutions."
