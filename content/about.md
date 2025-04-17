@@ -87,7 +87,7 @@ outputs:
 </div>
 <div class="cover-image-credits">
 
-Front cover: Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century AD (detail, fig. 13.6)
+Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century AD (detail, [fig. 13.6](/13/#fig-13-6))
 
 Illustration Credits
 
@@ -95,7 +95,7 @@ Every effort has been made to contact the owners and photographers of illustrati
 
 All papers collected in this work were peer reviewed through either a single-masked or double-masked process in which the reviewers remained anonymous. 
 
-Authorized Product Safety Representative in the European Union: Easy Access System Europe, Mustamäe tee 50, 10621 Tallinn, Estonia, gpsr.[requests@easproject.com](mailto:requests@easproject.com)
+Authorized Product Safety Representative in the European Union: Easy Access System Europe, Mustamäe tee 50, 10621 Tallinn, Estonia, [gpsr.requests@easproject.com](mailto:gpsr.requests@easproject.com)
 
 </div>
 
