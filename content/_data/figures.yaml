@@ -149,7 +149,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-2-8"
-    src: "tables/fig-2-8.html"
+    src: "tables/table-2-8.html"
     media_type: table
     label: "Table 2.8"
     caption: "Results obtained on the thirty-one mummy portraits from the Louvre collection: polychromy."
@@ -426,7 +426,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-5-5"
-    src: "tables/fig-5-5.html"
+    src: "tables/table-5-5.html"
     media_type: table
     label: "Table 5.5"
     caption: "Experimental Setup Used for the MBI."
@@ -525,7 +525,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-5-19"
-    src: "tables/fig-5-19.html"
+    src: "tables/table-5-19.html"
     media_type: table
     label: "Table 5.19"
     caption: "Summary of the chemical elements detected via XRF in the three portraits."
@@ -596,7 +596,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-5-29"
-    src: "tables/fig-5-29.html"
+    src: "tables/table-5-29.html"
     media_type: table
     label: "Table 5.29"
     caption: "Pigments (P) detected via XRF in each portrait."
@@ -632,7 +632,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-6-5"
-    src: "tables/fig-6-5.html"
+    src: "tables/table-6-5.html"
     media_type: table
     label: "Table 6.5"
     caption: "Pigments present in the mummy portraits."
@@ -710,7 +710,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-7-6"
-    src: "tables/fig-7-6.html"
+    src: "tables/table-7-6.html"
     media_type: table
     label: "Table 7.6"
     caption: "Wood identifications of mummy portraits, May 2023."
@@ -718,7 +718,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-7-7"
-    src: "tables/fig-7-7.html"
+    src: "tables/table-7-7.html"
     media_type: table
     label: "Table 7.7"
     caption: "Wood identifications of painted panels and doors, shroud backing, mummy board, and dowels, May 2023."
@@ -866,7 +866,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-8-16"
-    src: "tables/fig-8-16.html"
+    src: "tables/table-8-16.html"
     media_type: table
     label: "Table 8.16"
     caption: "Summary of preliminary and subsequent analytical results for seven funerary portraits."
@@ -874,7 +874,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-8-17"
-    src: "tables/fig-8-17.html"
+    src: "tables/table-8-17.html"
     media_type: table
     label: "Table 8.17"
     caption: "Radiocarbon dates obtained for two portraits: Los Angeles, J. Paul Getty Museum, 74.AP.11 and NSM F.1978.19.P."
@@ -882,7 +882,7 @@ figure_list:
     alt: "TK"
   
   - id: "table-9-1"
-    src: "tables/fig-9-1.html"
+    src: "tables/table-9-1.html"
     media_type: table
     label: "Table 9.1"
     caption: "The nine analyzed portraits in this study, including their provenance and age. The table is a schematic overview of the present pigment identification results together with the results from former analyses done on the portraits as part of the APPEAR project (see note 13). Ny Carlsberg Glyptotek: Young Man, AEIN 680; Young Man with Beard, AEIN 681; Young Woman with Jewelry, AEIN 682; Woman with Blue and Red Dress, AEIN 683; Man with Receding Hairline, AEIN 684; Portrait of a Man on Canvas, AEIN 1425; Portrait of a Man, Red Shroud Mummy, AEIN 1426."
@@ -1023,7 +1023,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-11-6"
-    src: "tables/fig-11-6.html"
+    src: "tables/table-11-6.html"
     media_type: table
     label: "Table 11.6"
     caption: "Estimated age of the subjects by gender."
@@ -1107,7 +1107,7 @@ figure_list:
           alt:
 
   - id: "table-12-2"
-    src: "tables/fig-12-2.html"
+    src: "tables/table-12-2.html"
     media_type: table
     label: "Table 12.2"
     caption: "Portraits examined and analyzed for the present study. Images of the portraits are presented in figure 12.1."
@@ -1193,7 +1193,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-12-14"
-    src: "tables/fig-12-14.html"
+    src: "tables/table-12-14.html"
     media_type: table
     label: "Table 12.14"
     caption: "Preparatory layers, infrared reflectograms, and selected elemental distribution maps obtained by MA-XRF in the nine portraits analyzed for the present study."
@@ -1236,8 +1236,8 @@ figure_list:
   - id: "fig-12-17-e"
     src: "figures/fig-12-17-e.jpg"
     label: "Figure 12.17e"
-    caption: "Amulet of Omphale"
-    credit: "© Derek J. Content Collection, 2022."
+    caption: "Amulet of Omphale (AUTHORS TO CONFIRM)."
+    credit: "Photo: © Derek J. Content Collection, 2022."
     alt: "TK"
 
   - id: "fig-12-18"
@@ -1423,9 +1423,9 @@ figure_list:
     alt: "TK"
 
   - id: "table-13-9"
-    src: "tables/fig-13-9.html"
+    src: "tables/table-13-9.html"
     media_type: table
-    label: "Table 13.9"
+    label: "Figure 13.9"
     caption: "Summary of the painting materials inferred from analysis using techniques indicated in parenthesis. Detailed information on portraits AIC 1922.4798 and 1922.4799 can be found in Sabino et al. 2019 and Sutherland, Sabino, and Pozzi 2020. Analytical reports for all portraits are on file at the Department of Conservation and Science at AIC and relevant institutions."
     credit: "Photos: G. Verri"
     alt: "TK"
@@ -1693,8 +1693,8 @@ figure_list:
     credit: "TK"
     alt: "TK"
 
-  - id: "fig-15-7"
-    src: "figures/fig-15-7.html"
+  - id: "table-15-7"
+    src: "tables/table-15-7.html"
     media_type: table
     label: "Figure 15.7"
     caption: "Palette and pigment distribution of Detroit and Walters mummy portraits based on published and unpublished results from independent examinations at both institutions."
@@ -1919,7 +1919,7 @@ figure_list:
     alt: "TK"
 
   - id: "table-17-11"
-    src: "tables/fig-17-11.html"
+    src: "tables/table-17-11.html"
     media_type: table
     label: "Table 17.11"
     caption: "Layers present and pigments detected in the cross-sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits."
