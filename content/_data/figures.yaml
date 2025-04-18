@@ -101,42 +101,42 @@ figure_list:
   - id: "fig-2-1"
     src: "figures/fig-2-1.jpg"
     label: "Figure 2.1"
-    caption: "Panel with a Dioscure, Fayum(?), ca. 100–200 CE. Tempera on willow, 38 × 6.5 × 0.5 cm (15 × 2.5 × 0.2 in.). B: Black underdrawing (see arrows) revealed by HSI-SWIR: λ = 1647.37 nm from complete data cube (1000–2500 nm). Paris, Musée du Louvre, département des Antiquités grecques, étrusques et romaines. MND 193 - E 10815."
-    credit: "Photos: A: © C2RMF / Anne Maigret; B: © C2RMF / Lucile Brunel-Duverger"
+    caption: "Panel with a Dioscure, Fayum(?), ca. 100–200 CE. Tempera on willow, 38 × 6.5 × 0.5 cm (15 × 2.5 × 0.2 in.). (B) Black underdrawing (see arrows) revealed by HSI-SWIR: λ = 1647.37 nm from complete data cube (1000–2500 nm). Paris, Musée du Louvre, département des Antiquités grecques, étrusques et romaines. MND 193 - E 10815."
+    credit: "Photos: (A) © C2RMF / Anne Maigret; (B) © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.jpg"
     label: "Figure 2.2"
-    caption: "A: Portrait of a man, Thebes(?), ca. 180–220 CE. Encaustic on beechwood, 41 × 14 × 0.1 cm (16 × 5.5 × 0.04 in.). B: White underdrawing revealed by HSI-SWIR. Imaging is the result of a band calculation (B2–B1), where B1 = 1941 nm (νa + δ OH   (H2O) from gypsum) and B2 = 1916 nm (absence of gypsum). The bands were extracted from a resized data cube (19102029 nm) after application of a continuum removal. Data treatment realized with Envie software. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6885."
-    credit: "Photos: A: © C2RMF / Anne Maigret; B: © C2RMF / Lucile Brunel-Duverger"
+    caption: "(A) Portrait of a man, Thebes(?), ca. 180–220 CE. Encaustic on beechwood, 41 × 14 × 0.1 cm (16 × 5.5 × 0.04 in.). (B) White underdrawing revealed by HSI-SWIR. Imaging is the result of a band calculation (B2–B1), where B1 = 1941 nm (νa + δ OH   (H2O) from gypsum) and B2 = 1916 nm (absence of gypsum). The bands were extracted from a resized data cube (19102029 nm) after application of a continuum removal. Data treatment realized with Envie software. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6885."
+    credit: "Photos: (A) © C2RMF / Anne Maigret; (B) © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
   - id: "fig-2-3"
     src: "figures/fig-2-3.jpg"
     label: "Figure 2.3"
-    caption: "A: Portrait of a woman, Antinoöpolis, ca. 150 CE. Encaustic on sycomore fig, 37 × 17 × 1 cm (14.5 × 6.7 × 0.4 in). B : Distribution of the waxy binder used. HSI-SWIR: λ = 2210 nm (ν~s ~+ δ CH from wax), extracted from a resized data cube (2241–2360 nm) after application of a continuum removal. Data treatment realized with Envie software. C: MA‑XRF imaging showing the distribution of lead (Pb Lα) attributed to the presence of lead white. Paris, Musée du Louvre, département des Antiquités égyptiennes, E 12569."
-    credit: "Photos: A: © C2RMF / Anne Maigret; B and C: © C2RMF / Lucile Brunel-Duverger"
+    caption: "(A) Portrait of a woman, Antinoöpolis, ca. 150 CE. Encaustic on sycomore fig, 37 × 17 × 1 cm (14.5 × 6.7 × 0.4 in). B : Distribution of the waxy binder used. HSI-SWIR: λ = 2210 nm (ν~s ~+ δ CH from wax), extracted from a resized data cube (2241–2360 nm) after application of a continuum removal. Data treatment realized with Envie software. &#40;C) MA‑XRF imaging showing the distribution of lead (Pb Lα) attributed to the presence of lead white. Paris, Musée du Louvre, département des Antiquités égyptiennes, E 12569."
+    credit: "Photos: (A) © C2RMF / Anne Maigret; B and &#40;C) © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
   - id: "fig-2-4"
     src: "figures/fig-2-4.jpg"
     label: "Figure 2.4"
-    caption: "A: Portrait of a woman, Memphis necropolis, ca. 150 CE. Tempera on linden, 46 × 19 × 0.2 cm (18 × 7.5 × 0.08 in). B: Distribution of the proteinaceous binder used. HSI-SWIR: λ = 2173 nm (δ NH + νs CN from protein binder), extracted from a resized data cube (2098–2247 nm) after application of a continuum removal. Data treatment realized with Envie software. C: MA-XRF imaging showing the distribution of calcium (Ca kα) attributed to the presence of a white, calcium-based material identified as gypsum with HSI-SWIR. Paris, Musée du Louvre, département des Antiquités égyptiennes, N 2733 1."
-    credit: "Photos: A: © C2RMF / Anne Maigret; B and C: © C2RMF / Lucile Brunel-Duverger"
+    caption: "(A) Portrait of a woman, Memphis necropolis, ca. 150 CE. Tempera on linden, 46 × 19 × 0.2 cm (18 × 7.5 × 0.08 in). (B) Distribution of the proteinaceous binder used. HSI-SWIR: λ = 2173 nm (δ NH + νs CN from protein binder), extracted from a resized data cube (2098–2247 nm) after application of a continuum removal. Data treatment realized with Envie software. &#40;C) MA-XRF imaging showing the distribution of calcium (Ca kα) attributed to the presence of a white, calcium-based material identified as gypsum with HSI-SWIR. Paris, Musée du Louvre, département des Antiquités égyptiennes, N 2733 1."
+    credit: "Photos: (A) © C2RMF / Anne Maigret; B and &#40;C) © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
   - id: "fig-2-5"
     src: "figures/fig-2-5.jpg"
     label: "Figure 2.5"
-    caption: "A: Panel representing the gods Heron and Lycurgus, Fayum region(?), ca. 100–200 CE. Tempera on willow, 39 × 31.4 × 0.8 cm (15.3 × 12.4 × 0.3 in.). Detail of the right side. The VIL imaging shows Egyptian blue for Heron’s clothing. B: Portrait of a woman, Antinoöpolis(?), ca. 100 –180 CE. Encaustic on cedar, 38 × 25 × 1.9 cm (15 × 9.8 × 0.75 in.). The VIL imaging shows Egyptian blue for the flesh tones and stripes of the clothing. C: Portrait of a man, Thebes(?), ca. 250 CE. Encaustic on linden, 33.5 × 18.5 × 0.2 cm (13.2 × 7.3 × 0.08 in.). The VIL imaging shows Egyptian blue for the background and flesh tones. D: Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (12.6 × 6.7 × 0.04 in.). The VIL imaging shows Egyptian blue for the clothing. Paris, Musée du Louvre, département des Antiquités égyptiennes, RFML.AE.2020.8.1, AF 6886, N 2732 3, AF 6884."
+    caption: "(A) Panel representing the gods Heron and Lycurgus, Fayum region(?), ca. 100–200 CE. Tempera on willow, 39 × 31.4 × 0.8 cm (15.3 × 12.4 × 0.3 in.). Detail of the right side. The VIL imaging shows Egyptian blue for Heron’s clothing. (B) Portrait of a woman, Antinoöpolis(?), ca. 100 –180 CE. Encaustic on cedar, 38 × 25 × 1.9 cm (15 × 9.8 × 0.75 in.). The VIL imaging shows Egyptian blue for the flesh tones and stripes of the clothing. &#40;C) Portrait of a man, Thebes(?), ca. 250 CE. Encaustic on linden, 33.5 × 18.5 × 0.2 cm (13.2 × 7.3 × 0.08 in.). The VIL imaging shows Egyptian blue for the background and flesh tones. (D) Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (12.6 × 6.7 × 0.04 in.). The VIL imaging shows Egyptian blue for the clothing. Paris, Musée du Louvre, département des Antiquités égyptiennes, RFML.AE.2020.8.1, AF 6886, N 2732 3, AF 6884."
     credit: "Photos: © C2RMF / Anne Maigret"
     alt: "TK"
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.jpg"
     label: "Figure 2.6"
-    caption: "A: Portrait of a woman, Antinoöpolis(?), ca. 130 –150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). B: The pink pixels correspond to the spectral presence of madder lake. C: The blue pixels correspond to the spectral presence of Egyptian blue. D: The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
+    caption: "(A) Portrait of a woman, Antinoöpolis(?), ca. 130 –150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). (B) The pink pixels correspond to the spectral presence of madder lake. &#40;C) The blue pixels correspond to the spectral presence of Egyptian blue. (D) The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
     credit: "Photos: © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
@@ -359,7 +359,7 @@ figure_list:
     src: "figures/fig-4-11.jpg"
     label: "Figure 4.11"
     caption: "Examples of paint layers of Osiris shroud at magnification: (A) Yellow pigmentation atop the white ground from the winged serpent in the upper proper-right register. (B) Dark red pigmentation of the outline of the figure where the chin and neck meet."
-    credit: "Photos: A: © 2022 Museum of Fine Arts, Boston. B and C: © The Trustees of the British Museum, EA6707"
+    credit: "Photos: (A) © 2022 Museum of Fine Arts, Boston. B and &#40;C) © The Trustees of the British Museum, EA6707"
     alt: "TK"
 
   - id: "fig-4-12"
@@ -394,7 +394,7 @@ figure_list:
     src: "figures/fig-4-16.jpg"
     label: "Figure 4.16"
     caption: "(A) High-contrast black-and-white visible image of the Osiris shroud showing the pattern of discoloration in the paint layer. Hay Collection—Gift of C. Granville Way. (B) Mummy of Cleopatra, daughter of Candace, Roman Egyptian, Sheikh Abd el-Qurna (Thebes), Roman Period, ca. 100–120 CE, mummified individual with painted linen. Image shows the intact wrapping pattern of external linen strips. &#40;C) Full side view of the mummy of Cleopatra, 161 cm long (63.4 in.)."
-    credit: "Photos: A: © 2022 Museum of Fine Arts, Boston. B and C: © The Trustees of the British Museum, EA6707"
+    credit: "Photos: (A) © 2022 Museum of Fine Arts, Boston. B and &#40;C) © The Trustees of the British Museum, EA6707"
     alt: "TK"
 
   - id: "fig-5-1"
@@ -921,14 +921,14 @@ figure_list:
     src: "figures/fig-10-1.jpg"
     label: "Figure 10.1"
     caption: "Diagram illustrating a human head (black line) and portrait support (blue line) orientated in different planes."
-    credit: "Photos: A: Courtesy Pushkin State Museum of Fine Art. B: Courtesy Harvard Art Museums. C: Courtesy Rosicrucian Egyptian Museum. D: Courtesy Smith College Museum of Art. E: Photo: Frank Tomio. Image: Courtesy Martin Bürge, used with permission. F: Courtesy Stockholm National Museum. G: Courtesy Trustees of the British Museum. H: Courtesy Yale University Art Gallery"
+    credit: "Photos: (A) Courtesy Pushkin State Museum of Fine Art. (B) Courtesy Harvard Art Museums. &#40;C) Courtesy Rosicrucian Egyptian Museum. (D) Courtesy Smith College Museum of Art. (E) Photo: Frank Tomio. Image: Courtesy Martin Bürge, used with permission. (F) Courtesy Stockholm National Museum. (G) Courtesy Trustees of the British Museum. (H) Courtesy Yale University Art Gallery"
     alt: "TK"
 
   - id: "fig-10-2"
     src: "figures/fig-10-2.jpg"
     label: "Figure 10.2"
     caption: "Top: Diagram illustrating sight lines when the human head is viewed straight-on. Bottom: Diagram illustrating the corresponding locations of facial features on a mummy portrait support using the same viewing location."
-    credit: "Photos: A: Courtesy Rijksmuseum van Oudheden. B: Courtesy Freud Museum. C: Courtesy Kunsthistorisches Museum. D: Courtesy Stockholm National Museum. E: Image: Courtesy Staatliche Museen zu Berlin, Antikensammlung. F: Courtesy Freud Museum. G: Courtesy Trustees of the British Museum. H: Courtesy of Los Angeles County Museum of Art"
+    credit: "Photos: (A) Courtesy Rijksmuseum van Oudheden. (B) Courtesy Freud Museum. &#40;C) Courtesy Kunsthistorisches Museum. (D) Courtesy Stockholm National Museum. (E) Image: Courtesy Staatliche Museen zu Berlin, Antikensammlung. (F) Courtesy Freud Museum. (G) Courtesy Trustees of the British Museum. (H) Courtesy of Los Angeles County Museum of Art"
     alt: "TK"
 
   - id: "fig-10-3"
@@ -963,7 +963,7 @@ figure_list:
     src: "figures/fig-10-7.jpg"
     label: "Figure 10.7"
     caption: "Graph showing the angles generated using distances measured between the center of an eye and the chin."
-    credit: "Photos: A: Courtesy of The Metropolitan Museum of Art, New York. B: C. Spottorno © Proyecto Djehuty. Image: Courtesy José M. Galán, Spanish National Research Council, used with permission"
+    credit: "Photos: (A) Courtesy of The Metropolitan Museum of Art, New York. (B) C. Spottorno © Proyecto Djehuty. Image: Courtesy José M. Galán, Spanish National Research Council, used with permission"
     alt: "TK"
 
   - id: "fig-10-8"
@@ -1004,14 +1004,14 @@ figure_list:
   - id: "fig-11-3"
     src: "figures/fig-11-3.jpg"
     label: "Figure 11.3"
-    caption: "Selection of eight female portraits, Philadelphia, Fayum, Egypt, ca. second to third century CE. Tempera on wood (see appendix nos. 2–5, 8–10, 12). A: Moscow, Pushkin State Museum of Fine Art, I.1a 5783. B: Cambridge, MA, Harvard Art Museums, 1939.111. C: San Jose, Rosicrucian Egyptian Museum, RC-1759. D: Northampton, Smith College Museum of Art, SC 1932.9.1. E: Zürich, Archäologische Sammlung der Universität Zürich, UZH-AS 3801. F: Stockholm, National Museum, Ant. 2303. G: London, British Museum, 1890,0921.1. H: New Haven, Yale University Art Gallery, 2011.102.1."
+    caption: "Selection of eight female portraits, Philadelphia, Fayum, Egypt, ca. second to third century CE. Tempera on wood (see appendix nos. 2–5, 8–10, 12). (A) Moscow, Pushkin State Museum of Fine Art, I.1a 5783. (B) Cambridge, MA, Harvard Art Museums, 1939.111. &#40;C) San Jose, Rosicrucian Egyptian Museum, RC-1759. (D) Northampton, Smith College Museum of Art, SC 1932.9.1. (E) Zürich, Archäologische Sammlung der Universität Zürich, UZH-AS 3801. (F) Stockholm, National Museum, Ant. 2303. (G) London, British Museum, 1890,0921.1. (H) New Haven, Yale University Art Gallery, 2011.102.1."
     credit: "Photo: Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
   - id: "fig-11-4"
     src: "figures/fig-11-4.jpg"
     label: "Figure 11.4"
-    caption: "Selection of eight male portraits, Philadelphia, Fayum, Egypt; ca. second to third century CE. Tempera on wood (see appendix nos. 14–19, 21–22). A: Leiden, Rijksmuseum van Oudheden, F 1932/3.1. B: London, Freud Museum, 4947. C: Vienna, Kunsthistorisches Museum Wien, AS X-300. D: Stockholm, National Museum, Ant. 2309. E: Berlin, Staatliche Museen zu Berlin, Antikensammlung, 31.161/38. F: London, Freud Museum, 4946. G: London, British Museum, 1931,0711.3/EA-63.397. H: Los Angeles County Museum of Art, M.71.73.62."
+    caption: "Selection of eight male portraits, Philadelphia, Fayum, Egypt; ca. second to third century CE. Tempera on wood (see appendix nos. 14–19, 21–22). (A) Leiden, Rijksmuseum van Oudheden, F 1932/3.1. (B) London, Freud Museum, 4947. &#40;C) Vienna, Kunsthistorisches Museum Wien, AS X-300. (D) Stockholm, National Museum, Ant. 2309. (E) Berlin, Staatliche Museen zu Berlin, Antikensammlung, 31.161/38. (F) London, Freud Museum, 4946. (G) London, British Museum, 1931,0711.3/EA-63.397. (H) Los Angeles County Museum of Art, M.71.73.62."
     credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
@@ -1047,8 +1047,8 @@ figure_list:
   - id: "fig-11-9"
     src: "figures/fig-11-9.jpg"
     label: "Figure 11.9"
-    caption: "Rosters of 4 x 4 (en profile) and 4 x 5 (en face) follow evidently different proportional subdivisions for Pharaonic portraits. A: Gridded Sketch of Senenmut; Thebes, West Bank (TT 71), Upper Egypt, ca. 1479–1458 BCE. Ink on limestone sherd, 22.5 x 18 x 3.3 cm (8 7/8 x 7 1/16 x 1.3 in.). New York, Metropolitan Museum of Art, 36.3.252. B: Gridded Portrait of Hatshepsut or Thutmosis III (detail); Thebes, West Bank (TT 11), Upper Egypt, ca. 1479–1425 BCE. Acacia wood, ca. 31 x 45.8 cm [[TK inches]]. Luxor Museum, 1001."
-    credit: "Photos: A: © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. B: The Metropolitan Museum of Art, Department of Paintings Conservation"
+    caption: "Rosters of 4 x 4 (en profile) and 4 x 5 (en face) follow evidently different proportional subdivisions for Pharaonic portraits. (A) Gridded Sketch of Senenmut; Thebes, West Bank (TT 71), Upper Egypt, ca. 1479–1458 BCE. Ink on limestone sherd, 22.5 x 18 x 3.3 cm (8 7/8 x 7 1/16 x 1.3 in.). New York, Metropolitan Museum of Art, 36.3.252. (B) Gridded Portrait of Hatshepsut or Thutmosis III (detail); Thebes, West Bank (TT 11), Upper Egypt, ca. 1479–1425 BCE. Acacia wood, ca. 31 x 45.8 cm [[TK inches]]. Luxor Museum, 1001."
+    credit: "Photos: (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. (B) The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-11-10"
@@ -1074,7 +1074,7 @@ figure_list:
   
   - id: "fig-12-1"
     label: "Figure 12.1"
-    caption: "Roman Egyptian portraits examined and analyzed. A: Portrait of a thin-faced, bearded man; B: Portrait of a man with a mole on his nose; C: Portrait of a thin-faced man; D: Portrait of a youth with a surgical cut in one eye; E: Portrait of an elderly lady with a gold wreath; F: Portrait of a young woman in red; G: Portrait of a young woman with a gilded wreath; H: Portrait of the Boy Eutyches; and I: Portrait of a woman in a blue mantle. Encaustic paint on limewood."
+    caption: "Roman Egyptian portraits examined and analyzed. (A) Portrait of a thin-faced, bearded man; (B) Portrait of a man with a mole on his nose; &#40;C) Portrait of a thin-faced man; (D) Portrait of a youth with a surgical cut in one eye; (E) Portrait of an elderly lady with a gold wreath; (F) Portrait of a young woman in red; (G) Portrait of a young woman with a gilded wreath; (H) Portrait of the Boy Eutyches; and (I) Portrait of a woman in a blue mantle. Encaustic paint on limewood."
     annotations:
     - input: radio
       items:
@@ -1117,7 +1117,7 @@ figure_list:
   - id: "fig-12-3"
     src: "figures/fig-12-3.jpg"
     label: "Figure 12.3"
-    caption: "A: Mummy with an Inserted Panel Portrait of a Youth, encaustic paint on limewood, human remains, linen, mummification material. Detail of panel portrait as exposed 38 x 18 cm (15 x 7 1/16 in); and B: mummy 169 x 45 cm (66 9/16 x 17 11/16 in.). The Metropolitan Museum of Art, Department of Egyptian Art, Rogers Fund, 1911.11.139."
+    caption: "(A) Mummy with an Inserted Panel Portrait of a Youth, encaustic paint on limewood, human remains, linen, mummification material. Detail of panel portrait as exposed 38 x 18 cm (15 x 7 1/16 in); and (B) mummy 169 x 45 cm (66 9/16 x 17 11/16 in.). The Metropolitan Museum of Art, Department of Egyptian Art, Rogers Fund, 1911.11.139."
     credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
@@ -1146,7 +1146,7 @@ figure_list:
   - id: "fig-12-7"
     src: "figures/fig-12-7.jpg"
     label: "Figure 12.7"
-    caption: "A: Detail taken in raking light of Portrait of the Boy Eutyches (Portrait H) showing brush and tool marks in the surface of the encaustic; and B: detail of the tunic showing the reticulated edges of the inscription. The location of this detail is outlined in red in A. © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "(A) Detail taken in raking light of Portrait of the Boy Eutyches (Portrait H) showing brush and tool marks in the surface of the encaustic; and (B) detail of the tunic showing the reticulated edges of the inscription. The location of this detail is outlined in red in A. © The Metropolitan Museum of Art, Department of Paintings Conservation."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
@@ -1160,14 +1160,14 @@ figure_list:
   - id: "fig-12-9"
     src: "figures/fig-12-9.jpg"
     label: "Figure 12.9"
-    caption: "A: Detail of Panel painting of a woman in a blue mantle (Portrait I) and B: Portrait of a youth with a surgical cut in one eye (Portrait D) showing pits in the paint, likely due to air bubbles that erupted during or just after execution. A: © Eileen Travell, The Metropolitan Museum of Art, Imaging Department; B: The Metropolitan Museum of Art, Department of Paintings Conservation."
-    credit: "Photos: A: © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. B: The Metropolitan Museum of Art, Department of Paintings Conservation"
+    caption: "(A) Detail of Panel painting of a woman in a blue mantle (Portrait I) and (B) Portrait of a youth with a surgical cut in one eye (Portrait D) showing pits in the paint, likely due to air bubbles that erupted during or just after execution. (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department; (B) The Metropolitan Museum of Art, Department of Paintings Conservation."
+    credit: "Photos: (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. (B) The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-10"
     src: "figures/fig-12-10.jpg"
     label: "Figure 12.10"
-    caption: "Infrared reflectograms (IRR) for A: Portrait of an elderly lady with a gold wreath (Portrait E); B: Portrait of a young woman in red (Portrait F); and C: Portrait of the Boy Eutyches (Portrait H)."
+    caption: "Infrared reflectograms (IRR) for (A) Portrait of an elderly lady with a gold wreath (Portrait E); (B) Portrait of a young woman in red (Portrait F); and &#40;C) Portrait of the Boy Eutyches (Portrait H)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
@@ -1181,14 +1181,14 @@ figure_list:
   - id: "fig-12-12"
     src: "figures/fig-12-12.jpg"
     label: "Figure 12.12"
-    caption: "Details of infrared reflectogram for Portrait of an elderly lady with a gold wreath (Portrait E). A: The arrows point to underdrawing on the chin done with a brush, and B: to underdrawing beneath the eye done with a reed pen. © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "Details of infrared reflectogram for Portrait of an elderly lady with a gold wreath (Portrait E). (A) The arrows point to underdrawing on the chin done with a brush, and (B) to underdrawing beneath the eye done with a reed pen. © The Metropolitan Museum of Art, Department of Paintings Conservation."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-13"
     src: "figures/fig-12-13.jpg"
     label: "Figure 12.13"
-    caption: "X-radiographs. A: Portrait of a thin-faced man (Portrait C); B: Portrait of a young woman in red (Portrait F); and C: Portrait of a youth with a surgical cut in one eye (Portrait D). © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "X-radiographs. (A) Portrait of a thin-faced man (Portrait C); (B) Portrait of a young woman in red (Portrait F); and &#40;C) Portrait of a youth with a surgical cut in one eye (Portrait D). © The Metropolitan Museum of Art, Department of Paintings Conservation."
     credit: "TK"
     alt: "TK"
 
@@ -1216,7 +1216,7 @@ figure_list:
 
   - id: "fig-12-17"
     label: "Figure 12.17"
-    caption: "Roman Egyptian portraits examined and analyzed. A: Portrait of a thin-faced, bearded man; B: Portrait of a man with a mole on his nose; C: Portrait of a thin-faced man; D: Portrait of a youth with a surgical cut in one eye; E: Portrait of an elderly lady with a gold wreath; F: Portrait of a young woman in red; G: Portrait of a young woman with a gilded wreath; H: Portrait of the Boy Eutyches; and I: Portrait of a woman in a blue mantle. Encaustic paint on limewood."
+    caption: "Roman Egyptian portraits examined and analyzed. (A) Portrait of a thin-faced, bearded man; (B) Portrait of a man with a mole on his nose; &#40;C) Portrait of a thin-faced man; (D) Portrait of a youth with a surgical cut in one eye; (E) Portrait of an elderly lady with a gold wreath; (F) Portrait of a young woman in red; (G) Portrait of a young woman with a gilded wreath; (H) Portrait of the Boy Eutyches; and (I) Portrait of a woman in a blue mantle. Encaustic paint on limewood."
     annotations:
     - input: radio
       items:
@@ -1250,7 +1250,7 @@ figure_list:
   - id: "fig-12-19"
     src: "figures/fig-12-19.jpg"
     label: "Figure 12.19"
-    caption: "A–C: Portrait of a thin-faced, bearded man (Portrait A) and D–F: Portrait of a man with a mole on his nose (Portrait B): photographs taken with A and D: raking light illumination; B and E: lead (Pb) distribution maps obtained by MA-XRF; and C and F: combined iron (Fe) and manganese (Mn) distribution maps obtained by MA-XRF. In the combined maps, the areas where Fe and Mn co-locate appear with a greenish yellow hue."
+    caption: "(A–C) Portrait of a thin-faced, bearded man (Portrait A) and (D–F) Portrait of a man with a mole on his nose (Portrait B): photographs taken with (A) and (D) raking light illumination; (B) and (E) lead (Pb) distribution maps obtained by MA-XRF; and (C) and (F): combined iron (Fe) and manganese (Mn) distribution maps obtained by MA-XRF. In the combined maps, the areas where Fe and Mn co-locate appear with a greenish yellow hue."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
@@ -1264,27 +1264,27 @@ figure_list:
   - id: "fig-12-21"
     src: "figures/fig-12-21.jpg"
     label: "Figure 12.21"
-    caption: "Photomicrographs showing black fibers embedded in the paint layer. A, B, and C: Portrait of a man with a mole on his nose (Portrait B) and D, E, and F: Portrait of an elderly lady with a gold wreath (Portrait E)."
+    caption: "Photomicrographs showing black fibers embedded in the paint layer. (A), (B), and &#40;C) Portrait of a man with a mole on his nose (Portrait B) and D, E, and (F) Portrait of an elderly lady with a gold wreath (Portrait E)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-22"
     src: "figures/fig-12-22.jpg"
     label: "Figure 12.22"
-    caption: "Photomicrographs showing red fibers embedded in the paint layer. A and B: Portrait of a Boy Eutyches (Portrait H); C: Portrait of a man with a mole on his nose (Portrait B); and D: Portrait of a young woman in red (Portrait F)."
+    caption: "Photomicrographs showing red fibers embedded in the paint layer. A and (B) Portrait of a Boy Eutyches (Portrait H); &#40;C) Portrait of a man with a mole on his nose (Portrait B); and (D) Portrait of a young woman in red (Portrait F)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-23"
     src: "figures/fig-12-23.jpg"
     label: "Figure 12.23"
-    caption: "Images taken under ultraviolet illumination showing the bright pink fluorescence of red lake/s. A: Portrait of a man with a mole on his nose (Portrait B); B: Portrait of a thin-faced man (Portrait C); and C: Portrait of a young woman with a gilded wreath (Portrait G)."
+    caption: "Images taken under ultraviolet illumination showing the bright pink fluorescence of red lake/s. (A) Portrait of a man with a mole on his nose (Portrait B); (B) Portrait of a thin-faced man (Portrait C); and &#40;C) Portrait of a young woman with a gilded wreath (Portrait G)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation."
     alt: "TK"
 
   - id: "fig-13-1"
     label: "Figure 13.1"
-    caption: "Roman Egyptian portraits examined and analyzed. A: Portrait of a thin-faced, bearded man; B: Portrait of a man with a mole on his nose; C: Portrait of a thin-faced man; D: Portrait of a youth with a surgical cut in one eye; E: Portrait of an elderly lady with a gold wreath; F: Portrait of a young woman in red; G: Portrait of a young woman with a gilded wreath; H: Portrait of the Boy Eutyches; and I: Portrait of a woman in a blue mantle. Encaustic paint on limewood."
+    caption: "Roman Egyptian portraits examined and analyzed. (A) Portrait of a thin-faced, bearded man; (B) Portrait of a man with a mole on his nose; &#40;C) Portrait of a thin-faced man; (D) Portrait of a youth with a surgical cut in one eye; (E) Portrait of an elderly lady with a gold wreath; (F) Portrait of a young woman in red; (G) Portrait of a young woman with a gilded wreath; (H) Portrait of the Boy Eutyches; and (I) Portrait of a woman in a blue mantle. Encaustic paint on limewood."
     annotations:
     - input: radio
       items:
@@ -1303,7 +1303,7 @@ figure_list:
 
   - id: "fig-13-2"
     label: "Figure 13.2"
-    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 22 cm (15.5 x 8.7 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4798."
+    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 22 cm (15.5 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4798."
     annotations:
     - input: radio
       items:
@@ -1322,7 +1322,7 @@ figure_list:
 
   - id: "fig-13-3"
     label: "Figure 13.3"
-    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.9 x 24.1 cm (16.5 x 9.5 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4799."
+    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.9 x 24.1 cm (16.5 x 9.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4799."
     annotations:
     - input: radio
       items:
@@ -1341,7 +1341,7 @@ figure_list:
  
   - id: "fig-13-4"
     label: "Figure 13.4"
-    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 21.6 cm (15.5 x 8.5 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Collection of Susan and Lew Manilow, MN 0251."
+    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 21.6 cm (15.5 x 8.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0251."
     annotations:
     - input: radio
       items:
@@ -1360,7 +1360,7 @@ figure_list:
 
   - id: "fig-13-5"
     label: "Figure 13.5"
-    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, first century CE. Wood and pigments, 36.8 x 21.3 cm (14.5 x 8.45 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Collection of Susan and Lew Manilow, MN 0252."
+    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, first century CE. Wood and pigments, 36.8 x 21.3 cm (14.5 x 8.45 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0252."
     annotations:
     - input: radio
       items:
@@ -1379,7 +1379,7 @@ figure_list:
 
   - id: "fig-13-6"
     label: "Figure 13.6"
-    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E2053."
+    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E2053."
     annotations:
     - input: radio
       items:
@@ -1398,7 +1398,7 @@ figure_list:
 
   - id: "fig-13-7"
     label: "Figure 13.7"
-    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, A: visible; B: VIL; C: IRR; and D: UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E9137."
+    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E9137."
     annotations:
     - input: radio
       items:
@@ -1704,7 +1704,7 @@ figure_list:
   - id: "fig-15-8-a"
     src: "figures/fig-15-8-a.jpg"
     label: "Figure 15.8A"
-    caption: "Necklace with Pendant Coins. Roman Empire, early third century. Gold, 47 x 2.4 cm (18 11/16 x D: 15/16 in.). The Walters Art Museum, Baltimore, museum purchase (formerly part of the Walters Collection), 1941, 57.1600."
+    caption: "Necklace with Pendant Coins. Roman Empire, early third century. Gold, 47 x 2.4 cm (18 11/16 x (D) 15/16 in.). The Walters Art Museum, Baltimore, museum purchase (formerly part of the Walters Collection), 1941, 57.1600."
     credit: "TK"
     alt: "TK"
 
@@ -1887,35 +1887,35 @@ figure_list:
     src: "figures/fig-17-6.jpg"
     label: "Figure 17.6"
     caption: "(A) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayyat), second half second century CE. 25.7 x 14.9 cm (10 x 6 in.). Saint Louis Art Museum, Gift of Mrs. Max A. Goldstein, 128:1951. (B) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half second century CE. 32 x 19 x 0.5 cm (12 1/2 x 7 1/2 x 1/4 in.). Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mrs. John D. Rockefeller, Jr., 1939.111. &#40;C) Portrait of a woman, probably from Philadelphia (near er-Rubayat), Egypt, second half second century CE. 24.5 x 9.5 cm (10 x 4 in.). Yale University Art Gallery, Ruth Elizabeth White Fund, 2011.102.1. (D) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half second century CE. 33 x 20.3 cm (13 x 8 in.). Smith College Museum of Art, Purchased with the Drayton Hillyer Fund, SC 1932.9.1."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Yale University Art Gallery. D: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Yale University Art Gallery. (D) © Smith College Museum of Art"
     alt: "TK"
 
   - id: "fig-17-7"
     src: "figures/fig-17-7.jpg"
     label: "Figure 17.7"
     caption: "Details of the hairline of each portrait illustrating the contour and hatch line technique used for shading and volume. (A) Saint Louis Art Museum. (B) Harvard Art Museums. &#40;C) Yale University Art Gallery. (D) Smith College Museum of Art."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Yale University Art Gallery. D: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Yale University Art Gallery. (D) © Smith College Museum of Art"
     alt: "TK"
 
   - id: "fig-17-8"
     src: "figures/fig-17-8.jpg"
     label: "Figure 17.8"
     caption: "Details of the earrings from each portrait illustrating the similarities and subtle differences among them. (A) Saint Louis Art Museum. (B) Harvard Art Museums. &#40;C) Yale University Art Gallery. (D) Smith College Museum of Art."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Yale University Art Gallery. D: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Yale University Art Gallery. (D) © Smith College Museum of Art"
     alt: "TK"
 
   - id: "fig-17-9"
     src: "figures/fig-17-9.jpg"
     label: "Figure 17.9"
     caption: "Cross sections prepared from the tunic in normal radiation (top), ultraviolet radiation (middle), and the backscattered electron image (bottom). (A) Saint Louis Art Museum. (B) Harvard Art Museums. &#40;C) Smith College Museum of Art."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Smith College Museum of Art"
     alt: "TK"
 
   - id: "fig-17-10"
     src: "figures/fig-17-10.jpg"
     label: "Figure 17.10"
     caption: "Details of infrared reflectograms compared with normal light details illustrating evidence of preparatory sketches. (A) Saint Louis Art Museum. (B) Harvard Art Museums. &#40;C) Yale University Art Gallery."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Yale University Art Gallery"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Yale University Art Gallery"
     alt: "TK"
 
   - id: "table-17-11"
@@ -1923,7 +1923,7 @@ figure_list:
     media_type: table
     label: "Table 17.11"
     caption: "Layers present and pigments detected in the cross-sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Smith College Museum of Art"
     alt: "TK"
  
   - id: "fig-17-12"
@@ -1944,5 +1944,5 @@ figure_list:
     src: "figures/fig-17-14.jpg"
     label: "Figure 17.14"
     caption: "Ultraviolet-induced visible fluorescence images of: (A) Saint Louis Art Museum. (B) Harvard Art Museums. &#40;C) Yale University Art Gallery. (D) Smith College Museum of Art."
-    credit: "Photos: A: © Saint Louis Art Museum. B: © President and Fellows of Harvard College. C: © Yale University Art Gallery. D: © Smith College Museum of Art"
+    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Yale University Art Gallery. (D) © Smith College Museum of Art"
     alt: "TK"
