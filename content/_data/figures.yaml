@@ -748,28 +748,28 @@ figure_list:
 
   - id: "fig-8-4-a"
     src: "figures/fig-8-4-a.jpg"
-    label: "Figure 8.4a"
+    label: "Figure 8.4A"
     caption: "Mummy Portrait of a Young Man. 125–150 CE. Encaustic on linden panel, 39.25 x 20.3 x 0.1 cm (39.5 x 8 x 1/64 in.). Ny Carlsberg Glyptotek, ÆIN 681."
     credit: "Photo: Daniel Kirby"
     alt: "TK"
 
   - id: "fig-8-4-b"
     src: "figures/fig-8-4-b.jpg"
-    label: "Figure 8.4b"
+    label: "Figure 8.4B"
     caption: "Surface detail of Mummy Portrait of a Young Man, ÆIN 681. Surface accretion, at 40x magnification."
     credit: "Table: Daniel Kirby"
     alt: "TK"
 
   - id: "fig-8-5-a"
     src: "figures/fig-8-5-a.jpg"
-    label: "Figure 8.5a"
+    label: "Figure 8.5A"
     caption: "Mummy Portrait of a Bearded Man, ca. 140–200 CE. Encaustic on linden panel, 40.7 x 7.8 x 0.1 cm (16 x 3 x 3/100 in.). Ny Carlsberg Glyptotek. ÆIN 684."
     credit: "Table: Daniel Kirby"
     alt: "TK"
 
   - id: "fig-8-5-b"
     src: "figures/fig-8-5-b.jpg"
-    label: "Figure 8.5b"
+    label: "Figure 8.5B"
     caption: "Surface detail of Mummy Portrait of a Bearded Man. Surface accretion, at 40x magnification. Ny Carlsberg Glyptotek. ÆIN 684."
     credit: "Photo: Yosi Pozeilov. © The Norton Simon Foundation"
     alt: "TK"
@@ -825,42 +825,42 @@ figure_list:
 
   - id: "fig-8-13-a"
     src: "figures/fig-8-13-a.jpg"
-    label: "Figure 8.13a"
+    label: "Figure 8.13A"
     caption: "Portrait of a Man, second century CE. Encaustic on wood, 30.8 x 16.8 cm (12-1/8 x 6-5/8 in.). The Norton Simon Foundation, Gift of Mr. Norton Simon. F.1978.19.P."
     credit: "© Ny Carlsberg Glyptotek. Photo: Ole Haupt"
     alt: "TK"
 
   - id: "fig-8-13-b"
     src: "figures/fig-8-13-b.jpg"
-    label: "Figure 8.13b"
+    label: "Figure 8.13B"
     caption: "Ultraviolet-induced visible fluorescence image of Portrait of a Man. The Norton Simon Foundation, Gift of Mr. Norton Simon. F.1978.19.P."
     credit: "Photo: © Ashmolean Museum, University of Oxford"
     alt: "TK"
 
   - id: "fig-8-14-a"
     src: "figures/fig-8-14-a.jpg"
-    label: "Figure 8.14a"
+    label: "Figure 8.14A"
     caption: "Funerary Portrait of a Young Girl, ca. 25–37 CE. Egypt, Roman Empire, late Tiberian. Encaustic on linden. 39.4 x 17.4 x 0.2 cm (15.5 x 7 x. 1/32 in.). The Cleveland Museum of Art, John L. Severance Fund 1971.137."
     credit: "Photo: © Ashmolean Museum, University of Oxford"
     alt: "TK"
 
   - id: "fig-8-14-b"
     src: "figures/fig-8-14-b.jpg"
-    label: "Figure 8.14b"
+    label: "Figure 8.14B"
     caption: "Ultraviolet-induced visible fluorescence image of Funerary Portrait of a Young Girl. The Cleveland Museum of Art, John L. Severance Fund 1971.137."
     credit: "Photo: © Ashmolean Museum, University of Oxford"
     alt: "TK"
 
   - id: "fig-8-15-a"
     src: "figures/fig-8-15-a.jpg"
-    label: "Figure 8.15a"
+    label: "Figure 8.15A"
     caption: "Portrait of a Lady, Romano-Egyptian, 117–138 CE. er-Rubayyat. Encaustic on linden panel, 40 x 20 x 0.2 cm. Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband."
     credit: "Photo: © Ashmolean Museum, University of Oxford"
     alt: "TK"
 
   - id: "fig-8-15-b"
     src: "figures/fig-8-15-b.jpg"
-    label: "Figure 8.15b"
+    label: "Figure 8.15B"
     caption: "Ultraviolet-induced visible fluorescence image of Portrait of a Lady. Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband."
     credit: "Photo: © Ashmolean Museum, University of Oxford"
     alt: "TK"
@@ -1078,31 +1078,31 @@ figure_list:
     annotations:
     - input: radio
       items:
-        - label: "Figure 12.1a"
+        - label: "Figure 12.1A"
           src: "figures/fig-12-1-a.jpg"
           alt: 
-        - label: "Figure 12.1b"
+        - label: "Figure 12.1B"
           src: "figures/fig-12-1-b.jpg"
           alt:
-        - label: "Figure 12.1c"
+        - label: "Figure 12.1C"
           src: "figures/fig-12-1-c.jpg"
           alt: 
-        - label: "Figure 12.1d"
+        - label: "Figure 12.1D"
           src: "figures/fig-12-1-d.jpg"
           alt:
-        - label: "Figure 12.1e"
+        - label: "Figure 12.1E"
           src: "figures/fig-12-1-e.jpg"
           alt: 
-        - label: "Figure 12.1f"
+        - label: "Figure 12.1F"
           src: "figures/fig-12-1-f.jpg"
           alt:
-        - label: "Figure 12.1g"
+        - label: "Figure 12.1G"
           src: "figures/fig-12-1-g.jpg"
           alt: 
-        - label: "Figure 12.1h"
+        - label: "Figure 12.1H"
           src: "figures/fig-12-1-h.jpg"
           alt:
-        - label: "Figure 12.1i"
+        - label: "Figure 12.1I"
           src: "figures/fig-12-1-i.jpg"
           alt:
 
@@ -1220,22 +1220,22 @@ figure_list:
     annotations:
     - input: radio
       items:
-        - label: "Figure 12.17a"
+        - label: "Figure 12.17A"
           src: "figures/fig-12-17-a.jpg"
           alt: 
-        - label: "Figure 12.17b"
+        - label: "Figure 12.17B"
           src: "figures/fig-12-17-b.jpg"
           alt:
-        - label: "Figure 12.17c"
+        - label: "Figure 12.17C"
           src: "figures/fig-12-17-c.jpg"
           alt: 
-        - label: "Figure 12.17d"
+        - label: "Figure 12.17D"
           src: "figures/fig-12-17-d.jpg"
           alt: 
 
   - id: "fig-12-17-e"
     src: "figures/fig-12-17-e.jpg"
-    label: "Figure 12.17e"
+    label: "Figure 12.17E"
     caption: "Amulet of Omphale"
     credit: "© Derek J. Content Collection, 2022."
     alt: "TK"
@@ -1288,16 +1288,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.1a"
+      - label: "Figure 13.1A"
         src: "figures/fig-13-1-a.jpg"
         alt: 
-      - label: "Figure 13.1b"
+      - label: "Figure 13.1B"
         src: "figures/fig-13-1-b.jpg"
         alt:
-      - label: "Figure 13.1c"
+      - label: "Figure 13.1C"
         src: "figures/fig-13-1-c.jpg"
         alt: 
-      - label: "Figure 13.1d"
+      - label: "Figure 13.1D"
         src: "figures/fig-13-1-d.jpg"
         alt: 
 
@@ -1307,16 +1307,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.2a"
+      - label: "Figure 13.2A"
         src: "figures/fig-13-2-a.jpg"
         alt: 
-      - label: "Figure 13.2b"
+      - label: "Figure 13.2B"
         src: "figures/fig-13-2-b.jpg"
         alt:
-      - label: "Figure 13.2c"
+      - label: "Figure 13.2C"
         src: "figures/fig-13-2-c.jpg"
         alt: 
-      - label: "Figure 13.2d"
+      - label: "Figure 13.2D"
         src: "figures/fig-13-2-d.jpg"
         alt: 
 
@@ -1326,16 +1326,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.3a"
+      - label: "Figure 13.3A"
         src: "figures/fig-13-3-a.jpg"
         alt: 
-      - label: "Figure 13.3b"
+      - label: "Figure 13.3B"
         src: "figures/fig-13-3-b.jpg"
         alt:
-      - label: "Figure 13.3c"
+      - label: "Figure 13.3C"
         src: "figures/fig-13-3-c.jpg"
         alt: 
-      - label: "Figure 13.3d"
+      - label: "Figure 13.3D"
         src: "figures/fig-13-3-d.jpg"
         alt: 
  
@@ -1345,16 +1345,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.4a"
+      - label: "Figure 13.4A"
         src: "figures/fig-13-4-a.jpg"
         alt: 
-      - label: "Figure 13.4b"
+      - label: "Figure 13.4B"
         src: "figures/fig-13-4-b.jpg"
         alt:
-      - label: "Figure 13.4c"
+      - label: "Figure 13.4C"
         src: "figures/fig-13-4-c.jpg"
         alt: 
-      - label: "Figure 13.4d"
+      - label: "Figure 13.4D"
         src: "figures/fig-13-4-d.jpg"
         alt: 
 
@@ -1364,16 +1364,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.5a"
+      - label: "Figure 13.5A"
         src: "figures/fig-13-5-a.jpg"
         alt: 
-      - label: "Figure 13.5b"
+      - label: "Figure 13.5B"
         src: "figures/fig-13-5-b.jpg"
         alt:
-      - label: "Figure 13.5c"
+      - label: "Figure 13.5C"
         src: "figures/fig-13-5-c.jpg"
         alt: 
-      - label: "Figure 13.5d"
+      - label: "Figure 13.5D"
         src: "figures/fig-13-5-d.jpg"
         alt: 
 
@@ -1383,16 +1383,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.6a"
+      - label: "Figure 13.6A"
         src: "figures/fig-13-6-a.jpg"
         alt: 
-      - label: "Figure 13.6b"
+      - label: "Figure 13.6B"
         src: "figures/fig-13-6-b.jpg"
         alt:
-      - label: "Figure 13.2c"
+      - label: "Figure 13.2C"
         src: "figures/fig-13-6-c.jpg"
         alt: 
-      - label: "Figure 13.2d"
+      - label: "Figure 13.2D"
         src: "figures/fig-13-6-d.jpg"
         alt: 
 
@@ -1402,16 +1402,16 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 13.7a"
+      - label: "Figure 13.7A"
         src: "figures/fig-13-7-a.jpg"
         alt: 
-      - label: "Figure 13.7b"
+      - label: "Figure 13.7B"
         src: "figures/fig-13-7-b.jpg"
         alt:
-      - label: "Figure 13.7c"
+      - label: "Figure 13.7C"
         src: "figures/fig-13-7-c.jpg"
         alt: 
-      - label: "Figure 13.7d"
+      - label: "Figure 13.7D"
         src: "figures/fig-13-7-d.jpg"
         alt: 
  
@@ -1521,28 +1521,28 @@ figure_list:
     annotations:
     - input: radio
       items:
-      - label: "Figure 14.3a"
+      - label: "Figure 14.3A"
         src: "figures/fig-14-3-a.jpg"
         alt: 
-      - label: "Figure 14.3b"
+      - label: "Figure 14.3B"
         src: "figures/fig-14-3-b.jpg"
         alt:
-      - label: "Figure 14.3c"
+      - label: "Figure 14.3C"
         src: "figures/fig-14-3-c.jpg"
         alt: 
-      - label: "Figure 14.3d"
+      - label: "Figure 14.3D"
         src: "figures/fig-14-3-d.jpg"
         alt: 
-      - label: "Figure 14.3e"
+      - label: "Figure 14.3E"
         src: "figures/fig-14-3-e.jpg"
         alt: 
-      - label: "Figure 14.3f"
+      - label: "Figure 14.3F"
         src: "figures/fig-14-3-f.jpg"
         alt:
-      - label: "Figure 14.3g"
+      - label: "Figure 14.3G"
         src: "figures/fig-14-3-g.jpg"
         alt: 
-      - label: "Figure 14.3h"
+      - label: "Figure 14.3H"
         src: "figures/fig-14-3-h.jpg"
         alt: 
 
@@ -1611,84 +1611,84 @@ figure_list:
 
   - id: "fig-15-1-a"
     src: "figures/fig-15-1-a.jpg"
-    label: "Figure 15.1a"
+    label: "Figure 15.1A"
     caption: "Head of a Woman, Egyptian (Antinoöpolis?), late second–third century CE. Encaustic with gilded stucco on tamarisk panel, 44.8 x 24.8 x 1.5 cm (17 5/8 x 9 3/4 x 5/8 in.). Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-1-b"
     src: "figures/fig-15-1-b.jpg"
-    label: "Figure 15.1b"
+    label: "Figure 15.1B"
     caption: "Panel Portrait of a Woman, Egyptian (Antinoöpolis), ca. 130–200 CE. Encaustic with gilded stucco on beech wood, 45.7 x 20.6 x 0.64 cm (18 x 8 1/8 x 1/4 in.). The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-2-a"
     src: "figures/fig-15-2-a.jpg"
-    label: "Figure 15.2a"
+    label: "Figure 15.2A"
     caption: "Raking light image of figure 15.1a, showing distinct paint application marks and dimensionality of high relief necklace. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-2-b"
     src: "figures/fig-15-2-b.jpg"
-    label: "Figure 15.2b"
+    label: "Figure 15.2B"
     caption: "Raking light image of figure 15.1b, showing distinct paint application marks and dimensionality of high relief necklace. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-3-a"
     src: "figures/fig-15-3-a.jpg"
-    label: "Figure 15.3a"
+    label: "Figure 15.3A"
     caption: "Verso of figure 15.1a. Brushed on calcium carbonate preparations, an ancient intervention, indicated by various blue circles. Filled or plugged holes, an ancient intervention, indicated by various yellow/orange circles. Note corresponding locations in figure 15.3b. Also note the modern repairs such as fills and a fabric patch. A resinous coating and shroud fragments from the mummy wrapping have remained. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-3-b"
     src: "figures/fig-15-3-b.jpg"
-    label: "Figure 15.3b"
+    label: "Figure 15.3B"
     caption: "X-radiograph of figure 15.1a. Ancient wood preparations indicated by various yellow/orange and blue circles. Note corresponding locations in figure 15.3a. Large areas of modern restoration along left step and upper-right corner are indicated in light yellow. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-4-a"
     src: "figures/fig-15-4-a.jpg"
-    label: "Figure 15.4a"
+    label: "Figure 15.4A"
     caption: "Verso of figure 15.1b. Drilled and filled holes, an ancient intervention, indicated by various yellow/orange circles. Note corresponding locations in figure 15.4b. Traces of possible white preparations visible in the bottom half. Also note opened insect tunnels. A resinous coating and shroud fragments from the mummy wrapping have remained. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-4-b"
     src: "figures/fig-15-4-b.jpg"
-    label: "Figure 15.4b"
+    label: "Figure 15.4B"
     caption: "X-radiograph of figure 15.1b. Drilled and filled holes, an ancient intervention, indicated by various yellow/orange circles. Note corresponding locations in figure 15.4a. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-5-a"
     src: "figures/fig-15-5-a.jpg"
-    label: "Figure 15.5a"
+    label: "Figure 15.5A"
     caption: "Detail of figure 15.3a showing brushed on calcium carbonate preparation with resinous coating residue and a filled hole from a removed knot. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-5-b"
     src: "figures/fig-15-5-b.jpg"
-    label: "Figure 15.5b"
+    label: "Figure 15.5B"
     caption: "Detail of figure 15.4a showing a plugged and a filled drill hole as well as resinous coating residue. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-6-a"
     src: "figures/fig-15-6-a.jpg"
-    label: "Figure 15.6a"
+    label: "Figure 15.6A"
     caption: "Left edge (seen from back) of figure 15.1a, details, showing cut edge after paint application, note gum residue and fabric fragment. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-6-b"
     src: "figures/fig-15-6-b.jpg"
-    label: "Figure 15.6b"
+    label: "Figure 15.6B"
     caption: "Left edge with overlapping paint layer, note beveled edge. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
@@ -1703,35 +1703,35 @@ figure_list:
 
   - id: "fig-15-8-a"
     src: "figures/fig-15-8-a.jpg"
-    label: "Figure 15.8a"
+    label: "Figure 15.8A"
     caption: "Necklace with Pendant Coins. Roman Empire, early third century. Gold, 47 x 2.4 cm (18 11/16 x D: 15/16 in.). The Walters Art Museum, Baltimore, museum purchase (formerly part of the Walters Collection), 1941, 57.1600."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-8-b"
     src: "figures/fig-15-8-b.jpg"
-    label: "Figure 15.8b"
+    label: "Figure 15.8B"
     caption: "Detail of figure 15.1a, coin pendant made of gilded stucco. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-8-c"
     src: "figures/fig-15-8-c.jpg"
-    label: "Figure 15.8c"
+    label: "Figure 15.8C"
     caption: "Detail of figure 15.1b, coin pendant made of gilded stucco. Both this and figure 15.8c show a nubby surface texture, color differences in the scalloped outline, and a reddish, milky crust. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-9-a"
     src: "figures/fig-15-9-a.jpg"
-    label: "Figure 15.9a"
+    label: "Figure 15.9A"
     caption: "Detail of 15.1a, necklace hoop, right of pendant, showing surface preparation and nubby surface texture. Detroit Institute of Arts, gift of Julius H. Haass, 25.2."
     credit: "TK"
     alt: "TK"
 
   - id: "fig-15-9-b"
     src: "figures/fig-15-9-b.jpg"
-    label: "Figure 15.9b"
+    label: "Figure 15.9B"
     caption: "Detail of 15.1b, necklace hoop, left of pendant, showing surface preparation and smoother surface compared to the Detroit necklace. The Walters Art Museum, Baltimore, acquired by Henry Walters, 1912, 32.4."
     credit: "TK"
     alt: "TK"
