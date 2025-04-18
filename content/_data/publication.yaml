@@ -25,8 +25,8 @@ description:
 
     The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of Mummy Portraits of Roman Egypt compiles seventeen scholarly papers from the APPEAR conference hosted in October 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and curators presented new research on topics such as technical imaging; nondestructive analytical techniques like elemental mapping; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, binders, and supports. Some of the artworks discussed in this publication had never before been systematically studied. With the most up-to-date information available about the production, function, and history of these painted remnants of the ancient world, this volume will be a valuable resource to conservators, scientists, curators, and collectors.
 
-online_edition: | 
-    The free online edition of this open-access publication is available at getty.edu/publications/mummy-portraits/2/ and includes zoomable illustrations and graphs. Also available are free PDF and EPUB downloads of the book. 
+  online_edition: | 
+    The free online edition of this open-access publication is available at getty.edu/publications/mummy-portraits-2 and includes zoomable illustrations and graphs. Also available are free PDF and EPUB downloads of the book. 
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -187,8 +187,8 @@ contributor:
     bio: "Justyna Kwiatkowska is a graduate in chemistry at Warsaw University and authored the MA thesis “LA-ICP-MS in the Study of Heterogeneous Historic Objects.” Since 2016 she has been a conservation assistant in the Laboratory of the Conservation Department at the National Museum in Warsaw. From 2016–19 Kwiatkowska participated in the project *Henryk Siemiradzki's Corpus of Painting Works*. She conducts Oddy tests and physicochemical analyses of works of art using technological layer stratigraphy, microchemistry, and infrared reflection spectroscopy (FTIR-ATR)."
   - id: aslho
     type: secondary
-    first_name: Anne-Solenn Le
-    last_name: Hô 
+    first_name: Anne-Solenn
+    last_name: Le Hô 
     bio: "Anne-Solenn Le Hô is senior conservation scientist at the National Centre for Research and Restoration in French Museums (C2RMF/IRCP, PSL University, Paris). In charge of the painting group, she has extensive experience in interdisciplinary research on the characterization of painted materials and their interactions and alteration mechanisms. Her research interests are in the use of color and technical processes in paintings, polychrome objects, and lacquerware. She is also an associate editor, scientific member, and contributor to journals and books about cultural heritage, archaeometry, and art history."
   - id: dmahon
     type: secondary

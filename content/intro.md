@@ -11,7 +11,7 @@ Launched in 2013 by the Getty, the Ancient Panel Painting, Examination, Analysis
 
 This current volume—the proceedings from the 2022 APPEAR conference, held at the Allard Pierson in Amsterdam—presents the results of nine years of international partnerships and complements the first published volume: *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. Over a three-day period, the Allard Pierson and Getty hosted more than one hundred attendees from around the world, representing nine countries and twenty-six institutions. Seventeen speakers and a keynote address covered the latest research on the history, provenance, materials, methods, imaging, and analyses inspired by the APPEAR project. Speakers and attendees contributed expertise in art conservation, science, Egyptology, classics, art history, or simply a passion for the subject.    
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+***
 
 The APPEAR conference was launched with a keynote lecture that reviewed the status of the field. Heavily illustrated and with new discoveries that impact the broader technical study of antiquities, “Ancient Relationships: Bridging Mummy Portraiture to Its Past and Future” (not reproduced here) addressed the intersections of artistic production and meaning. Bringing recent investigations to light by exploring the complex production, function, and history of Romano-Egyptian painted funerary portraits, the lecture by Giovanni Verri set the stage for the broad range of topics that followed.
 
