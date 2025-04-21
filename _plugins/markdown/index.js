@@ -1,3 +1,6 @@
+// Add Markdown plugins for super and subscript
+// Lines added are 13, 14, 52, and 53
+
 const MarkdownIt = require('markdown-it')
 const anchorsPlugin = require('markdown-it-anchor')
 const attributesPlugin = require('markdown-it-attrs')
@@ -7,6 +10,8 @@ const deflistPlugin = require('markdown-it-deflist')
 const footnotePlugin = require('markdown-it-footnote')
 const { footnoteRef, footnoteTail } = require('./footnotes')
 const removeMarkdown = require('remove-markdown')
+const superscriptPlugin = require('markdown-it-sup')
+const subscriptPlugin = require('markdown-it-sub')
 
 /**
  * An Eleventy plugin to configure the markdown library
@@ -44,6 +49,8 @@ module.exports = function(eleventyConfig, options) {
     .use(bracketedSpansPlugin)
     .use(deflistPlugin)
     .use(footnotePlugin)
+    .use(superscriptPlugin)
+    .use(subscriptPlugin)
 
   /**
    * Set recognition options for links without a schema

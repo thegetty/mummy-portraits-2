@@ -25,8 +25,8 @@ description:
 
     The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of Mummy Portraits of Roman Egypt compiles seventeen scholarly papers from the APPEAR conference hosted in October 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and curators presented new research on topics such as technical imaging; nondestructive analytical techniques like elemental mapping; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, binders, and supports. Some of the artworks discussed in this publication had never before been systematically studied. With the most up-to-date information available about the production, function, and history of these painted remnants of the ancient world, this volume will be a valuable resource to conservators, scientists, curators, and collectors.
 
-online_edition: | 
-    The free online edition of this open-access publication is available at getty.edu/publications/mummy-portraits/2/ and includes zoomable illustrations and graphs. Also available are free PDF and EPUB downloads of the book. 
+  online_edition: | 
+    The free online edition of this open-access publication is available at getty.edu/publications/mummy-portraits-2 and includes zoomable illustrations and graphs. Also available are free PDF and EPUB downloads of the book. 
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -187,8 +187,8 @@ contributor:
     bio: "Justyna Kwiatkowska is a graduate in chemistry at Warsaw University and authored the MA thesis “LA-ICP-MS in the Study of Heterogeneous Historic Objects.” Since 2016 she has been a conservation assistant in the Laboratory of the Conservation Department at the National Museum in Warsaw. From 2016–19 Kwiatkowska participated in the project *Henryk Siemiradzki's Corpus of Painting Works*. She conducts Oddy tests and physicochemical analyses of works of art using technological layer stratigraphy, microchemistry, and infrared reflection spectroscopy (FTIR-ATR)."
   - id: aslho
     type: secondary
-    first_name: Anne-Solenn Le
-    last_name: Hô 
+    first_name: Anne-Solenn
+    last_name: Le Hô 
     bio: "Anne-Solenn Le Hô is senior conservation scientist at the National Centre for Research and Restoration in French Museums (C2RMF/IRCP, PSL University, Paris). In charge of the painting group, she has extensive experience in interdisciplinary research on the characterization of painted materials and their interactions and alteration mechanisms. Her research interests are in the use of color and technical processes in paintings, polychrome objects, and lacquerware. She is also an associate editor, scientific member, and contributor to journals and books about cultural heritage, archaeometry, and art history."
   - id: dmahon
     type: secondary
@@ -265,11 +265,6 @@ contributor:
     first_name: Corina
     last_name: Rogge
     bio: "Corina Rogge is a conservation scientist and director of conservation at the Menil Collection. She earned a BA in chemistry from Bryn Mawr College, a PhD in Chemistry from Yale University, and held postdoctoral positions at the University of Wisconsin-Madison and the University of Texas Health Sciences Center. Before joining the Menil Collection in 2023 Rogge served as the Andrew W. Mellon Research Scientist at the Museum of Fine Arts, Houston (MFAH) and the Menil Collection (2013–23), and the Andrew W. Mellon Assistant Professor in Conservation Science in the Department of Art Conservation at State University of New York Buffalo State College (2010–13). She is the vice president and fellow of the American Institute for Conservation and an associate editor for the *Journal of the American Institute for Conservation*. She works on materials across all cultures, media, and ages, and is a coauthor of *Franz Kline: The Artist’s Materials* (GCI, 2022)."
-  - id: crogge 
-    type: secondary
-    first_name: Corina
-    last_name: Rogge
-    bio: "Corina Rogge is a conservation scientist and director of conservation at the Menil Collection. She earned a BA in chemistry from Bryn Mawr College, a PhD in Chemistry from Yale University, and held postdoctoral positions at the University of Wisconsin-Madison and the University of Texas Health Sciences Center. Before joining the Menil Collection in 2023 Rogge served as the Andrew W. Mellon Research Scientist at the Museum of Fine Arts, Houston (MFAH) and the Menil Collection (2013–23), and the Andrew W. Mellon Assistant Professor in Conservation Science in the Department of Art Conservation at State University of New York Buffalo State College (2010–13). She is the vice president and fellow of the American Institute for Conservation and an associate editor for the *Journal of the American Institute for Conservation*. She works on materials across all cultures, media, and ages, and is a coauthor of *Franz Kline: The Artist’s Materials* (GCI, 2022)."
   - id: rsabino 
     type: secondary
     first_name: Rachel
@@ -320,11 +315,6 @@ contributor:
     first_name: Aleksandra
     last_name: Sulikowska-Bełczowska 
     bio: "Jens Stenger is a senior scientist at the Ny Carlsberg Glyptotek in Copenhagen, where he conducts research on the polychromy of ancient artifacts. He earned his PhD in physics at Humboldt-Universität zu Berlin and was a postdoctoral researcher at the University of California, Berkeley. He has held positions at the Straus Center for Conservation and Technical Studies at the Harvard Art Museums, the Institute for the Preservation of Cultural Heritage at Yale University, the Swiss Institute for Art Research, and the Cologne Institute of Conservation Sciences."
-  - id: asbelczowska 
-    type: secondary
-    first_name: Aleksandra
-    last_name: Sulikowska-Bełczowska 
-    bio: "Aleksandra Sulikowska-Bełczowska is a curator of the Collection of Ancient Art and the Collection of Eastern Christian Art at the National Museum in Warsaw, where she oversees Nubian, Coptic, and Ethiopian collections, as well as the Collection of Icons and Byzantine Crafts. She is also a professor in the Institute of Art History at the University of Warsaw. Sulikowska-Bełczowska has authored books and papers on the cult of images in late antique and eastern Christian art and on the iconography of the icons and wall paintings in Orthodox art."
   - id: ksutherland  
     type: secondary
     first_name: Ken
