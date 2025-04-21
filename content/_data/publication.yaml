@@ -408,9 +408,9 @@ contributor:
 copyright: © 2026 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
   scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
