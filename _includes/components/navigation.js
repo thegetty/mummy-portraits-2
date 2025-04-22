@@ -1,4 +1,7 @@
-//Change truncation from 34 characters to 40, line 39
+//
+// CUSTOMIZED FILE
+// Change truncation from 34 characters to 40, line 42
+//
 
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
