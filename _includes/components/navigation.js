@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Change truncation from 34 characters to 40, line 42
+//
+
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
 
@@ -34,7 +39,7 @@ module.exports = function(eleventyConfig) {
     const isHomePage = currentPage.url === home
 
     const navBarLabel = ({ label, short_title, title }) => {
-      return pageTitle({ label, title: short_title || truncate(title, 34)})
+      return pageTitle({ label, title: short_title || truncate(title, 40)})
     }
 
     const navBarStartButton = () => {
