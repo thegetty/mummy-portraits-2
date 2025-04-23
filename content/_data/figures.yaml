@@ -1935,8 +1935,8 @@ figure_list:
   - id: "fig-17-12"
     src: "figures/fig-17-12.jpg"
     label: "Figure 17.12"
-    caption: "X-radiograph of Saint Louis Art Museum."
-    credit: "TK"
+    caption: "(A) X-radiograph of Saint Louis Art Museum; (B) X-radiograph of Harvard Art Museums; (C) Elemental lead Lα XRF scanning map of Yale University Art Gallery; (D) X-radiograph of Smith College Museum of Art."
+    credit: "(A) TK; (B) TK; (C) Photo: Yale University Art Gallery; (D) TK"
     alt: "TK"
 
   - id: "fig-17-13"
