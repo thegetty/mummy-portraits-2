@@ -7,3 +7,4 @@ toc: false
 image: spiral-overlay.png
 ---
 
+{{ publication.description.full }}
