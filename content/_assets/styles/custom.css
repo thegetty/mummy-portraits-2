@@ -24,3 +24,21 @@
     right: -130px;
   }
 }
+
+/* FIGURES
+============================================================================= */
+/* Fix display of annotations controls inline and in lightbox */
+.annotations-ui__input-wrapper {
+  display: inline-block;
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+q-lightbox .q-figure-slides__slide-ui {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+}
+q-lightbox .q-figure-slides__slide-ui form {
+  width: 100%;
+}
