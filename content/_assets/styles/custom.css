@@ -47,3 +47,32 @@ q-lightbox .q-figure-slides__slide-ui form {
 .content .q-figure canvas-panel {
   pointer-events: none;
 }
+
+/* Fix styling of very tall figure images */
+@media screen {
+  .content figure img.q-figure__image {
+    max-height: 80vh;
+    width: auto;
+  }
+  .content figure.screen-side-by-side {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto 1fr;
+    grid-gap: 1rem;
+  } 
+  .content figure.screen-side-by-side > *:first-child {
+    grid-row: 1 / 3;
+  }
+  .content figure.screen-side-by-side > *:last-child {
+    grid-column-start: 2;
+  }
+  .content figure.screen-side-by-side .q-figure__caption {
+    margin-top: 0;
+  }
+}
+@media print {
+  .content figure img.q-figure__image {
+    max-height: 7in;
+    width: auto;
+  }
+}
