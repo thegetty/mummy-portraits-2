@@ -42,3 +42,8 @@ q-lightbox .q-figure-slides__slide-ui {
 q-lightbox .q-figure-slides__slide-ui form {
   width: 100%;
 }
+
+/* Ensure users can scroll past inline canvas-panel elements */
+.content .q-figure canvas-panel {
+  pointer-events: none;
+}
