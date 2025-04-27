@@ -70,5 +70,8 @@ Use local contributor sort_as value if given
 **_plugins/markdown/index.js**
 Add plugins for subscript and superscript
 
+**_plugins/shortcodes/contributors.js**
+Fix contributor list oxford commas issue
+
 **_includes/components/navigation.js** 
 Change truncation from 34 characters to 40
