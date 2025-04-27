@@ -64,6 +64,9 @@ TK
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
 
+**_plugins/filters/getContributor.js**
+Use local contributor sort_as value if given
+
 **_plugins/markdown/index.js**
 Add plugins for subscript and superscript
 

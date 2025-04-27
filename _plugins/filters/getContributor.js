@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Include local sort_as value if given, lines 34–35
+//
 const chalkFactory = require('~lib/chalk')
 
 const logger = chalkFactory('filters:getContributor')
@@ -26,5 +30,9 @@ module.exports = function (eleventyConfig, item) {
     logger.error(`Contributor not found in 'publication.yaml.' Contributor: `, item)
     return ''
   }
+
+  // Add local sort_as value if one is provided
+  item.sort_as ? contributor.sort_as = item.sort_as : ''
+
   return contributor
 }
