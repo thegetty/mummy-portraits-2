@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: page
+layout: essay
 contributor: 
     - id: msvoboda
     - id: ccartwright
