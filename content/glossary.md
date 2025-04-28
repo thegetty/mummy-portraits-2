@@ -1,6 +1,8 @@
 ---
 title: Glossary
 layout: page
+classes:
+  - backmatter
 contributor: 
 order: 180
 ---

@@ -25,6 +25,19 @@
   }
 }
 
+/* GENERAL PAGE & TYPE STYLES
+============================================================================= */
+/* Use a custom .backmatter class to make pages 2-column in PDF */
+@media print {
+  .backmatter .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
 /* FIGURES
 ============================================================================= */
 /* Fix display of annotations controls inline and in lightbox */
