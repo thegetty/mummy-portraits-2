@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Display annotated image ui inline on page, not just modal
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -10,6 +14,7 @@ const path = require('path')
  * @return     {String}  HTML containing  a `figureImageElement`, a caption and annotations UI
  */
 module.exports = function(eleventyConfig) {
+  const annotationsUI = eleventyConfig.getFilter('annotationsUI')
   const figureCaption = eleventyConfig.getFilter('figureCaption')
   const figureImageElement = eleventyConfig.getFilter('figureImageElement')
   const figureLabel = eleventyConfig.getFilter('figureLabel')
@@ -27,6 +32,7 @@ module.exports = function(eleventyConfig) {
       label
     } = figure
 
+    const annotationsElement = annotationsUI({ figure })
     const labelElement = figureLabel({ id, label, isSequence })
 
     /**
@@ -39,6 +45,7 @@ module.exports = function(eleventyConfig) {
 
     return html`
       ${imageElement}
+      ${annotationsElement}
       ${captionElement}
     `
   }

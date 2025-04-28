@@ -1,3 +1,7 @@
+<!--
+## CUSTOMIZED FILE
+## Add cc icons to PDF output, line 25
+-->
 <!doctype html>
 <html>
   <head>
@@ -16,6 +20,8 @@
   This template renders the `pages` property of the data passed to it. 
   `pages` is an array of `section` elements from each PDF-having page in the publication.
   {% endcomment %}
+
+  {% iconscc %}
 
   {% for page in pages %}
     {% if forloop.first == true %}

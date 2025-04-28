@@ -1,6 +1,8 @@
 ---
 title: Contributors
 layout: page
+classes:
+  - backmatter
 order: 210
 ---
 

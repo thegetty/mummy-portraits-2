@@ -1808,7 +1808,7 @@ figure_list:
   - id: "fig-16-10"
     src: "figures/fig-16-10.jpg"
     label: "Figure 16.10"
-    caption: "Schematic visualization of the XRF results with thirty-four measurement spots. The dimensions of the spots are shown against the size of the entire object. Recorded spectra are presented in the form of a colorful matrix. The scale (**TK -- inline image**) reflects the relative variation in the intensity of the signals from the lowest (white) to the highest (red). In all analyzed spots, the signals of two elements were observed: iron (Fe, lines Kα, and K) and lead (Pb, lines Lα, Lβ, Lγ, and M). Such elemental information is consistent with the presence of lead white pigment. Bright green dots over the portrait indicate spots of FTIR."
+    caption: "Schematic visualization of the XRF results with thirty-four measurement spots. The dimensions of the spots are shown against the size of the entire object. Recorded spectra are presented in the form of a colorful matrix. The scale (**min** <span id='fig-16-10-color-scale'></span> **max**) reflects the relative variation in the intensity of the signals from the lowest (white) to the highest (red). In all analyzed spots, the signals of two elements were observed: iron (Fe, lines Kα, and K) and lead (Pb, lines Lα, Lβ, Lγ, and M). Such elemental information is consistent with the presence of lead white pigment. Bright green dots over the portrait indicate spots of FTIR."
     credit: "Chart: Barbara Wagner"
     alt: "TK"
 

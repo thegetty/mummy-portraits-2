@@ -64,8 +64,27 @@ TK
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
 
+**_includes/components/figure/image/html.js**
+Display annotated image ui inline on page, not just modal
+
+**_includes/components/figure/image/print.js**
+Add all annotation image layers to PDF output
+
+**_includes/components/icons-cc/index.js**
+**_layouts/pdf.liquid**
+Add cc icons to PDF output
+
+**_includes/components/lightbox/data.js**
+Fix errant duplication of caption in lightbox data
+
+**_plugins/filters/getContributor.js**
+Use local contributor sort_as value if given
+
 **_plugins/markdown/index.js**
 Add plugins for subscript and superscript
+
+**_plugins/shortcodes/contributors.js**
+Fix contributor list oxford commas issue
 
 **_includes/components/navigation.js** 
 Change truncation from 34 characters to 40
