@@ -91,6 +91,40 @@ q-lightbox .q-figure-slides__slide-ui form {
   color: white;
 }
 
+/* Handle checkbox and radio annotation image layers in print
+  See _includes/components/figure/image/print.js */
+  @media print {
+  .q-figure .q-figure__layers-group--checkbox {
+    position: relative;
+  }
+  .q-figure .q-figure__layers-group--checkbox .q-figure__image:not(:first-child) {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .q-figure .q-figure__layers-group--radio {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--5 .q-figure__image {
+    width: 20%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--4 .q-figure__image {
+    width: 25%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--3 .q-figure__image {
+    width: 33%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--2 .q-figure__image {
+    width: 50%;
+  }
+  /* https://stackoverflow.com/questions/36230944/prevent-flex-items-from-overflowing-a-container */
+  .q-figure .q-figure__layers-group--radio .q-figure__image {
+    min-width: 0;
+  }
+}
+
 /* Add special color bar graphic inside fig. 16.10 caption */
 #fig-16-10-color-scale {
   width: 8em;

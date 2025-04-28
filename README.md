@@ -67,6 +67,9 @@ Updated licensing language
 **_includes/components/figure/image/html.js**
 Display annotated image ui inline on page, not just modal
 
+**_includes/components/figure/image/print.js**
+Add all annotation image layers to PDF output
+
 **_includes/components/icons-cc/index.js**
 **_layouts/pdf.liquid**
 Add cc icons to PDF output

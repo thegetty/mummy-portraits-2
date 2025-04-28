@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Add all annotation image layers to PDF output, lines 24–66
+// css is used to stack or grid them
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -16,11 +21,53 @@ module.exports = function(eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function(figure) {
-    const { alt, caption, credit, id, label, src, staticInlineFigureImage } = figure
-
-    if (!src && !staticInlineFigureImage) return ''
+    const { alt, annotations=[], caption, credit, id, label, src, staticInlineFigureImage } = figure
 
     const labelElement = figureLabel({ caption, id, label })
+
+    if (annotations.length > 0) { 
+
+      let lengthClass = ''
+      let itemsLength = annotations[0].items.length
+      if (itemsLength % 5 === 0) {
+        lengthClass = `q-figure__layers-group--5`
+      } else if (itemsLength % 4 === 0) {
+        lengthClass = `q-figure__layers-group--4`
+      } else if (itemsLength % 3 === 0) {
+        lengthClass = `q-figure__layers-group--3`
+      } else if (itemsLength % 2 === 0) {
+        lengthClass = `q-figure__layers-group--2`
+      } else {
+        lengthClass = `q-figure__layers-group--1`
+      }
+
+      for (const annotation of annotations) {
+
+        let baseLayer = ''
+        if (annotation.input == 'checkbox') {
+          const baseSrc = path.join(imageDir, src)
+          baseLayer = html`<img alt="${alt}" class="q-figure__image" src="${baseSrc}" />`
+        }
+
+        let layers = '';
+        for (const item of annotation.items) {
+          const layerSrc = path.join(imageDir, item.src)
+          layers += html`<img alt="" class="q-figure__image" src="${layerSrc}" />`
+        }
+
+        return html`
+          <div class="q-figure__layers-group q-figure__layers-group--${annotation.input} ${lengthClass}">
+            ${baseLayer}
+            ${layers}
+          </div>
+          ${figureCaption({ caption, content: labelElement, credit })}
+        `
+      }
+    }
+
+    // this has to come after annotations, because radio-button
+    // annotations don't have any src
+    if (!src && !staticInlineFigureImage) return ''
 
     let imageSrc
 
