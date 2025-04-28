@@ -76,3 +76,13 @@ q-lightbox .q-figure-slides__slide-ui form {
     width: auto;
   }
 }
+
+/* Add special color bar graphic inside fig. 16.10 caption */
+#fig-16-10-color-scale {
+  width: 8em;
+  height: .875em;
+  display: inline-block;
+  background: linear-gradient(90deg,rgba(255, 255, 255, 1) 0%, rgba(7, 27, 68, 1) 50%, rgba(255, 0, 0, 1) 100%);
+  top: 1px;
+  position: relative;
+}
