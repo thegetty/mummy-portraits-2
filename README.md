@@ -67,6 +67,10 @@ Updated licensing language
 **_includes/components/figure/image/html.js**
 Display annotated image ui inline on page, not just modal
 
+**_includes/components/icons-cc/index.js**
+**_layouts/pdf.liquid**
+Add cc icons to PDF output
+
 **_includes/components/lightbox/data.js**
 Fix errant duplication of caption in lightbox data
 

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add cc icons to PDF output, line 34
+//
 const fs = require('fs')
 const path = require('path')
 const { html } = require('~lib/common-tags')
@@ -27,7 +31,7 @@ module.exports = function(eleventyConfig) {
       })
 
     return html`
-      <svg style="display:none" data-outputs-exclude="epub,pdf">
+      <svg style="display:none" data-outputs-exclude="epub">
         ${ccIcons.join(' ')}
       </svg>
     `
