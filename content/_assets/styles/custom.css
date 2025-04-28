@@ -152,13 +152,5 @@ q-lightbox .q-figure-slides__slide-ui form {
 ============================================================================= */
 /*Get rid of decorative quote */
 .quire-page__content .container .content blockquote p:first-child:before, .quire-page__content .container .content blockquote ul:first-child:before, .quire-page__content .container .content blockquote ol:first-child:before, .quire-page__content .container .content blockquote dl:first-child:before, .quire-page__content .container .content blockquote h1:first-child:before, .quire-page__content .container .content blockquote h2:first-child:before, .quire-page__content .container .content blockquote h3:first-child:before, .quire-page__content .container .content blockquote h4:first-child:before, .quire-page__content .container .content blockquote h5:first-child:before, .quire-page__content .container .content blockquote h6:first-child:before {
-  color: #d9d9d9;
-  font-size: 5em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  content: "“";
-  position: absolute;
-  top: 0.35em;
-  left: -0.55em;
   display: none;
 }
