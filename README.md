@@ -67,6 +67,9 @@ Updated licensing language
 **_includes/components/figure/image/html.js**
 Display annotated image ui inline on page, not just modal
 
+**_includes/components/lightbox/data.js**
+Fix errant duplication of caption in lightbox data
+
 **_plugins/filters/getContributor.js**
 Use local contributor sort_as value if given
 

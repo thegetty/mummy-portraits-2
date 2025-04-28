@@ -77,6 +77,20 @@ q-lightbox .q-figure-slides__slide-ui form {
   }
 }
 
+/* Improve legibility of caption in lightbox modal */
+.q-figure-slides__slide-ui {
+  font-size: 1rem;
+  padding-bottom: 0;
+}
+.q-lightbox-slides__caption, 
+.q-figure-slides__slide-ui .annotations-ui {
+  background: rgba(0, 0, 0, 0.8);
+  padding: .75rem 2rem 2rem;
+}
+.q-lightbox-slides__caption strong {
+  color: white;
+}
+
 /* Add special color bar graphic inside fig. 16.10 caption */
 #fig-16-10-color-scale {
   width: 8em;

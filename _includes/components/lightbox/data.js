@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fix errant duplication of caption in lightbox data, line 52
+//
 const path = require('path')
 const { html } = require('~lib/common-tags')
 
@@ -45,7 +49,7 @@ module.exports = function(eleventyConfig) {
       const annotationsElementContent = !isSequence ? annotationsUI({ figure: fig, lightbox: true }) : undefined
       const labelHtml = label ? markdownify(label) : undefined 
       const captionHtml = caption ? markdownify(caption) : undefined
-      const creditHtml = credit ? markdownify(caption) : undefined
+      const creditHtml = credit ? markdownify(credit) : undefined
       const sluggedId = slugify(id)
 
       let mapped = { ...fig, 
