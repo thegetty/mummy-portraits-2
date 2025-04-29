@@ -154,3 +154,18 @@ q-lightbox .q-figure-slides__slide-ui form {
 .quire-page__content .container .content blockquote p:first-child:before, .quire-page__content .container .content blockquote ul:first-child:before, .quire-page__content .container .content blockquote ol:first-child:before, .quire-page__content .container .content blockquote dl:first-child:before, .quire-page__content .container .content blockquote h1:first-child:before, .quire-page__content .container .content blockquote h2:first-child:before, .quire-page__content .container .content blockquote h3:first-child:before, .quire-page__content .container .content blockquote h4:first-child:before, .quire-page__content .container .content blockquote h5:first-child:before, .quire-page__content .container .content blockquote h6:first-child:before {
   display: none;
 }
+
+/* Fix font sizing for table captions and footnotes */
+.content figure .q-figure__caption {
+  font-size: .75rem;
+}
+.q-lightbox-slides__element--table table + div,
+.q-figure.q-figure--table table + div {
+  font-size: .75em;
+  margin-top: .25em;
+}
+.q-lightbox-slides__element--table table + div p,
+.q-figure.q-figure--table table + div p {
+  margin-bottom: .1625em;
+  line-height: 1.6 !important;
+}
