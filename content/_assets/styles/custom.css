@@ -85,7 +85,7 @@ q-lightbox .q-figure-slides__slide-ui form {
 }
 @media print {
   .content figure img.q-figure__image {
-    max-height: 7in;
+    max-height: 3.25in;
     width: auto;
   }
 }
@@ -148,9 +148,35 @@ q-lightbox .q-figure-slides__slide-ui form {
   position: relative;
 }
 
+/* Adjust figure image heights */
+@media print {
+  .pdf-2q2in-height .q-figure__image {
+    max-height: 2.5in !important;
+    width: auto;
+  }
+  .pdf-2q3in-height .q-figure__image {
+    max-height: 2.75in !important;
+    width: auto;
+  }
+  .pdf-3in-height .q-figure__image {
+    max-height: 3in !important;
+    width: auto;
+  }
+
+  /* Set pages with .pdf-two-column to two columns */
+  .quire-page.pdf-two-column .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
 /* MISC
 ============================================================================= */
 /*Get rid of decorative quote */
 .quire-page__content .container .content blockquote p:first-child:before, .quire-page__content .container .content blockquote ul:first-child:before, .quire-page__content .container .content blockquote ol:first-child:before, .quire-page__content .container .content blockquote dl:first-child:before, .quire-page__content .container .content blockquote h1:first-child:before, .quire-page__content .container .content blockquote h2:first-child:before, .quire-page__content .container .content blockquote h3:first-child:before, .quire-page__content .container .content blockquote h4:first-child:before, .quire-page__content .container .content blockquote h5:first-child:before, .quire-page__content .container .content blockquote h6:first-child:before {
   display: none;
 }
+
