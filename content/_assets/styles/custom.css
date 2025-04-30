@@ -162,6 +162,55 @@ q-lightbox .q-figure-slides__slide-ui form {
     max-height: 3in !important;
     width: auto;
   }
+  .pdf-3q2in-height .q-figure__image {
+    max-height: 3.5in !important;
+    width: auto;
+  }
+  .pdf-3q3in-height .q-figure__image {
+    max-height: 3.75in !important;
+    width: auto;
+  }
+  .pdf-4in-height .q-figure__image {
+    max-height: 4in !important;
+    width: auto;
+  }
+  .pdf-5in-height .q-figure__image {
+    max-height: 5in !important;
+    width: auto;
+  }
+  .pdf-6in-height .q-figure__image {
+    max-height: 6in !important;
+    width: auto;
+  }
+  .pdf-7in-height .q-figure__image {
+    max-height: 7in !important;
+    width: auto;
+  }
+  
+  @media print{
+  /* Adjust figure table widths */
+    .q-figure.pdf-table-scale-4 {
+      font-size: 0.4rem;
+    }
+    .q-figure.pdf-table-scale-5 {
+      font-size: 0.5rem;
+    }
+    .q-figure.pdf-table-scale-6 {
+      font-size: 0.6rem;
+    }
+    .q-figure.pdf-table-scale-7 {
+      font-size: 0.7rem;
+    }
+    .q-figure.pdf-table-scale-8 {
+      font-size: 0.8rem;
+    }
+  
+  /* Limit image size in tables to .5 in wide */
+    table img {
+      max-width: 0.5in !important;
+      height: auto;
+    }
+  }
 
   /* Set figure images to span both columns and to float to top, only works with prince */
   .q-figure.pdf-two-column-width {
