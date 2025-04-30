@@ -163,13 +163,12 @@ q-lightbox .q-figure-slides__slide-ui form {
     width: auto;
   }
 
-  /* Set pages with .pdf-two-column to two columns */
-  .quire-page.pdf-two-column .quire-page__content {
-    column-count: 2;
-    column-fill: balance;
-    column-gap: 0.1875in;
-    max-width: 100%;
-    margin: 0;
+  /* Set figure images to span both columns and to float to top, only works with prince */
+  .q-figure.pdf-two-column-width {
+    column-span: all;
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
   }
 }
 
@@ -180,3 +179,17 @@ q-lightbox .q-figure-slides__slide-ui form {
   display: none;
 }
 
+/* Fix font sizing for table captions and footnotes */
+.content figure .q-figure__caption {
+  font-size: .75rem;
+}
+.q-lightbox-slides__element--table table + div,
+.q-figure.q-figure--table table + div {
+  font-size: .75em;
+  margin-top: .25em;
+}
+.q-lightbox-slides__element--table table + div p,
+.q-figure.q-figure--table table + div p {
+  margin-bottom: .1625em;
+  line-height: 1.6 !important;
+}

@@ -115,7 +115,7 @@ figure_list:
   - id: "fig-2-3"
     src: "figures/fig-2-3.jpg"
     label: "Figure 2.3"
-    caption: "(A) Portrait of a woman, Antinoöpolis, ca. 150 CE. Encaustic on sycomore fig, 37 × 17 × 1 cm (14.5 × 6.7 × 0.4 in). B : Distribution of the waxy binder used. HSI-SWIR: λ = 2210 nm (ν~s ~+ δ CH from wax), extracted from a resized data cube (2241–2360 nm) after application of a continuum removal. Data treatment realized with Envie software. &#40;C) MA‑XRF imaging showing the distribution of lead (Pb Lα) attributed to the presence of lead white. Paris, Musée du Louvre, département des Antiquités égyptiennes, E 12569."
+    caption: "(A) Portrait of a woman, Antinoöpolis, ca. 150 CE. Encaustic on sycomore fig, 37 × 17 × 1 cm (14.5 × 6.7 × 0.4 in). (B) Distribution of the waxy binder used. HSI-SWIR: λ = 2210 nm (ν~s ~+ δ CH from wax), extracted from a resized data cube (2241–2360 nm) after application of a continuum removal. Data treatment realized with Envie software. &#40;C) MA‑XRF imaging showing the distribution of lead (Pb Lα) attributed to the presence of lead white. Paris, Musée du Louvre, département des Antiquités égyptiennes, E 12569."
     credit: "Photos: (A) © C2RMF / Anne Maigret; (B) and &#40;C): © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
 
@@ -372,7 +372,7 @@ figure_list:
   - id: "fig-4-13"
     src: "figures/fig-4-13.jpg"
     label: "Figure 4.13"
-    caption: "(A) VIVL image of the upper half of the Hathor shroud showing the luminescent response of madder lake (bright orange) (Canon EOS 5D Mark II [modified], CrimeScope CS-16-500W [535 nm], Tiffen 23a red filter). (B) Emission and excitation spectra for an original pink paint layer from Hathor shroud. Emission spectra (black traces) at 510 (d), 490 (e), and 470 (f) nm excitation. Excitation spectra (red traces) at 600 (a), 620 (b), and 640 &#40;C) nm emission. The range of peak excitation for madder lake is denoted in blue. Hay Collection—Gift of C. Granville Way."
+    caption: "(A) VIVL image of the upper half of the Hathor shroud showing the luminescent response of madder lake (bright orange) (Canon EOS 5D Mark II [modified], CrimeScope CS-16-500W [535 nm], Tiffen 23a red filter). (B) Emission and excitation spectra for an original pink paint layer from Hathor shroud. Emission spectra (black traces) at 510 (d), 490 (e), and 470 (f) nm excitation. Excitation spectra (red traces) at 600 (a), 620 (b), and 640 &#40;c) nm emission. The range of peak excitation for madder lake is denoted in blue. Hay Collection—Gift of C. Granville Way."
     credit: "Photo: © 2022 Museum of Fine Arts, Boston"
     alt: "TK"
 
@@ -1270,7 +1270,7 @@ figure_list:
   - id: "fig-12-22"
     src: "figures/fig-12-22.jpg"
     label: "Figure 12.22"
-    caption: "Photomicrographs showing red fibers embedded in the paint layer. A and (B) Portrait of a Boy Eutyches (Portrait H); &#40;C) Portrait of a man with a mole on his nose (Portrait B); and (D) Portrait of a young woman in red (Portrait F)."
+    caption: "Photomicrographs showing red fibers embedded in the paint layer. (A) and (B) Portrait of a Boy Eutyches (Portrait H); &#40;C) Portrait of a man with a mole on his nose (Portrait B); and (D) Portrait of a young woman in red (Portrait F)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
@@ -1474,7 +1474,7 @@ figure_list:
   - id: "fig-13-15"
     src: "figures/fig-13-15.jpg"
     label: "Figure 13.15"
-    caption: "Scarf detail, ISAC E2053, visible (left) and VIL (right) image. Points (a) and (b) show gray areas that are visually similar but executed with different concentrations of EB. Institute for the Study of Ancient Cultures of the University of Chicago."
+    caption: "Scarf detail, ISAC E2053, visible (left) and VIL (right) image. Points (A) and (B) show gray areas that are visually similar but executed with different concentrations of EB. Institute for the Study of Ancient Cultures of the University of Chicago."
     credit: "Photos: G. Verri"
     alt: "TK"
 
@@ -1488,7 +1488,7 @@ figure_list:
   - id: "fig-13-17"
     src: "figures/fig-13-17.jpg"
     label: "Figure 13.17"
-    caption: "Detail of MN 0251’s garment. Visible (left) and VIL (right) image; (a) white paint not rich in EB; (b) white paint rich in EB, and &#40;c) translucent gray paint rich in EB. Collection of Susan and Lew Manilow."
+    caption: "Detail of MN 0251’s garment. Visible (left) and VIL (right) image; (A) white paint not rich in EB; (B) white paint rich in EB, and &#40;C) translucent gray paint rich in EB. Collection of Susan and Lew Manilow."
     credit: "Photos: G. Verri"
     alt: "TK"
 
@@ -1555,14 +1555,14 @@ figure_list:
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
     label: "Figure 14.4"
-    caption: "X-radiograph revealing greater radio-opacity associated with the M-shaped lines of Egyptian blue seen in the VIL image (fig. 14.2) and the greater thicknesses of the relief decorations, including those visible in the Cu distribution map (fig. 14.3a). Settings: 60kV; 3mA; 5 second exposure; film."
+    caption: "X-radiograph revealing greater radio-opacity associated with the M-shaped lines of Egyptian blue seen in the VIL image (fig. 14.2) and the greater thicknesses of the relief decorations, including those visible in the Cu distribution map (fig. 14.3A). Settings: 60kV; 3mA; 5 second exposure; film."
     credit: "Photo: J. Rogers, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
   - id: "fig-14-5"
     src: "figures/fig-14-5.jpg"
     label: "Figure 14.5"
-    caption: "Photomicrograph showing blue particles visible in the paint surface of the highlight under the sitter’s right eye, corresponding to the regions with VIL responses for Egyptian blue (fig. 14.2) and XRF responses for copper (fig. 14.3a), as seen in the stereobinocular microscope with fiber optic illumination."
+    caption: "Photomicrograph showing blue particles visible in the paint surface of the highlight under the sitter’s right eye, corresponding to the regions with VIL responses for Egyptian blue (fig. 14.2) and XRF responses for copper (fig. 14.3A), as seen in the stereobinocular microscope with fiber optic illumination."
     credit: "Photo: S. Spence, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
@@ -1935,8 +1935,8 @@ figure_list:
   - id: "fig-17-12"
     src: "figures/fig-17-12.jpg"
     label: "Figure 17.12"
-    caption: "X-radiograph of Saint Louis Art Museum."
-    credit: "TK"
+    caption: "(A) X-radiograph of Saint Louis Art Museum; (B) X-radiograph of Harvard Art Museums; (C) Elemental lead Lα XRF scanning map of Yale University Art Gallery; (D) X-radiograph of Smith College Museum of Art."
+    credit: "(A) TK; (B) TK; (C) Photo: Yale University Art Gallery; (D) TK"
     alt: "TK"
 
   - id: "fig-17-13"
