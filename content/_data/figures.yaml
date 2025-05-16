@@ -29,14 +29,14 @@ figure_list:
     alt: "TK"
 
   - id: "fig-1-5"
-    src: "figures/fig-1-5.jpg"
+    src: "figures/fig-1-5.png"
     label: "Figure 1.5"
     caption: "VIL image of the Fragment (lower half of the face). Allard Pierson, University of Amsterdam, APM08654."
     credit: "Photo: VIL image acquired by Luc Megens with the VSC8000 imaging system"
     alt: "TK"
 
   - id: "fig-1-6"
-    src: "figures/fig-1-6.jpg"
+    src: "figures/fig-1-6.png"
     label: "Figure 1.6"
     caption: "VIL image of the Fragment (forehead and hairline). Allard Pierson, University of Amsterdam, APM08654."
     credit: "Allard Pierson, Amsterdam. APM08654. Photo: VIL image acquired by Luc Megens with the VSC8000 imaging system"
@@ -1933,11 +1933,24 @@ figure_list:
     alt: "TK"
  
   - id: "fig-17-12"
-    src: "figures/fig-17-12.jpg"
     label: "Figure 17.12"
     caption: "(A) X-radiograph of Saint Louis Art Museum; (B) X-radiograph of Harvard Art Museums; (C) Elemental lead Lα XRF scanning map of Yale University Art Gallery; (D) X-radiograph of Smith College Museum of Art."
     credit: "(A) TK; (B) TK; (C) Photo: Yale University Art Gallery; (D) TK"
-    alt: "TK"
+    annotations:
+    - input: radio
+      items:
+      - label: "Figure 17.12A"
+        src: "figures/fig-17-12-a.jpg"
+        alt: 
+      - label: "Figure 17.12B"
+        src: "figures/fig-17-12-b.jpg"
+        alt:
+      - label: "Figure 17.12C"
+        src: "figures/fig-17-12-c.jpg"
+        alt: 
+      - label: "Figure 17.12D"
+        src: "figures/fig-17-12-d.jpg"
+        alt: 
 
   - id: "fig-17-13"
     src: "figures/fig-17-13.jpg"
