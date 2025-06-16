@@ -38,6 +38,145 @@
   }
 }
 
+/* COVER
+============================================================================= */
+
+/* Custom cover slideshow animation */
+.quire-cover__overlay {
+  height: calc((95vh - 3rem) * .5);
+  min-height: calc((95vh - 3rem) * .5);
+  width: 50vw;
+}
+.quire-cover__overlay img {
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position:absolute;
+  left:0;
+  transition: opacity 1s ease-in-out;
+  animation-name: FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 16s;
+}
+.quire-cover__overlay img {
+  object-fit: none;
+}
+.quire-cover__overlay.upper-left img {
+  object-position: bottom right;
+}
+.quire-cover__overlay.upper-right {
+  left: 50vw;
+}
+.quire-cover__overlay.upper-right img {
+  object-position: bottom left;
+}
+.quire-cover__overlay.lower-left {
+  top: 50%;
+}
+.quire-cover__overlay.lower-left img {
+  object-position: top right;
+}
+.quire-cover__overlay.lower-right {
+  left: 50vw;
+  top: 50%;
+}
+.quire-cover__overlay.lower-right img {
+  object-position: top left;
+}
+@keyframes FadeInOut {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.quire-cover__overlay.upper-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(2) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(3) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(4) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(5) {
+  animation-delay: 2s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(6) {
+  animation-delay: 0;
+}
+
+.quire-cover__overlay.upper-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(2) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(3) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(4) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(5) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(6) {
+  animation-delay: 2s;
+}
+
+.quire-cover__overlay.lower-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(2) {
+  animation-delay: 12s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(3) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(4) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(5) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(6) {
+  animation-delay: 4s;
+}
+
+.quire-cover__overlay.lower-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(2) {
+  animation-delay: 14s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(3) {
+  animation-delay: 12s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(4) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(5) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(6) {
+  animation-delay: 6s;
+}
+
 /* FIGURES
 ============================================================================= */
 /* Fix display of annotations controls inline and in lightbox */
