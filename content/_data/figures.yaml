@@ -279,8 +279,8 @@ figure_list:
   - id: "fig-3-17"
     src: "figures/fig-3-17.jpg"
     label: "Figure 3.17"
-    caption: "VP-SEM images of the wooden supports of ÆIN 685 (A), ÆIN 711 (B), and ÆIN 686/687 &#40;C)."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    caption: "VP-SEM images of the wooden supports of ÆIN 685 (A), ÆIN 711 (B), and ÆIN 686-687 &#40;C)."
+    credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
     alt: "TK"
 
   - id: "fig-4-1"
