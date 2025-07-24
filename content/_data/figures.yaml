@@ -39,7 +39,7 @@ figure_list:
     src: "figures/fig-1-6.jpg"
     label: "Figure 1.6"
     caption: "VIL image of the Fragment (forehead and hairline). Allard Pierson, University of Amsterdam, APM08654."
-    credit: "Allard Pierson, Amsterdam. APM08654. Photo: VIL image acquired by Luc Megens with the VSC8000 imaging system"
+    credit: "Photo: VIL image acquired by Luc Megens with the VSC8000 imaging system"
     alt: "TK"
     
   - id: "fig-1-7"
@@ -52,7 +52,7 @@ figure_list:
   - id: "fig-1-8"
     src: "figures/fig-1-8.jpg"
     label: "Figure 1.8"
-    caption: "Zeiss stereomicroscope VIS photomicrograph at 2.6x magnification showing the Lady’s left earring."
+    caption: "Zeiss stereomicroscope VIS photomicrograph at 2.6x magnification showing the Lady’s proper left earring."
     credit: "Photo: Jan van Daal"
     alt: "TK"
     
