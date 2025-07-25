@@ -429,7 +429,7 @@ figure_list:
     src: "tables/table-5-5.html"
     media_type: table
     label: "Figure 5.5"
-    caption: "Experimental Setup Used for the MBI."
+    caption: "Experimental setup used for the MBI."
     credit: "Photo: National Archaeological Museum, Athens, Greece"
     alt: "TK"
 
@@ -529,13 +529,13 @@ figure_list:
     media_type: table
     label: "Figure 5.19"
     caption: "Summary of the chemical elements detected via XRF in the three portraits."
-    credit: "TK"
+    credit: ""
 
   - id: "fig-5-20"
     src: "figures/fig-5-20.jpg"
     label: "Figure 5.20"
     caption: "Graph of the chemical composition (mean values) of the woman’s jewelry beads, according to XRF analysis."
-    credit: "TK"
+    credit: ""
     alt: "TK"
 
   - id: "fig-5-21"
@@ -599,7 +599,7 @@ figure_list:
     media_type: table
     label: "Figure 5.29"
     caption: "Pigments (P) detected via XRF in each portrait."
-    credit: "TK"
+    credit: ""
     alt: "TK"
 
   - id: "fig-6-1"
