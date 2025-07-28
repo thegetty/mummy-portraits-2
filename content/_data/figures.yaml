@@ -676,28 +676,28 @@ figure_list:
   - id: "fig-7-1"
     src: "figures/fig-7-1.jpg"
     label: "Figure 7.1"
-    caption: "Scanning electron microscope image of a radial longitudinal section of willow wood (Salix sp.) from mummy portrait 128:1951, Saint Louis Art Museum (scale in microns)."
+    caption: "Scanning electron microscope image of a radial longitudinal section of willow wood (*Salix* sp.) from mummy portrait 128:1951, Saint Louis Art Museum (scale in microns)."
     credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
     alt: "TK"
 
   - id: "fig-7-2"
     src: "figures/fig-7-2.jpg"
     label: "Figure 7.2"
-    caption: "Image of a transverse thin section of Tamarix aphylla (tamarisk) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many wide, multiseriate rays (which appear as axial orange lines in this image) and large vessels (which appear as white holes)."
+    caption: "Image of a transverse thin section of *Tamarix aphylla* (tamarisk) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many wide, multiseriate rays (which appear as axial orange lines in this image) and large vessels (which appear as white holes)."
     credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
     alt: "TK"
 
   - id: "fig-7-3"
     src: "figures/fig-7-3.jpg"
     label: "Figure 7.3"
-    caption: "Image of a transverse thin section of Ziziphus spina-christi (sidr) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many narrow, uniseriate rays (which appear as thin axial white lines in this image), numerous small vessels (some of which appear as white holes; others with deposits in them show in the image as reddish-brown contents), and the dense ground tissue made up of fibers and axial parenchyma."
+    caption: "Image of a transverse thin section of *Ziziphus spina-christi* (sidr) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many narrow, uniseriate rays (which appear as thin axial white lines in this image), numerous small vessels (some of which appear as white holes; others with deposits in them show in the image as reddish-brown contents), and the dense ground tissue made up of fibers and axial parenchyma."
     credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
     alt: "TK"
 
   - id: "fig-7-4"
     src: "figures/fig-7-4.jpg"
     label: "Figure 7.4"
-    caption: "Image of a transverse thin section of Vachellia nilotica (acacia) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many rays, one to two cells wide and four to five cells wide (which appear as axial orange lines in this image), small to medium-sized vessels (which appear as white holes), bands of parenchyma (showing as groups of white holes) in association with vessels, and extremely thick-walled fibers making up the dense ground tissue (appearing dark red in the image)."
+    caption: "Image of a transverse thin section of *Vachellia nilotica* (acacia) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details (scale in microns). Note the many rays, one to two cells wide and four to five cells wide (which appear as axial orange lines in this image), small to medium-sized vessels (which appear as white holes), bands of parenchyma (showing as groups of white holes) in association with vessels, and extremely thick-walled fibers making up the dense ground tissue (appearing dark red in the image)."
     credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
     alt: "TK"
 
@@ -713,7 +713,7 @@ figure_list:
     media_type: table
     label: "Figure 7.6"
     caption: "Wood identifications of mummy portraits, May 2023."
-    credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
+    credit: ""
     alt: "TK"
 
   - id: "fig-7-7"
@@ -721,7 +721,7 @@ figure_list:
     media_type: table
     label: "Figure 7.7"
     caption: "Wood identifications of painted panels and doors, shroud backing, mummy board, and dowels, May 2023."
-    credit: "Photo: Caroline R. Cartwright, Department of Scientific Research, British Museum. © The Trustees of the British Museum"
+    credit: ""
     alt: "TK"
 
   - id: "fig-8-1"
