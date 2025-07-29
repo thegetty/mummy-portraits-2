@@ -1074,7 +1074,7 @@ figure_list:
   - id: "fig-12-1"
     label: "Figure 12.1"
     caption: "Roman Egyptian portraits examined and analyzed. (A) Portrait of a thin-faced, bearded man; (B) Portrait of a man with a mole on his nose; &#40;C) Portrait of a thin-faced man; (D) Portrait of a youth with a surgical cut in one eye; (E) Portrait of an elderly lady with a gold wreath; (F) Portrait of a young woman in red; (G) Portrait of a young woman with a gilded wreath; (H) Portrait of the Boy Eutyches; and (I) Portrait of a woman in a blue mantle. Encaustic paint on limewood."
-    credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
+    credit: "Photos: © The Metropolitan Museum of Art, Department of Egyptian Art"
     annotations:
     - input: radio
       items:
@@ -1111,13 +1111,13 @@ figure_list:
     media_type: table
     label: "Figure 12.2"
     caption: "Portraits examined and analyzed for the present study. Images of the portraits are presented in figure 12.1."
-    credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
+    credit: "Photos: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
   - id: "fig-12-3"
     src: "figures/fig-12-3.jpg"
     label: "Figure 12.3"
-    caption: "(A) Mummy with an Inserted Panel Portrait of a Youth, encaustic paint on limewood, human remains, linen, mummification material. Detail of panel portrait as exposed 38 x 18 cm (15 x 7 1/16 in); and (B) mummy 169 x 45 cm (66 9/16 x 17 11/16 in.). The Metropolitan Museum of Art, Department of Egyptian Art, Rogers Fund, 1911.11.139."
+    caption: "Mummy with an inserted panel portrait of a youth, encaustic paint on limewood, human remains, linen, mummification material. (A) Detail of panel portrait as exposed, 38 x 18 cm (15 x 7 1/16 in); and (B) mummy, 169 x 45 cm (66 9/16 x 17 11/16 in.). The Metropolitan Museum of Art, Department of Egyptian Art, Rogers Fund, 1911.11.139."
     credit: "Photo: © The Metropolitan Museum of Art, Department of Egyptian Art"
     alt: "TK"
 
@@ -1138,29 +1138,29 @@ figure_list:
   - id: "fig-12-6"
     src: "figures/fig-12-6.jpg"
     label: "Figure 12.6"
-    caption: "Details taken in raking light illumination of (A) Portrait of a young woman in red (Portrait F); and (B) Portrait of an elderly lady with a gold wreath (Portrait E) showing the brush and tool marks in the surface of the encaustic."
+    caption: "Details taken in raking light illumination of (A) Portrait of a young woman in red (Portrait F) and (B) Portrait of an elderly lady with a gold wreath (Portrait E) showing the brush and tool marks in the surface of the encaustic."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-7"
     src: "figures/fig-12-7.jpg"
     label: "Figure 12.7"
-    caption: "(A) Detail taken in raking light of Portrait of the Boy Eutyches (Portrait H) showing brush and tool marks in the surface of the encaustic; and (B) detail of the tunic showing the reticulated edges of the inscription. The location of this detail is outlined in red in A. © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "(A) Detail taken in raking light of Portrait of the Boy Eutyches (Portrait H) showing brush and tool marks in the surface of the encaustic and (B) detail of the tunic showing the reticulated edges of the inscription. The location of this detail is outlined in red in A."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-8"
     src: "figures/fig-12-8.jpg"
     label: "Figure 12.8"
-    caption: "Details of images taken under (A) ultraviolet illumination and with (B) raking light in Portrait of a thin-faced man (Portrait C) showing the distinctive application and tooling of the highlights. © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "Details of images taken under (A) ultraviolet illumination and with (B) raking light in Portrait of a thin-faced man (Portrait C) showing the distinctive application and tooling of the highlights."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-9"
     src: "figures/fig-12-9.jpg"
     label: "Figure 12.9"
-    caption: "(A) Detail of Panel painting of a woman in a blue mantle (Portrait I) and (B) Portrait of a youth with a surgical cut in one eye (Portrait D) showing pits in the paint, likely due to air bubbles that erupted during or just after execution. (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department; (B) The Metropolitan Museum of Art, Department of Paintings Conservation."
-    credit: "Photos: (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. (B) The Metropolitan Museum of Art, Department of Paintings Conservation"
+    caption: "Detail of (A) Panel painting of a woman in a blue mantle (Portrait I) and (B) Portrait of a youth with a surgical cut in one eye (Portrait D) showing pits in the paint, likely due to air bubbles that erupted during or just after execution."
+    credit: "Photos: (A) © Eileen Travell, The Metropolitan Museum of Art, Imaging Department. (B) © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-10"
@@ -1180,14 +1180,14 @@ figure_list:
   - id: "fig-12-12"
     src: "figures/fig-12-12.jpg"
     label: "Figure 12.12"
-    caption: "Details of infrared reflectogram for Portrait of an elderly lady with a gold wreath (Portrait E). (A) The arrows point to underdrawing on the chin done with a brush, and (B) to underdrawing beneath the eye done with a reed pen. © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "Details of infrared reflectogram for Portrait of an elderly lady with a gold wreath (Portrait E). The arrows point to (A) underdrawing on the chin done with a brush and (B) underdrawing beneath the eye done with a reed pen."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
   - id: "fig-12-13"
     src: "figures/fig-12-13.jpg"
     label: "Figure 12.13"
-    caption: "X-radiographs. (A) Portrait of a thin-faced man (Portrait C); (B) Portrait of a young woman in red (Portrait F); and &#40;C) Portrait of a youth with a surgical cut in one eye (Portrait D). © The Metropolitan Museum of Art, Department of Paintings Conservation."
+    caption: "X-radiographs. (A) Portrait of a thin-faced man (Portrait C); (B) Portrait of a young woman in red (Portrait F); and &#40;C) Portrait of a youth with a surgical cut in one eye (Portrait D)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
@@ -1196,26 +1196,26 @@ figure_list:
     media_type: table
     label: "Figure 12.14"
     caption: "Preparatory layers, infrared reflectograms, and selected elemental distribution maps obtained by MA-XRF in the nine portraits analyzed for the present study."
-    credit: "TK"
+    credit: ""
     alt: "TK"
 
   - id: "fig-12-15"
     src: "figures/fig-12-15.jpg"
     label: "Figure 12.15"
-    caption: "Elemental distribution maps obtained by MA-XRF: Portrait of a young woman in red (Portrait F), (A) iron (Fe) and (E) copper (Cu); Portrait of a youth with a surgical cut in one eye (Portrait D), (B) iron and (F) copper; Portrait of an elderly lady with a gold wreath(Portrait E), &#40;C) iron and (G) copper, where the green arrow points to the copper containing bead that is likely an emerald; and Portrait of a young woman with a gilded wreath (Portrait G), (D) iron and (H) copper."
+    caption: "Elemental distribution maps obtained by MA-XRF: Portrait of a young woman in red (Portrait F), (A) iron (Fe) and (E) copper (Cu); Portrait of a youth with a surgical cut in one eye (Portrait D), (B) iron and (F) copper; Portrait of an elderly lady with a gold wreath (Portrait E), &#40;C) iron and (G) copper, where the green arrow points to the copper-containing bead that is likely an emerald; and Portrait of a young woman with a gilded wreath (Portrait G), (D) iron and (H) copper."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
   - id: "fig-12-16"
     src: "figures/fig-12-16.jpg"
     label: "Figure 12.16"
-    caption: "Portrait young woman with a gilded wreath (Portrait G), elemental distribution maps obtained by MA-XRF: (A) iron (Fe), (B) lead (Pb), and &#40;C) gold (Au)."
+    caption: "Portrait of a young woman with a gilded wreath (Portrait G), elemental distribution maps obtained by MA-XRF: (A) iron (Fe), (B) lead (Pb), and &#40;C) gold (Au)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
   - id: "fig-12-17"
     label: "Figure 12.17"
-    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area."
+    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area. Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     annotations:
     - input: radio
       items:
@@ -1235,21 +1235,21 @@ figure_list:
   - id: "fig-12-17-e"
     src: "figures/fig-12-17-e.jpg"
     label: "Figure 12.17E"
-    caption: "Amulet of Omphale (AUTHORS TO CONFIRM)."
+    caption: "Amulet of Omphale."
     credit: "Photo: © Derek J. Content Collection, 2022."
     alt: "TK"
 
   - id: "fig-12-18"
     src: "figures/fig-12-18.jpg"
     label: "Figure 12.18"
-    caption: "Elemental distribution maps obtained by MA-XRF: Elderly lady with gold wreath (Portrait E), (A) nickel (Ni) and (B) copper (Cu); Portrait young woman with gilded wreath (Portrait G), &#40;C) nickel (Ni); Portrait of the Boy Euychtes (Portrait H), (D) nickel (Ni), and (E) vanadium (V)."
+    caption: "Elemental distribution maps obtained by MA-XRF: Portrait of an elderly lady with a gold wreath (Portrait E), (A) nickel (Ni) and (B) copper (Cu); Portrait of a young woman with a gilded wreath (Portrait G), &#40;C) nickel (Ni); Portrait of the Boy Eutyches (Portrait H), (D) nickel (Ni) and (E) vanadium (V)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
   - id: "fig-12-19"
     src: "figures/fig-12-19.jpg"
     label: "Figure 12.19"
-    caption: "(A–C) Portrait of a thin-faced, bearded man (Portrait A) and (D–F) Portrait of a man with a mole on his nose (Portrait B): photographs taken with (A) and (D) raking light illumination; (B) and (E) lead (Pb) distribution maps obtained by MA-XRF; and &#40;C) and (F): combined iron (Fe) and manganese (Mn) distribution maps obtained by MA-XRF. In the combined maps, the areas where Fe and Mn co-locate appear with a greenish yellow hue."
+    caption: "(A–C) Portrait of a thin-faced, bearded man (Portrait A) and (D–F) Portrait of a man with a mole on his nose (Portrait B): photographs taken with (A) and (D) raking light illumination; (B) and (E) lead (Pb) distribution maps obtained by MA-XRF; and &#40;C) and (F) combined iron (Fe) and manganese (Mn) distribution maps obtained by MA-XRF. In the combined maps, the areas where Fe and Mn co-locate appear with a greenish yellow hue."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
@@ -1263,7 +1263,7 @@ figure_list:
   - id: "fig-12-21"
     src: "figures/fig-12-21.jpg"
     label: "Figure 12.21"
-    caption: "Photomicrographs showing black fibers embedded in the paint layer. (A), (B), and &#40;C) Portrait of a man with a mole on his nose (Portrait B) and (D), (E), and (F) Portrait of an elderly lady with a gold wreath (Portrait E)."
+    caption: "Photomicrographs showing black fibers embedded in the paint layer. (A–C) Portrait of a man with a mole on his nose (Portrait B) and (D–F) Portrait of an elderly lady with a gold wreath (Portrait E)."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Paintings Conservation"
     alt: "TK"
 
