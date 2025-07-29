@@ -1509,7 +1509,7 @@ figure_list:
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
     label: "Figure 14.1"
-    caption: "Portrait of a Woman, Romano-Egyptian, ca. 131–160 CE. Encaustic on wooden panel with gilt stucco, 44.5 x 17 cm (17 1/2 x 6 3/4 inches); panel thickness: 4mm. Kansas City, the Nelson-Atkins Museum of Art (37-40)."
+    caption: "Portrait of a Woman, Romano-Egyptian, ca. 131–160 CE. Encaustic on wooden panel with gilt stucco, 44.5 x 17 cm (17 1/2 x 6 3/4 inches); panel thickness: 4 mm. Kansas City, the Nelson-Atkins Museum of Art, 37-40."
     credit: "Photo: S. Spence and K. Hamilton, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
@@ -1576,14 +1576,14 @@ figure_list:
   - id: "fig-14-7"
     src: "figures/fig-14-7.jpg"
     label: "Figure 14.7"
-    caption: "Reference image for the location of the photomicrograph in figure 14.8."
+    caption: "Reference image for the location (X) of the photomicrograph in figure 14.8."
     credit: "Photo: S. Spence, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
   - id: "fig-14-8"
     src: "figures/fig-14-8.jpg"
     label: "Figure 14.8"
-    caption: "Photomicrograph of the Pb-Cl-rich white crust that has formed on the upper proper left side of the paint surface as seen in the stereobinocular microscope using fiber optic illumination. This detail shows the formation of individual yellowish white granules of varying size that appear to sit on top of the paint surface."
+    caption: "Photomicrograph of the Pb-Cl–rich white crust that has formed on the upper proper left side of the paint surface as seen in the stereobinocular microscope using fiber optic illumination. This detail shows the formation of individual yellowish white granules of varying size that appear to sit on top of the paint surface."
     credit: "Photo: S. Spence, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
@@ -1597,7 +1597,7 @@ figure_list:
   - id: "fig-14-10"
     src: "figures/fig-14-10.jpg"
     label: "Figure 14.10"
-    caption: "The dark appearance of the red tunic in the FCUV image indicates the color is attributable to red ochre. This image was created through digital post-processing by combing visible and ultraviolet reflectance images."
+    caption: "The dark appearance of the red tunic in the FCUV image indicates the color is attributable to red ochre. This image was created through digital post-processing by combining visible and ultraviolet reflectance images."
     credit: "Photo: S. Spence and K. Hamilton, Courtesy of the Nelson-Atkins Museum of Art"
     alt: "TK"
 
