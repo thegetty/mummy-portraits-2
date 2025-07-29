@@ -1383,7 +1383,7 @@ figure_list:
 
   - id: "fig-13-6"
     label: "Figure 13.6"
-    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E2053."
+    caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E2053."
     credit: "Photos: G. Verri"
     annotations:
     - input: radio
@@ -1403,7 +1403,7 @@ figure_list:
 
   - id: "fig-13-7"
     label: "Figure 13.7"
-    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, OI E9137."
+    caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E9137."
     credit: "Photos: G. Verri"
     annotations:
     - input: radio
@@ -1424,29 +1424,29 @@ figure_list:
   - id: "fig-13-8"
     src: "figures/fig-13-8.jpg"
     label: "Figure 13.8"
-    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798, AIC 1922.4799, MN 0251, MN 0252, OI E2053 and OI E9137."
-    credit: "TK"
+    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom: FM 110872, AIC 1922.4798, AIC 1922.4799, MN 0251, MN 0252, ISAC E2053 and ISAC E9137."
+    credit: "Photos: Authors"
     alt: "TK"
 
   - id: "fig-13-9"
     src: "tables/table-13-9.html"
     media_type: table
     label: "Figure 13.9"
-    caption: "Summary of the painting materials inferred from analysis using techniques indicated in parenthesis. Detailed information on portraits AIC 1922.4798 and 1922.4799 can be found in Sabino et al. 2019 and Sutherland, Sabino, and Pozzi 2020. Analytical reports for all portraits are on file at the Department of Conservation and Science at AIC and relevant institutions."
-    credit: "TK"
+    caption: "Summary of the painting materials inferred from analysis using techniques indicated in parentheses. Detailed information on portraits AIC 1922.4798 and 1922.4799 can be found in Sabino et al. 2019 and Sutherland, Sabino, and Pozzi 2020. Analytical reports for all portraits are on file at the Department of Conservation and Science at AIC and relevant institutions."
+    credit: ""
     alt: "TK"
 
   - id: "fig-13-10"
     src: "figures/fig-13-10.jpg"
     label: "Figure 13.10"
-    caption: "FM 110872. Visible (left) and VIL (right) image of a detail of the mouth showing the distribution of EB. Chicago, Field Museum of Natural History."
+    caption: "FM 110872. Visible (left) and VIL (right) image of a detail of the mouth showing the distribution of EB. Field Museum of Natural History."
     credit: "Photos: G. Verri"
     alt: "TK"
 
   - id: "fig-13-11"
     src: "figures/fig-13-11.jpg"
     label: "Figure 13.11"
-    caption: "FM 110872. Sample from the area next to the left eye. Unmounted sample (top); Visible (left) and VIL (right) image of the sample in cross section (bottom). Chicago, Field Museum of Natural History, FM 110872."
+    caption: "FM 110872. Sample from the area next to the left eye. Unmounted sample (top); Visible (left) and VIL (right) image of the sample in cross section (bottom). Field Museum of Natural History."
     credit: "Photos: G. Verri"
     alt: "TK"
 
@@ -1488,7 +1488,7 @@ figure_list:
   - id: "fig-13-17"
     src: "figures/fig-13-17.jpg"
     label: "Figure 13.17"
-    caption: "Detail of MN 0251’s garment. Visible (left) and VIL (right) image; (A) white paint not rich in EB; (B) white paint rich in EB, and &#40;C) translucent gray paint rich in EB. Collection of Susan and Lew Manilow."
+    caption: "Detail of MN 0251’s garment. Visible (left) and VIL (right) image: (A) white paint not rich in EB, (B) white paint rich in EB, and &#40;C) translucent gray paint rich in EB. Collection of Susan and Lew Manilow."
     credit: "Photos: G. Verri"
     alt: "TK"
 
