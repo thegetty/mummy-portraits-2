@@ -1746,13 +1746,13 @@ figure_list:
     src: "figures/fig-16-1.jpg"
     label: "Figure 16.1"
     caption: "Mummy Portrait of a Boy, second half of the second century CE. Encaustic on linden, 37 × 18 cm (14.5 x 7 in.), 236767 MNW. Photo shows the work in its current condition, 2020. The National Museum in Warsaw."
-    credit: "Photo: Jakub Płoszaj, 2020"
+    credit: "Photo: Jakub Płoszaj"
     alt: "TK"
 
   - id: "fig-16-2"
     src: "figures/fig-16-2.jpg"
-    label: "Figurae 16.2"
-    caption: "Mummy Portrait of a Boy. An illustration in Georgius Werner’s 1909 paper, “De imaginibus Graeco-Aegyptis in colonia cui El-Fayum nomen est, repertis et Cracoviae asservatis observationes,” Eos, vol. 15, f. III."
+    label: "Figure 16.2"
+    caption: "Mummy Portrait of a Boy. An illustration in Georgius Werner’s 1909 paper “De imaginibus Graeco-Aegyptis in colonia cui El-Fayum nomen est, repertis et Cracoviae asservatis observationes,” *Eos*, vol. 15, f. III."
     credit: ""
     alt: "TK"
 
@@ -1760,7 +1760,7 @@ figure_list:
     src: "figures/fig-16-3.jpg"
     label: "Figure 16.3"
     caption: "Photo showing the portrait’s condition after World War II. The National Museum in Warsaw."
-    credit: "Photo: J. Mizerska, 1946"
+    credit: "Photo: J. Mizerska"
     alt: "TK"
 
   - id: "fig-16-4"
@@ -1787,7 +1787,7 @@ figure_list:
   - id: "fig-16-7"
     src: "figures/fig-16-7.jpg"
     label: "Figure 16.7"
-    caption: "Detail of figure 16.10 showing the hidden fragment of the broken panel near the right eye, now covered by the transplanted board."
+    caption: "Detail of figure 16.1 showing the hidden fragment of the broken panel near the right eye, now covered by the transplanted board."
     credit: "Image: Łukasz Kownacki, MD, PhD"
     alt: "TK"
 
@@ -1808,7 +1808,7 @@ figure_list:
   - id: "fig-16-10"
     src: "figures/fig-16-10.jpg"
     label: "Figure 16.10"
-    caption: "Schematic visualization of the XRF results with thirty-four measurement spots. The dimensions of the spots are shown against the size of the entire object. Recorded spectra are presented in the form of a colorful matrix. The scale (**min** <span id='fig-16-10-color-scale'></span> **max**) reflects the relative variation in the intensity of the signals from the lowest (white) to the highest (red). In all analyzed spots, the signals of two elements were observed: iron (Fe, lines Kα, and K) and lead (Pb, lines Lα, Lβ, Lγ, and M). Such elemental information is consistent with the presence of lead white pigment. Bright green dots over the portrait indicate spots of FTIR."
+    caption: "Schematic visualization of the XRF results with thirty-four measurement spots. The dimensions of the spots are shown against the size of the entire object. Recorded spectra are presented in the form of a colorful matrix. The scale (**min** <span id='fig-16-10-color-scale'></span> **max**) reflects the relative variation in the intensity of the signals from the lowest (white) to the highest (red). In all analyzed spots, the signals of two elements were observed: iron (Fe, lines Kα and K) and lead (Pb, lines Lα, Lβ, Lγ, and M). Such elemental information is consistent with the presence of lead white pigment. Bright green dots over the portrait indicate spots of FTIR."
     credit: "Chart: Barbara Wagner"
     alt: "TK"
 
