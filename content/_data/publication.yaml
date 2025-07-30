@@ -72,9 +72,9 @@ contributor_as_it_appears: "Edited by Marie Svoboda and Caroline R. Cartwright"
 contributor:
   - id: mamoros
     type: secondary
-    first_name: M. Victoria Asensi
+    first_name: Maria Victoria Asensi
     last_name: Amorós
-    bio: "M. Victoria Asensi Amorós is an Egyptologist and wood anatomist who works for private collections, public museums, and international archaeological teams to identify wooden artifacts from different civilizations. Based in Paris, France, she is a scientific director of the Xylodata company, involved in wood anatomy identifications, and is an officeholder at IUFRO (5.15.01, Wood Culture). Her involvement for the past twenty-five years in several archaeological programs in Egypt has made her an expert on wood from the Pharaonic to the beginning of the Islamic period, which led to the development of Xyloteca for the IFAO (French Institute of Oriental Archaeology, Cairo)."  
+    bio: "Maria Victoria Asensi Amorós is an Egyptologist and wood anatomist who works with private collections, public museums, and international archaeological teams to identify wooden artifacts from different civilizations. Based in Paris, France, she is a scientific director of the Xylodata company, involved in wood anatomy identifications, and is an officeholder at IUFRO (International Union of Forest Research Organizations; 5.15.01, Wood Culture). Her involvement for the past twenty-five years in several archaeological programs in Egypt has made her an expert on wood from the Pharaonic to the beginning of the Islamic period, which led to the development of Xyloteca for the IFAO (French Institute of Oriental Archaeology, Cairo)."  
   - id: candraud 
     type: secondary
     first_name: Christine
@@ -84,12 +84,12 @@ contributor:
     type: secondary
     first_name: Julie
     last_name: Arslanoglu
-    bio: "Julie Arslanoglu is a research scientist in the Department of Scientific Research at The Metropolitan Museum of Art (The Met). She investigates the identification, interaction, and degradation of natural and synthetic organic materials including paints, coatings, and adhesives using mass-spectrometric, imaging, immunological, and DNA techniques. She is co-founder of Art Bio Matters, a coalition of scientists, conservators, historians, and curators focused on biological materials used to create cultural heritage, and Art and Cultural Heritage: Natural Organic Polymers by Mass Spectrometry (ARCHE), a partnership between The Met and the University of Bordeaux, studying the material dimension of museum collections on a molecular level using mass spectrometry." 
+    bio: "Julie Arslanoglu is a research scientist in the Department of Scientific Research at The Metropolitan Museum of Art (The Met). She investigates the identification, interaction, and degradation of natural and synthetic organic materials including paints, coatings, and adhesives using mass-spectrometric, imaging, immunological, and DNA techniques. She is co-founder of Art Bio Matters, a coalition of scientists, conservators, historians, and curators focused on biological materials used to create cultural heritage, and of Art and Cultural Heritage: Natural Organic Polymers by Mass Spectrometry (ARCHE), a partnership between The Met and the University of Bordeaux, studying the material dimension of museum collections on a molecular level using mass spectrometry." 
   - id: lberman
     type: secondary
     first_name: Lawrence M.
     last_name: Berman
-    bio: "Lawrence M. Berman is John F. Cogan, Jr. and Mary L. Cornille Chair, Art of Ancient Egypt, Nubia, and the Near East at the Museum of Fine Arts (MFA), Boston. He received his PhD in Egyptology from Yale University in 1985. Before coming to the MFA in 1999, he was curator of Egyptian and Ancient Near Eastern Art at the Cleveland Museum of Art. He has worked on numerous exhibitions and gallery reinstallations and has written many books and articles. His latest book is *Faces of Ancient Egypt* (MFA Publications, 2022)."
+    bio: "Lawrence M. Berman is John F. Cogan Jr. and Mary L. Cornille Chair, Art of Ancient Egypt, Nubia, and the Near East at the Museum of Fine Arts (MFA), Boston. He received his PhD in Egyptology from Yale University in 1985. Before coming to the MFA in 1999, he was curator of Egyptian and Ancient Near Eastern Art at the Cleveland Museum of Art. He has worked on numerous exhibitions and gallery reinstallations and has written many books and articles. His latest book is *Faces of Ancient Egypt* (MFA Publications, 2022)."
   - id: cbisulca
     type: secondary
     first_name: Christina
@@ -109,12 +109,12 @@ contributor:
     type: secondary
     first_name: Lucile
     last_name: Brunel-Duverger
-    bio: "Lucile Brunel-Duverger is a physical chemist with a background in chemistry and archaeometry, specializing in the study of painting materials and craft-making practices developed during her work in laboratories and museums and, as part of her PhD, conducted at the Centre de Recherche et de Restauration des Musées de France (C2RMF) on the polychromy of the Louvre “yellow coffins.” She acquired new skills in non-invasive techniques, such as hyperspectral imaging, while working on the FAYOUM Project and in her subsequent post-doctoral position at the Laboratoire d’Archéologie Moléculaire et Structurale (LAMS) (CNRS, University of Pierre and Marie Curie [UPMC]). She joined the C2RMF Research Department in March 2024." 
+    bio: "Lucile Brunel-Duverger is a physical chemist with a background in chemistry and archaeometry, specializing in the study of painting materials and craft-making practices developed during her work in laboratories and museums and, as part of her PhD, conducted at the Centre de Recherche et de Restauration des Musées de France (C2RMF) on the polychromy of the Louvre “yellow coffins.” She acquired new skills in non-invasive techniques, such as hyperspectral imaging, while working on the FAYOUM Project and in her subsequent postdoctoral position at the Laboratoire d’Archéologie Moléculaire et Structurale (LAMS) (CNRS, University of Pierre and Marie Curie [UPMC]). She joined the C2RMF Research Department in March 2024." 
   - id: tcalligaro
     type: secondary
     first_name: Thomas
     last_name: Calligaro 
-    bio: "Thomas Calligaro is a physicist and research engineer at the French Ministry of Culture. He specializes in the development of new methods for the study of cultural heritage materials and, more particularly, analysis and imaging techniques by ion beams, X-radiography, luminescence, and reflectance. Part of the team who built the particle accelerator from the C2RMF, AGLAE, Calligaro currently works on its evolution through the development of a new line dedicated to PIXE imaging for large objects (PIXXL project; Equipex+ ESPADON). His research interests were initially focused on the composition and provenance study of gems and stones (ruby, emerald, garnet, quartz, obsidian, and more), however he is now lending his expertise to the study of pigments on a variety of supports."
+    bio: "Thomas Calligaro is a physicist and research engineer at the French Ministry of Culture. He specializes in the development of new methods for the study of cultural heritage materials and, more particularly, analysis and imaging techniques by ion beams, X-radiography, luminescence, and reflectance. Part of the team who built the particle accelerator for the C2RMF, AGLAE, Calligaro currently works on its evolution through the development of a new line dedicated to PIXE imaging for large objects (PIXXL project; Equipex+ ESPADON). His research interests were initially focused on the composition and provenance study of gems and stones (ruby, emerald, garnet, quartz, obsidian, and more); he is now lending his expertise to the study of pigments on a variety of supports."
   - id: ccartwright 
     type: primary
     first_name: Caroline R.
@@ -134,12 +134,12 @@ contributor:
     type: secondary
     first_name: Laura A.
     last_name: D’Alessandro  
-    bio: "Laura A. D’Alessandro has been head of the conservation laboratory at the Institute for the Study of Ancient Cultures, University of Chicago since 1986. She holds a bachelor’s degree in Greek and Roman civilizations from the State University of New York at Albany and a degree in archaeological and ethnographic conservation from the Institute of Archaeology, University of London. D’Alessandro has served as project manager for various reinstallations of large-scale architectural sculptures, including oversized Assyrian reliefs and a sixteen-foot statue of Tutankhamun. She currently manages a multi-year project involving the stabilization, conservation, analysis, and display of eighth century BCE glazed bricks from the Sin Temple at Sargon II’s palace at Khorsabad, Iraq. Her interests include the study of ancient glazes and pigments."
+    bio: "Laura A. D’Alessandro has been head of the conservation laboratory at the Institute for the Study of Ancient Cultures, University of Chicago, since 1986. She holds a bachelor’s degree in Greek and Roman civilizations from the State University of New York at Albany and a degree in archaeological and ethnographic conservation from the Institute of Archaeology, University of London. D’Alessandro has served as project manager for various reinstallations of large-scale architectural sculptures, including oversized Assyrian reliefs and a sixteen-foot statue of Tutankhamun. She currently manages a multi-year project involving the stabilization, conservation, analysis, and display of eighth-century BCE glazed bricks from the Sin Temple at Sargon II’s palace at Khorsabad, Iraq. Her interests include the study of ancient glazes and pigments."
   - id: sebbinghaus   
     type: secondary
     first_name: Susanne
     last_name: Ebbinghaus  
-    bio: "Susanne Ebbinghaus is the George M. A. Hanfmann Curator of Ancient Art and head of the Division of Asian and Mediterranean Art at the Harvard Art Museums. She received M.Phil. and D.Phil. degrees from the University of Oxford. Her research focuses on the art and archaeology of ancient Greece and the Middle East, with special interests in cross-cultural interaction, feasting, sculptural polychromy, and bronzes. She organized the exhibitions *Gods in Color: Painted Sculpture of Classical Antiquity* (2007) and *Animal-Shaped Vessels from the Ancient World: Feasting with Gods, Heroes, and Kings* (2018) and participates in the Archaeological Exploration of Sardis (Türkiye)."
+    bio: "Susanne Ebbinghaus is the George M. A. Hanfmann Curator of Ancient Art and head of the Division of Asian and Mediterranean Art at the Harvard Art Museums. She received MPhil and DPhil degrees from the University of Oxford. Her research focuses on the art and archaeology of ancient Greece and the Middle East, with special interests in cross-cultural interaction, feasting, sculptural polychromy, and bronzes. She organized the exhibitions *Gods in Color: Painted Sculpture of Classical Antiquity* (2007) and *Animal-Shaped Vessels from the Ancient World: Feasting with Gods, Heroes, and Kings* (2018) and participates in the Archaeological Exploration of Sardis (Türkiye)."
   - id: keremin   
     type: secondary
     first_name: Katherine
@@ -149,7 +149,7 @@ contributor:
     type: secondary
     first_name: Clara
     last_name: Granzotto 
-    bio: "Clara Granzotto is assistant conservation scientist in the Conservation and Science department at the Art Institute of Chicago (AIC). She received her PhD in chemical sciences from the University of Venice, Italy, and the University of Lille, France. Granzotto conducted post-doctoral research at the Center for Scientific Studies in the Arts at Northwestern University in Evanston, Illinois, the scientific department of The Met, and the University of Copenhagen, Denmark. She specializes in the analysis of traditional binding media in works of art by mass spectrometry, with a focus on polysaccharides and proteins."
+    bio: "Clara Granzotto is assistant conservation scientist in the Conservation and Science Department at the Art Institute of Chicago (AIC). She received her PhD in chemical sciences from the University of Venice, Italy, and the University of Lille, France. Granzotto conducted postdoctoral research at the Center for Scientific Studies in the Arts at Northwestern University in Evanston, Illinois, the scientific department of The Met, and the University of Copenhagen, Denmark. She specializes in the analysis of traditional binding media in works of art by mass spectrometry, with a focus on polysaccharides and proteins."
   - id: chale  
     type: secondary
     first_name: Charlotte
@@ -174,22 +174,22 @@ contributor:
     type: secondary
     first_name: Agnieszka
     last_name: Kijowska
-    bio: "Agnieszka Kijowska graduated from the Art Conservation Department of the Academy of Fine Arts in Warsaw. She is employed at the Conservation Workshop of Ancient Art and Stone Architecture of the National Museum in Warsaw, where she works on ancient artifacts of polychromed wood, ceramics, and wall painting. She has participated in archaeology-conservation missions in Egypt (Sakkara and Wadi Natrun) and is co-author of articles about the conservation of wall paintings from the Faras Cathedral."
+    bio: "Agnieszka Kijowska graduated from the Art Conservation Department of the Academy of Fine Arts in Warsaw. She is employed at the Conservation Workshop of Ancient Art and Stone Architecture of the National Museum in Warsaw, where she works on ancient artifacts of polychromed wood, ceramics, and wall painting. She has participated in archaeology-conservation missions in Egypt (Sakkara and Wadi Natrun) and is coauthor of articles about the conservation of wall paintings from the Faras Cathedral."
   - id: dkirby 
     type: secondary
     first_name: Daniel P.
     last_name: Kirby
-    bio: "Daniel P. Kirby turned his interests to conservation after careers as an analytical chemist in semiconductor electronics, pharmaceuticals, and academic research. He currently works both in private practice and as a volunteer in the Scientific Research Lab at the MFA, Boston, specializing in applications of mass spectrometry in art and cultural heritage, with a particular interest in protein identification."
+    bio: "Daniel P. Kirby turned his interests to conservation after a career as an analytical chemist in semiconductor electronics, pharmaceuticals, and academic research. He currently works both in private practice and as a volunteer in the Scientific Research Lab at the MFA, Boston, specializing in applications of mass spectrometry in art and cultural heritage, with a particular interest in protein identification."
   - id: jkwiatkowska
     type: secondary
     first_name: Justyna
     last_name: Kwiatkowska
-    bio: "Justyna Kwiatkowska is a graduate in chemistry at Warsaw University and authored the MA thesis “LA-ICP-MS in the Study of Heterogeneous Historic Objects.” Since 2016 she has been a conservation assistant in the Laboratory of the Conservation Department at the National Museum in Warsaw. From 2016–19 Kwiatkowska participated in the project *Henryk Siemiradzki's Corpus of Painting Works*. She conducts Oddy tests and physicochemical analyses of works of art using technological layer stratigraphy, microchemistry, and infrared reflection spectroscopy (FTIR-ATR)."
+    bio: "Justyna Kwiatkowska is a graduate in chemistry at Warsaw University and authored the MA thesis “LA-ICP-MS in the Study of Heterogeneous Historic Objects.” Since 2016 she has been a conservation assistant in the laboratory of the Conservation Department at the National Museum in Warsaw. From 2016 to 2019 Kwiatkowska participated in the project *Henryk Siemiradzki's Corpus of Painting Works*. She conducts Oddy tests and physicochemical analyses of works of art using technological layer stratigraphy, microchemistry, and infrared reflection spectroscopy (FTIR-ATR)."
   - id: aslho
     type: secondary
     first_name: Anne-Solenn
     last_name: Le Hô 
-    bio: "Anne-Solenn Le Hô is senior conservation scientist at the National Centre for Research and Restoration in French Museums (C2RMF/IRCP, PSL University, Paris). In charge of the painting group, she has extensive experience in interdisciplinary research on the characterization of painted materials and their interactions and alteration mechanisms. Her research interests are in the use of color and technical processes in paintings, polychrome objects, and lacquerware. She is also an associate editor, scientific member, and contributor to journals and books about cultural heritage, archaeometry, and art history."
+    bio: "Anne-Solenn Le Hô is senior conservation scientist at the National Center for Research and Restoration in French Museums (C2RMF/IRCP, PSL University, Paris). In charge of the painting group, she has extensive experience in interdisciplinary research on the characterization of painted materials and their interactions and alteration mechanisms. Her research interests are in the use of color and technical processes in paintings, polychrome objects, and lacquerware. She is also an associate editor, scientific member, and contributor to journals and books about cultural heritage, archaeometry, and art history."
   - id: dmahon
     type: secondary
     first_name: Dorothy
@@ -199,7 +199,7 @@ contributor:
     type: secondary
     first_name: William J.
     last_name: Mastandrea 
-    bio: "William J. Mastandrea is currently working as an assistant conservator for the Ancient Near East and Cypriot gallery renovation at The Met. Prior to joining the objects conservation department, he was the inaugural Gale R. Guild and Henry R. Guild Fellow for Advanced Training in Objects Conservation at the MFA, Boston. William received his MSc in Conservation for Archaeology and Museums from University College London. Combining his background in both conservation and archaeology, his research interests include the multi-band imaging, in-depth investigation, and treatment of archaeological objects and their pigments, binders, and other constituent materials."
+    bio: "William J. Mastandrea is currently working as an assistant conservator for the Ancient Near East and Cypriot Gallery renovation at The Met. Prior to joining the objects conservation department, he was the inaugural Gale R. Guild and Henry R. Guild Fellow for Advanced Training in Objects Conservation at the MFA, Boston. William received his MSc in Conservation for Archaeology and Museums from University College London. Combining his background in both conservation and archaeology, his research interests include the multi-band imaging, in-depth investigation, and treatment of archaeological objects and their pigments, binders, and other constituent materials."
   - id: emayberger
     type: secondary
     first_name: Evelyn (Eve)
@@ -214,22 +214,22 @@ contributor:
     type: secondary
     first_name: Alicia
     last_name: McGeachy 
-    bio: "Alicia McGeachy joined the Scientific Research Partnership at The Met as an associate research scientist in May 2022. She received her PhD in chemistry from Northwestern University and a BS in chemistry from Spelman College. She was Andrew W. Mellon postdoctoral fellow in the Department of Scientific Research (2018–20) where her primary research focused on the analysis of eighteenth-century English ceramics with the goal of reconstructing the practices employed at the Chelsea Porcelain Manufactory. She continued her postdoctoral training (2020–22) with the Northwestern University-Art Institute of Chicago Center for Scientific Studies in the Arts (NU-ACCESS). In her role with SRP, McGeachy applies her wide technical experience to the study of works in partnering cultural institutions to inform treatment and research and, more broadly, the stories that we can tell about ourselves. She has coauthored numerous articles."
+    bio: "Alicia McGeachy joined the Scientific Research Partnership (SRP) at The Met as an associate research scientist in May 2022. She received her PhD in chemistry from Northwestern University and a BS in chemistry from Spelman College. She was Andrew W. Mellon postdoctoral fellow in the Department of Scientific Research (2018–20), where her primary research focused on the analysis of eighteenth-century English ceramics with the goal of reconstructing the practices employed at the Chelsea Porcelain Manufactory. She continued her postdoctoral training (2020–22) with the Northwestern University–Art Institute of Chicago Center for Scientific Studies in the Arts (NU-ACCESS). In her role with SRP, McGeachy applies her wide technical experience to the study of works in partnering cultural institutions to inform treatment and research and, more broadly, the stories that we can tell about ourselves. She has coauthored numerous articles."
   - id: mmenu
     type: secondary
     first_name: Michel
     last_name: Menu
-    bio: "Michel Menu, physicist, was director of the Research Department of C2RMF from 2001 to 2021. Today he is the director of the Science and Technology in Archaeology and Culture Center (STARC) of the Cyprus Institute (Nicosia, Cyprus). Its main research focus is the color and appearance of painted works, considered to be “augmented art objects” by the integration of data collected by a variety of disciplines."
+    bio: "Michel Menu, physicist, was director of the Research Department of C2RMF from 2001 to 2021. Today he is the director of the Science and Technology in Archaeology and Culture Center (STARC) of the Cyprus Institute (Nicosia, Cyprus). Its main research focus is the color and appearance of painted works, considered to be “augmented art objects,” by the integration of data collected by a variety of disciplines."
   - id: amichelin
     type: secondary
     first_name: Anne
     last_name: Michelin
-    bio: "Anne Michelin is an assistant professor at the MNHN in Paris and conducts her research in the CRC. Her research focuses on the characterization of ancient materials and on the understanding of their alteration processes. She works on a team dedicated to the study of color and visual appearance of museum artifacts and develops non-destructive techniques such as hyperspectral imaging analysis. Her latest projects concern the analysis of ancient manuscripts with two objectives: to improve the legibility of the writing when the documents are faded or altered, and to characterize the material constituents to investigate the techniques involved in a manuscript’s creation."
+    bio: "Anne Michelin is an assistant professor at the MNHN in Paris and conducts research in the CRC. Her research focuses on the characterization of ancient materials and on the understanding of their alteration processes. She works on a team dedicated to the study of color and visual appearance of museum artifacts and develops non-destructive techniques such as hyperspectral imaging analysis. Her latest projects concern the analysis of ancient manuscripts with two objectives: to improve the legibility of the writing when the documents are faded or altered, and to characterize the material constituents to investigate the techniques involved in a manuscript’s creation."
   - id: rmoreau 
     type: secondary
     first_name: Raphaël
     last_name: Moreau 
-    bio: "Raphaël Moreau joined the Cyprus Institute as a PhD student in August 2020 after graduating with a master’s in analytical chemistry (2019) and a bachelor’s in physics and chemistry (2017). His work focuses on the use and development of analytical devices, combining several spectroscopic techniques such as X-ray fluorescence, photoluminescence, and optical reflectance. The treatment and understanding of the large amount of data gathered with such devices is another central point of his work, as these provide clues that lead to a deeper understanding of the stakes of cultural heritage material comprehension."
+    bio: "Raphaël Moreau joined the Cyprus Institute as a PhD student in August 2020 after graduating with a master’s degree in analytical chemistry (2019) and a bachelor’s degree in physics and chemistry (2017). His work focuses on the use and development of analytical devices, combining several spectroscopic techniques such as X-ray fluorescence, photoluminescence, and optical reflectance. The treatment and understanding of the large amount of data gathered with such devices is another central point of his work, as these provide clues that lead to a deeper understanding of the stakes of cultural heritage material comprehension."
   - id: rnewman 
     type: secondary
     first_name: Richard
@@ -244,52 +244,52 @@ contributor:
     type: secondary
     first_name: Irma
     last_name: Passeri
-    bio: "Irma Passeri is the Susan Morse Hilles Chief Conservator at the Yale University Art Gallery. Passeri studied painting conservation at the Scuola di Alta Formazione at the Opificio delle Pietre Dure in Florence, Italy, where she received her degree in the Conservation of Easel Paintings in 1998. She joined the conservation staff of the Yale University Art Gallery in 2000. Passeri has worked at the Opificio delle Pietre Dure and the Philadelphia Art Museum, among other institutions. She has published articles on materials and techniques of Italian paintings and different approaches to the restoration treatment of loss compensation."
+    bio: "Irma Passeri is the Susan Morse Hilles Chief Conservator at the Yale University Art Gallery (YUAG). Passeri studied painting conservation at the Scuola di Alta Formazione at the Opificio delle Pietre Dure (OPD) in Florence, Italy, where she received her degree in the Conservation of Easel Paintings in 1998. She joined the conservation staff of the YUAG in 2000. Passeri has worked at the OPD and the Philadelphia Art Museum, among other institutions. She has published articles on materials and techniques of Italian paintings and different approaches to the restoration treatment of loss compensation."
   - id: lpichon 
     type: secondary
     first_name: Laurent
     last_name: Pichon
-    bio: "Laurent Pichon has been a research engineer at the French Ministry of Culture since 1999. He works as an electronic and computer science engineer on the particle accelerator at the C2RMF, AGLAE. His work concerns the development of new analysis techniques and data processing software that are specially dedicated to the characterization of artworks. Initially, his field of expertise was focused on ion beam applications, but he now works in service to the design and realization of innovative portable instruments, such as the XRF/RIS/PL/SWIR scanning device used in the study of the Fayum portraits from the Louvre collection."
+    bio: "Laurent Pichon has been a research engineer at the French Ministry of Culture since 1999. He works as an electronic and computer science engineer on the particle accelerator at the C2RMF, AGLAE. His work concerns the development of new analysis techniques and data processing software that are specially dedicated to the characterization of artworks. Initially, his field of expertise was ion beam applications, but he now works in service to the design and realization of innovative portable instruments, such as the XRF/RIS/PL/SWIR scanning device used in the study of the Fayum portraits from the Louvre collection."
   - id: fpozzi
     type: secondary
     first_name: Federica
     last_name: Pozzi
-    bio: "Federica Pozzi is the director of scientific laboratories at the Centro per la Conservazione ed il Restauro dei Beni Culturali “La Venaria Reale,” Turin, Italy. She earned her PhD in chemical sciences in 2012 from the University of Milan, Italy. Prior to her current appointment, Pozzi held positions at The Met, CUNY, the AIC, and the Solomon R. Guggenheim Museum. She was recently awarded Professional Membership of the AIC and a Fellowship of the IIC in recognition of her professional achievements and contributions to the conservation science profession."
+    bio: "Federica Pozzi is the director of scientific laboratories at the Centro per la Conservazione ed il Restauro dei Beni Culturali “La Venaria Reale,” Turin, Italy. She earned her PhD in chemical sciences in 2012 from the University of Milan. Prior to her current appointment, Pozzi held positions at The Met, City University of New York (CUNY), the American Institute of Conservation (AIC), and the Solomon R. Guggenheim Museum. She was recently awarded Professional Membership of the AIC and a Fellowship of the IIC in recognition of her professional achievements and contributions to the conservation science profession."
   - id: grayner 
     type: secondary
     first_name: Georgina
     last_name: Rayner
-    bio: "Georgina Rayner is the associate conservation scientist at the Straus Center for Conservation and Technical Studies, Harvard Art Museums. She holds a PhD in chemistry from the University of Warwick, U.K. Rayner specializes in the identification of organic materials at the Straus Center. She has worked on many technical investigations studying the materials used in artworks, including a survey identifying the plastics present in objects in the collection; John Singer Sargent’s paint palettes; and the pigments and binders used by Aboriginal artists in traditional bark paintings."
+    bio: "Georgina Rayner is the associate conservation scientist at the Straus Center for Conservation and Technical Studies, Harvard Art Museums. She holds a PhD in chemistry from the University of Warwick, UK. Rayner specializes in the identification of organic materials at the Straus Center. She has worked on many technical investigations studying the materials used in artworks, including a survey identifying the plastics present in objects in the collection; John Singer Sargent’s paint palettes; and the pigments and binders used by Aboriginal artists in traditional bark paintings."
   - id: crogge 
     type: secondary
     first_name: Corina E.
     last_name: Rogge
-    bio: "Corina E. Rogge is a conservation scientist and director of conservation at the Menil Collection. She earned a BA in chemistry from Bryn Mawr College, a PhD in Chemistry from Yale University, and held postdoctoral positions at the University of Wisconsin-Madison and the University of Texas Health Sciences Center. Before joining the Menil Collection in 2023 Rogge served as the Andrew W. Mellon Research Scientist at the Museum of Fine Arts, Houston (MFAH) and the Menil Collection (2013–23), and the Andrew W. Mellon Assistant Professor in Conservation Science in the Department of Art Conservation at State University of New York Buffalo State College (2010–13). She is the vice president and fellow of the American Institute for Conservation and an associate editor for the *Journal of the American Institute for Conservation*. She works on materials across all cultures, media, and ages, and is a coauthor of *Franz Kline: The Artist’s Materials* (GCI, 2022)."
+    bio: "Corina E. Rogge is a conservation scientist and director of conservation at the Menil Collection, Houston. She earned a BA in chemistry from Bryn Mawr College, a PhD in chemistry from Yale University, and held postdoctoral positions at the University of Wisconsin-Madison and the University of Texas Health Sciences Center. Before joining the Menil Collection in 2023 Rogge served as the Andrew W. Mellon Research Scientist at the Museum of Fine Arts, Houston (MFAH) and the Menil Collection (2013–23), and the Andrew W. Mellon Assistant Professor in Conservation Science in the Department of Art Conservation at State University of New York Buffalo (2010–13). She is the vice president and fellow of the American Institute for Conservation and an associate editor for the *Journal of the American Institute for Conservation*. She works on materials across all cultures, media, and ages, and is a coauthor of *Franz Kline: The Artist’s Materials* (GCI, 2022)."
   - id: rsabino 
     type: secondary
     first_name: Rachel
     last_name: Sabino
-    bio: "Rachel Sabino is director of Objects and Textiles Conservation at the AIC, where she has been a staff member since 2011. A specialist in structural issues related to large-scale objects, Sabino has previously held positions at the MFAH, the National Gallery London, and the Chicago Conservation Center; internships at The Met and the J. Paul Getty Museum (JPGM); and a sabbatical at the Corning Museum of Glass. She received her training at West Dean College and is a fellow of the International Institute of Conservation and the American Institute for Conservation of Historic and Artistic Works."
+    bio: "Rachel Sabino is director of Objects and Textiles Conservation at the AIC, where she has been a staff member since 2011. A specialist in structural issues related to large-scale objects, Sabino has previously held positions at the MFAH, the National Gallery London, and the Chicago Conservation Center; internships at The Met and the J. Paul Getty Museum; and a sabbatical at the Corning Museum of Glass. She received her training at West Dean College of Arts and Conservation, UK, and is a fellow of the International Institute of Conservation and the American Institute for Conservation of Historic and Artistic Works."
   - id: aserotta 
     type: secondary
     first_name: Anna
     last_name: Serotta
-    bio: "Anna Serotta is an associate conservator in the Department of Objects Conservation at The Met specializing in the care and study of archeological materials. Her primary role is as conservator for the Egyptian art collection. Serotta is also a lecturer at the NYU Institute of Fine Arts Conservation Center, a fellow of the American Academy in Rome, and has worked as a field conservator on archaeological sites in Egypt, Greece, Italy, and Türkiye."
+    bio: "Anna Serotta is an associate conservator in the Department of Objects Conservation at The Met, specializing in the care and study of archaeological materials. Her primary role is as conservator for the Egyptian art collection. Serotta is also a lecturer at the NYU Institute of Fine Arts Conservation Center, a fellow of the American Academy in Rome, and has worked as a field conservator on archaeological sites in Egypt, Greece, Italy, and Türkiye."
   - id: lsmieska
     type: secondary
     first_name: Louisa
     last_name: Smieska
-    bio: "Louisa Smieska leads the Functional Materials Beamline at the Cornell High Energy Synchrotron Source in Ithaca, New York. She is especially interested in applications of synchrotron radiation for the study of material cultural heritage. From 2016–17 she held an Andrew W. Mellon Foundation postdoctoral fellowship in the Department of Scientific Research at The Met, where she examined paintings and other objects with the museum’s Bruker XRF scanner."
+    bio: "Louisa Smieska leads the Functional Materials Beamline at the Cornell High Energy Synchrotron Source in Ithaca, New York. She is especially interested in applications of synchrotron radiation for the study of material cultural heritage. In 2016–17 she held an Andrew W. Mellon Foundation postdoctoral fellowship in the Department of Scientific Research at The Met, where she examined paintings and other objects with the museum’s Bruker XRF scanner."
   - id: ksmith 
     type: secondary
     first_name: Kate
     last_name: Smith
-    bio: "Kate Smith is conservator of paintings and head of the paintings lab at the Straus Center for Conservation and Technical Studies at the Harvard Art Museums. She received an MA in conservation from the Buffalo State College program in 2001 and previously worked at the MFA, Boston, and the Isabella Stewart Gardner Museum. Smith studies and preserves the Harvard paintings collection, works spanning ancient Roman to modern and contemporary periods. She specializes in technical examination using radiography, infrared reflectography, and fluorescence imaging to investigate artists’ materials and techniques."
+    bio: "Kate Smith is conservator of paintings and head of the paintings lab at the Straus Center for Conservation and Technical Studies at the Harvard Art Museums. She received an MA in conservation from SUNY Buffalo in 2001 and previously worked at the MFA, Boston, and the Isabella Stewart Gardner Museum. Smith studies and preserves the Harvard paintings collection, with works spanning from ancient Roman to modern and contemporary periods. She specializes in technical examination using radiography, infrared reflectography, and fluorescence imaging to investigate artists’ materials and techniques."
   - id: jsouthon
     type: secondary
     first_name: John
     last_name: Southon
-    bio: "John Southon is a researcher in the Earth System Science Department, University of California, Irvine, and co-director of UCI’s W. M. Keck Carbon Cycle Accelerator Mass Spectrometry Laboratory. Prior to taking up the position at UCI, Southon helped design the AMS spectrometer at Lawrence Livermore National Laboratory (LLNL) in the mid-1980s and was head of the natural radiocarbon group at LLNL’s Center for AMS from 1989 to 2001. His interests include the development of AMS technology and applications of the technique in fields including archaeology, paleontology, paleoclimate, and paleoceanography."
+    bio: "John Southon is a researcher in the Earth System Science Department, University of California, Irvine (UCI), and co-director of UCI’s W. M. Keck Carbon Cycle Accelerator Mass Spectrometry (AMS) Laboratory. Prior to taking up the position at UCI, Southon helped design the AMS spectrometer at Lawrence Livermore National Laboratory (LLNL) in the mid-1980s and was head of the natural radiocarbon group at LLNL’s Center for AMS from 1989 to 2001. His interests include the development of AMS technology and applications of the technique in fields including archaeology, paleontology, paleoclimate, and paleoceanography."
   - id: lrspaabaek
     type: secondary
     first_name: Lin Rosa
@@ -299,12 +299,12 @@ contributor:
     type: secondary
     first_name: Stephanie
     last_name: Spence
-    bio: "Stephanie Spence is the assistant objects conservator at the Nelson-Atkins Museum of Art in Kansas City, Missouri. She earned her MA in art conservation, specializing in objects conservation, from the Patricia H. and Richard E. Garman Art Conservation Department at SUNY Buffalo State University in 2017. She completed her third-year internship at the Nelson-Atkins, and was the conservation fellow at the Toledo Museum of Art."
+    bio: "Stephanie Spence is the assistant objects conservator at the Nelson-Atkins Museum of Art in Kansas City, Missouri. She earned her MA in art conservation, specializing in objects conservation, from the Patricia H. and Richard E. Garman Art Conservation Department at SUNY Buffalo in 2017. She completed her third-year internship at the Nelson-Atkins, and was the conservation fellow at the Toledo Museum of Art."
   - id: asteele 
     type: secondary
     first_name: Aaron
     last_name: Steele
-    bio: "Aaron Steele has been the imaging specialist and photographer for the Conservation Department at the DIA since 2014. He has more than twenty years of experience in cultural heritage, museum, and art conservation imaging. He recently co-curated the 2019–20 DIA exhibition, *Bruegel’s* The Wedding Dance *Revealed*, and contributed to the associated technical publication on the painting *The Wedding Dance*. His undergraduate and graduate education was at Indiana University focusing on art, art librarianship (visual resources), and art education. Prior to his current position at the DIA, he worked as associate photographer at the Northeast Document Conservation Center (NEDCC), as conservation department photographer and imaging specialist at the Indianapolis Museum of Art (IMA), and as photographer for the Lilly Rare Books Library at Indiana University. Steele has also worked at the Indiana University Art Museum (IUAM) in the curatorial, registration, and education departments."
+    bio: "Aaron Steele has been the imaging specialist and photographer for the Conservation Department at the DIA since 2014. He has more than twenty years of experience in cultural heritage, museum, and art conservation imaging. He recently co-curated the 2019–20 DIA exhibition *Bruegel’s* The Wedding Dance *Revealed*, and contributed to the associated technical publication on the painting *The Wedding Dance*. His undergraduate and graduate education was at Indiana University focusing on art, art librarianship (visual resources), and art education. Prior to his current position at the DIA, he worked as associate photographer at the Northeast Document Conservation Center (NEDCC), as conservation department photographer and imaging specialist at the Indianapolis Museum of Art (IMA), and as photographer for the Lilly Rare Books Library at Indiana University. Steele has also worked at the Indiana University Art Museum (IUAM) in the curatorial, registration, and education departments."
   - id: jstenger  
     type: secondary
     first_name: Jens
@@ -314,27 +314,27 @@ contributor:
     type: secondary
     first_name: Aleksandra
     last_name: Sulikowska-Bełczowska 
-    bio: "Jens Stenger is a senior scientist at the Ny Carlsberg Glyptotek in Copenhagen, where he conducts research on the polychromy of ancient artifacts. He earned his PhD in physics at Humboldt-Universität zu Berlin and was a postdoctoral researcher at the University of California, Berkeley. He has held positions at the Straus Center for Conservation and Technical Studies at the Harvard Art Museums, the Institute for the Preservation of Cultural Heritage at Yale University, the Swiss Institute for Art Research, and the Cologne Institute of Conservation Sciences."
+    bio: "Aleksandra Sulikowska-Bełczowska is a curator of the Collection of Ancient Art and the Collection of Eastern Christian Art at the National Museum in Warsaw, where she oversees Nubian, Coptic, and Ethiopian collections, as well as the Collection of Icons and Byzantine Crafts. She is also a professor in the Institute of Art History at the University of Warsaw. Sulikowska-Bełczowska has authored books and papers on the cult of images in late antique and eastern Christian art and on the iconography of the icons and wall paintings in Orthodox art."
   - id: ksutherland  
     type: secondary
     first_name: Ken
     last_name: Sutherland 
-    bio: "Ken Sutherland is Andrew W. Mellon Director of Scientific Research in the Department of Conservation and Science at the AIC. His primary research interests concern the characterization of organic materials in works of art to inform an understanding of their technique, condition, and appearance. He held previous positions at the Philadelphia Museum of Art and the National Gallery of Art, Washington, DC. He received a PhD in chemistry from the University of Amsterdam, a diploma in the conservation of easel paintings from the Courtauld Institute of Art, London, and a BSc in biochemistry from University College London. His previous publications include “Challenges in the Characterization and Categorization of Binding Media in Mummy Portraits,” coauthored with Rachel Sabino and Federica Pozzi, in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* (J. Paul Getty Museum, 2020)."
+    bio: "Ken Sutherland is Andrew W. Mellon Director of Scientific Research in the Department of Conservation and Science at the AIC. His primary research interests concern the characterization of organic materials in works of art to inform an understanding of their technique, condition, and appearance. He held previous positions at the Philadelphia Museum of Art and the National Gallery of Art, Washington, DC. He received a PhD in chemistry from the University of Amsterdam, a diploma in the conservation of easel paintings from the Courtauld Institute of Art, London, and a BSc in biochemistry from University College, London. His previous publications include “Challenges in the Characterization and Categorization of Binding Media in Mummy Portraits,” coauthored with Rachel Sabino and Federica Pozzi, in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* (J. Paul Getty Museum, 2020)."
   - id: msvoboda 
     type: primary
     first_name: Marie 
     last_name: Svoboda
-    bio: "Marie Svoboda is a conservator in the Antiquities Conservation department at the JPGM. She received an MA from the Art Conservation program at SUNY Buffalo State University, New York, majoring in artifacts and minoring in paintings conservation. Focusing on the study of ancient materials, Svoboda joined the Getty in 2003. She is actively involved in various in-depth studies that pertain to her interest in ancient technology and pigment studies. She manages the APPEAR project, an international collaboration on the study of ancient funerary paintings."
+    bio: "Marie Svoboda is a conservator in the Antiquities Conservation Department at the J. Paul Getty Museum. She received an MA from the Art Conservation program at the State University of New York at Buffalo, majoring in artifacts and minoring in paintings conservation. Focusing on the study of ancient materials, Svoboda joined the Getty in 2003. She is actively involved in various in-depth studies that pertain to her interest in ancient technology and pigment studies. She manages the APPEAR project, an international collaboration on the study of ancient funerary paintings."
   - id: jthistlewood  
     type: secondary
     first_name: Jevon
     last_name: Thistlewood
-    bio: "Jevon Thistlewood is the conservator of paintings at the Ashmolean Museum of Art and Archaeology, University of Oxford and is an accredited member of the Institute of Conservation (ICON). He graduated from the University of Leeds with a degree in chemistry and a master’s degree in sculpture studies. He has a master’s degree in the Conservation of Fine Art (Easel Paintings) from the University of Northumbria. Thistlewood’s research interests are wide and varied, and often relate to paintings from antiquity to the present."
+    bio: "Jevon Thistlewood is the conservator of paintings at the Ashmolean Museum of Art and Archaeology, University of Oxford, and is an accredited member of the Institute of Conservation (ICON). He graduated from the University of Leeds with degrees in chemistry and sculpture studies, and he has a master’s degree in the Conservation of Fine Art (Easel Paintings) from the University of Northumbria. Thistlewood’s research interests are wide and varied, and often relate to paintings from antiquity to the present."
   - id: cthomas 
     type: secondary
     first_name: Caroline
     last_name: Thomas
-    bio: "Caroline Thomas is curator for Egyptian art in the Louvre Museum in Paris, where she oversees the Graeco-Roman, Egyptian, and Sudanese collections. In addition to her work on mummy portraits and panels of gods, her research focuses on First Millennium BCE cartonnages, coffins, and funerary practices. Before joining the Louvre in 2018, she worked for the C2RMF where she developed her expertise in conservation sciences. She trained at the École du Louvre, Sorbonne University (Paris), and Lille University in art history, Egyptology, and museology."
+    bio: "Caroline Thomas is curator for Egyptian art at the Louvre Museum in Paris, where she oversees the Graeco-Roman, Egyptian, and Sudanese collections. In addition to her work on mummy portraits and panels of gods, her research focuses on First Millennium BCE cartonnages, coffins, and funerary practices. Before joining the Louvre in 2018 she worked for the C2RMF, where she developed her expertise in conservation sciences. She trained at the École du Louvre, Sorbonne University (Paris), and Lille University in art history, Egyptology, and museology."
   - id: jthum  
     type: secondary
     first_name: Jen 
@@ -344,7 +344,7 @@ contributor:
     type: secondary
     first_name: Aurélie  
     last_name: Tournié
-    bio: "Aurélie Tournié obtained a PhD in physical chemistry in January 2009 from the Laboratoire de Dynamique Interactions et Réactivité at CNRS and UPMC (Paris 6). She held three post-doctorate positions from 2009 to 2012, during which she acquired expertise in the characterization, by vibrational spectroscopies (Raman and IR), of inorganic and organic materials in laboratory and on-site. She is currently research engineer at the CRC where her main projects develop optical and spectroscopic methods, in particular hyperspectral imaging applied to cultural heritage objects and materials."
+    bio: "Aurélie Tournié obtained a PhD in physical chemistry in January 2009 from the Laboratoire de Dynamique, Interactions et Réactivité at CNRS and University of Pierre and Marie Curie (UPMC; Paris 6). She held three postdoctorate positions from 2009 to 2012, during which she acquired expertise in the characterization, by vibrational spectroscopies (Raman and IR), of inorganic and organic materials in the laboratory and on-site. She is currently research engineer at the CRC where her main projects develop optical and spectroscopic methods, in particular hyperspectral imaging applied to cultural heritage objects and materials."
   - id: ptsakri
     type: secondary
     first_name: Peppy
@@ -359,7 +359,7 @@ contributor:
     type: secondary
     first_name: Jan M.
     last_name: van Daal
-    bio: "Jan M. van Daal is a technical art historian with a background in classical archaeology and Latin. He engages with textual sources, object analyses, and historical reconstructions to understand the meanings of materials and production processes that underlie cultural heritage objects. van Daal currently works as a PhD candidate at Utrecht University. He is part of the ERC-funded project, “Dynamics of the Durable: A History of Making Things Last in the Visual and Decorative Arts” (DURARE). Within DURARE van Daal investigates the meaning of durability in the development of medieval splendor."
+    bio: "Jan M. van Daal is a technical art historian with a background in classical archaeology and Latin. He engages with textual sources, object analyses, and historical reconstructions to understand the meanings of materials and production processes that underlie cultural heritage objects. Van Daal is currently a PhD candidate at Utrecht University. He is part of the ERC-funded project “Dynamics of the Durable: A History of Making Things Last in the Visual and Decorative Arts” (DURARE). Within DURARE van Daal investigates the meaning of durability in the development of medieval splendor."
   - id: bvoruiter
     type: secondary
     first_name: Branko F.    
@@ -369,7 +369,7 @@ contributor:
     type: secondary
     first_name: Marc
     last_name: Vermeulen
-    bio: "Marc Vermeulen is the head of Heritage Science and Conservation Research at the National Archives (TNA). He earned his PhD in chemistry from the University of Antwerp in 2017, specializing in the study of arsenic sulfide pigments. Before joining TNA, he worked at NU-ACCESS, where he contributed to various projects, including the material characterization of Fayum portraits. Vermeulen has co-authored thirty-five peer-reviewed scientific papers concerning heritage science and conservation techniques, pigment and colorant analysis, analytical methodologies and data processing, and material characterization and degradation studies. His research integrates scientific analysis and cultural heritage preservation, advancing the understanding and conservation of historical materials."
+    bio: "Marc Vermeulen is the head of Heritage Science and Conservation Research at the National Archives (TNA). He earned his PhD in chemistry from the University of Antwerp in 2017, specializing in the study of arsenic sulfide pigments. Before joining TNA, he worked at the Center for Scientific Studies in the Arts (NU-ACCESS), where he contributed to various projects, including the material characterization of Fayum portraits. Vermeulen has coauthored thirty-five peer-reviewed scientific papers concerning heritage science and conservation techniques, pigment and colorant analysis, analytical methodologies and data processing, and material characterization and degradation studies. His research integrates scientific analysis and cultural heritage preservation, advancing the understanding and conservation of historical materials."
   - id: gverri  
     type: secondary
     first_name: Giovanni
@@ -379,17 +379,17 @@ contributor:
     type: secondary
     first_name: Marc
     last_name: Walton
-    bio: "Marc Walton joined the Museum Studies program at the University of Hong Kong in the fall of 2024 as a professor. Prior to this, he held senior leadership positions at Hong Kong’s M+ (head of conservation and research) and worked in academia as co-director of NU-ACCESS , where he was also research professor of materials science. He led multiple scientific projects investigating art objects in collaboration with cultural heritage institutions representing a broad range of disciplines at NU-ACCESS, from anthropology to contemporary art, with broad geographical reach. Walton’s areas of research have focused primarily on the manufacture and trade of archaeological objects and on developing imaging technologies in the field of conservation science. He has more recently delved into sustainable collections care. These efforts have resulted in over one hundred peer-reviewed articles."
+    bio: "Marc Walton joined the Museum Studies program at the University of Hong Kong in the fall of 2024 as a professor. Prior to this, he held senior leadership positions at Hong Kong’s M+ (head of conservation and research) and worked in academia as co-director of NU-ACCESS, where he was also research professor of materials science. He led multiple scientific projects investigating art objects in collaboration with cultural heritage institutions representing a broad range of disciplines at NU-ACCESS, from anthropology to contemporary art, with broad geographical reach. Walton’s areas of research have focused primarily on the manufacture and trade of archaeological objects and on developing imaging technologies in the field of conservation science. He has more recently delved into sustainable collections care. These efforts have resulted in over one hundred peer-reviewed articles."
   - id: bwagner   
     type: secondary
     first_name: Barbara
     last_name: Wagner
-    bio: "Barbara Wagner is a chemist and professor in the Laboratory of Theoretical Aspects of Analytical Chemistry at the Faculty of Chemistry, University of Warsaw. She received her master’s from the Faculty of Conservation and Restoration of Works of Art at the Academy of Fine Arts in Warsaw with the highest honors. As head of the Interdisciplinary Laboratory of Archaeometric Research at the University of Warsaw Biological and Chemical Research Centre, she is actively involved in the Polish Distributed Research Infrastructure for Heritage Science E-RIHS.pl project (http://www.e-rihs.pl/). She has authored papers about the use of micro- and non-destructive spectral methods in the analysis of cultural heritage objects."
+    bio: "Barbara Wagner is a chemist and professor in the Laboratory of Theoretical Aspects of Analytical Chemistry at the Faculty of Chemistry, University of Warsaw. She received her master’s from the Faculty of Conservation and Restoration of Works of Art at the Academy of Fine Arts in Warsaw with highest honors. As head of the Interdisciplinary Laboratory of Archaeometric Research at the University of Warsaw Biological and Chemical Research Centre, she is actively involved in the Polish Distributed Research Infrastructure for Heritage Science project (http://www.e-rihs.pl/). She has authored papers about the use of micro- and non-destructive spectral methods in the analysis of cultural heritage objects."
   - id: awhyte   
     type: secondary
     first_name: Alison
     last_name: Whyte
-    bio: "Alison Whyte is senior conservator of objects at the Institute for the Study of Ancient Cultures at the University of Chicago where she has specialized in the preservation of archaeological material from West Asia and North Africa since 2001. A professional associate of the American Institute for Conservation, she is a graduate of the Queen’s University Master of Art Conservation Program and holds a BA in anthropology from the University of British Columbia and a MA in ancient studies from the University of Toronto."
+    bio: "Alison Whyte is senior conservator of objects at the Institute for the Study of Ancient Cultures at the University of Chicago where she has specialized in the preservation of archaeological material from West Asia and North Africa since 2001. A professional associate of the American Institute for Conservation, she is a graduate of the Queen’s University Master of Art Conservation Program and holds a BA in anthropology from the University of British Columbia and an MA in ancient studies from the University of Toronto."
   - id: mwiggins   
     type: secondary
     first_name: Marcie
@@ -399,7 +399,7 @@ contributor:
     type: secondary
     first_name: Magdalena 
     last_name: Wróbel-Szypula
-    bio: "Magdalena Wróbel-Szypula works in the Department of Conservation laboratory of the National Museum in Warsaw. She specializes in the analysis of organic compounds present in historical artifacts using FTIR spectroscopy. She obtained her PhD in physical chemistry from University of Leeds and MSc in chemistry, with specialization in analytical chemistry, from University of Silesia in Katowice."
+    bio: "Magdalena Wróbel-Szypula works in the Department of Conservation laboratory of the National Museum in Warsaw. She specializes in the analysis of organic compounds present in historical artifacts using FTIR spectroscopy. She obtained her PhD in physical chemistry from the University of Leeds and an MSc in chemistry, with specialization in analytical chemistry, from the University of Silesia in Katowice."
 
 # ------------------------------------------------------------------------------
 # Copright & License
