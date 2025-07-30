@@ -87,7 +87,7 @@ outputs:
 </div>
 <div class="cover-image-credits">
 
-Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century AD (detail, [fig. 13.6](/13/#fig-13-6))
+Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century CE (detail, [fig. 13.6](/13/#fig-13-6))
 
 Illustration Credits
 
