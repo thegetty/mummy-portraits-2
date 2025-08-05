@@ -21,9 +21,9 @@ short_title:
 description:
   one_line:
   full: | 
-    Nearly a thousand funerary portraits from Roman Egypt, once interred with mummified remains, survive in museums around the world. These fascinating paintings offer the unparalleled opportunity for viewers to come face-to-face with people who lived and died some two thousand years ago.
+    Just over a thousand funerary portraits from Roman Egypt, most of which were separated from their interred mummified remains, survive in museums around the world. These fascinating ancient paintings offer an unparalleled opportunity for viewers to come face-to-face with people who lived and died some two thousand years ago.
 
-    The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of Mummy Portraits of Roman Egypt compiles seventeen scholarly papers from the APPEAR conference hosted in October 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and curators presented new research on topics such as technical imaging; non-destructive analytical techniques like elemental mapping; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, binders, and supports. Some of the artworks discussed in this publication had never before been systematically studied. With the most up-to-date information available about the production, function, and history of these painted remnants of the ancient world, this volume will be a valuable resource to conservators, scientists, curators, and collectors.
+    The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of Mummy Portraits of Roman Egypt contains seventeen scholarly papers from the APPEAR conference hosted in 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and scholars presented new research on topics such as technical imaging; non-destructive analytical techniques; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, and binders. With the most up-to-date information available about the production, materiality, function, and history of these painted funerary artifacts, this volume will be an invaluable resource to all who research ancient art. 
 
   online_edition: | 
     The free online edition of this open-access publication is available at getty.edu/publications/mummy-portraits-2 and includes zoomable illustrations and graphs. Also available are free PDF and EPUB downloads of the book. 
@@ -49,10 +49,10 @@ publisher:
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
-      [getty.edu/publications/](https://www.getty.edu/publications/)
+      [getty.edu/publications](https://www.getty.edu/publications/)
 
 project_team:
-  - Rachel Barth and Elizabeth S. G. Nicholson, *Project Editors*
+  - Rachel Barth, *Project Editor*
   - Amanda Sparrow, Katrina Posner, Courtney Johnson Thomas, and Leslie Tilley, *Manuscript Editors*
   - Greg Albers, *Digital Publications Manager*
   - Erin Cecele Dunigan, *Digital Project Lead*
@@ -455,8 +455,9 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: February 3, 2026
     summary:
+      - First edition
 
 revision_statement: |
     Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/mummy-portraits-2, where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
