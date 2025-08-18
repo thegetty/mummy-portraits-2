@@ -243,15 +243,8 @@ q-lightbox .q-figure-slides__slide-ui form {
   line-height: 1.6 !important;
 }
 
-/* Remove extra space between publisher and address on copyright page */
-@media print {
-  div.publisher p:first-child {
-    margin-bottom: 0 !important;
-  }
+/* Remove extra space between publisher and address on copyright and about page */
+
+div.publisher p:first-child {
+  margin-bottom: 0 !important;
 }
-
-/* Remove extra space between publisher and address on copyright page */
-
- div.publisher p:first-child {
-    margin-bottom: 0 !important;
-  }
