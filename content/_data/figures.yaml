@@ -897,7 +897,7 @@ figure_list:
     caption: "Ultraviolet-induced visible fluorescence image of Mummy Portrait of a Man. Ny Carlsberg Glyptotek, ÆIN 684."
     credit: "Photo: Maria Louise Sargent"
     alt: "TK"
-    zoom: "true"
+    #zoom: "true"
 
   - id: "fig-8-10"
     src: "figures/fig-8-10.jpg"
@@ -983,7 +983,7 @@ figure_list:
     src: "tables/table-8-17.html"
     media_type: table
     label: "Figure 8.17"
-    caption: "Radiocarbon dates obtained for two portraits: Los Angeles, J. Paul Getty Museum, 74.AP.11 and NSM F.1978.19.P."
+    caption: "Radiocarbon dates obtained <mark class='red'>from the egg coating on</mark> two portraits: JPGM 74.AP.11 and NSM F.1978.19.P."
     credit: ""
     alt: "TK"
   
@@ -1570,10 +1570,18 @@ figure_list:
         src: "figures/fig-13-7-d.jpg"
         alt: 
  
-  - id: "fig-13-8"
-    src: "figures/fig-13-8.jpg"
-    label: "Figure 13.8"
-    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798, AIC 1922.4799, MN 0251, MN 0252, OI E2053 and OI E9137."
+  - id: "fig-13-8-a"
+    src: "figures/fig-13-8-a.jpg"
+    label: "Figure 13.8A"
+    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798 and AIC 1922.4799."
+    credit: "TK"
+    alt: "TK"
+    zoom: "true"
+
+  - id: "fig-13-8-b"
+    src: "figures/fig-13-8-b.jpg"
+    label: "Figure 13.8B"
+    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: MN 0251, MN 0252, OI E2053 and OI E9137."
     credit: "TK"
     alt: "TK"
     zoom: "true"
@@ -2140,8 +2148,8 @@ figure_list:
     src: "tables/table-17-11.html"
     media_type: table
     label: "Figure 17.11"
-    caption: "Layers present and pigments detected in the cross-sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits."
-    credit: "Photos: (A) © Saint Louis Art Museum. (B) © President and Fellows of Harvard College. &#40;C) © Smith College Museum of Art"
+    caption: "Layers present and pigments detected in the cross sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits."
+    credit:
     alt: "TK"
  
   - id: "fig-17-12"

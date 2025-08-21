@@ -313,6 +313,10 @@ q-lightbox .q-figure-slides__slide-ui form {
     max-height: 4in !important;
     width: auto;
   }
+  .pdf-4q2in-height .q-figure__image {
+    max-height: 4.5in !important;
+    width: auto;
+  }
   .pdf-5in-height .q-figure__image {
     max-height: 5in !important;
     width: auto;
@@ -349,6 +353,11 @@ q-lightbox .q-figure-slides__slide-ui form {
       max-width: 0.5in !important;
       height: auto;
     }
+
+    table p {
+      text-align: left;
+      font-size: 12px;
+    }
   }
 
   /* Set figure images to span both columns and to float to top, only works with prince */
@@ -357,6 +366,18 @@ q-lightbox .q-figure-slides__slide-ui form {
     float: none;
     -prince-float: top;
     margin-top: 0 !important;
+  }
+
+  /* Set figure images to float to top, only works with prince */
+  .q-figure.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  div.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-bottom: 2rem;
   }
 }
 
@@ -380,4 +401,9 @@ q-lightbox .q-figure-slides__slide-ui form {
 .q-figure.q-figure--table table + div p {
   margin-bottom: .1625em;
   line-height: 1.6 !important;
+}
+
+mark.red {
+  color:red;
+  background: none;
 }
