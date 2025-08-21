@@ -403,7 +403,15 @@ q-lightbox .q-figure-slides__slide-ui form {
   line-height: 1.6 !important;
 }
 
+/* Red lettering for table 8.17 */
 mark.red {
   color:red;
   background: none;
 }
+
+/* Remove extra space between publisher and address on copyright and about page */
+
+div.publisher p:first-child {
+  margin-bottom: 0 !important;
+}
+
