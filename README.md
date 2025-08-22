@@ -61,6 +61,16 @@ TK
 
 ### Customizations
 
+**_includes/components/page-header.js**
+**_layouts/essay.liquid**
+**_layouts/page.liquid**
+**_plugins/filters/index.js**
+**_plugins/filters/lastName.js**
+**_plugins/shortcodes/contributors.js**
+**content/_assets/styles/print.scss**
+**content/_data/config.yaml**
+Added support for better PDF running heads
+
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
 

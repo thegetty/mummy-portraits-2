@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add support for better PDF running heads
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -10,6 +14,7 @@ const checkFormat = require('../../_plugins/collections/filters/output.js')
  */
 module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
 
@@ -17,6 +22,12 @@ module.exports = function(eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
 
   const pdfConfig = eleventyConfig.globalData.config.pdf
+
+  const {
+    runningHeadDefault,
+    runningHeadRecto,
+    runningHeadVerso,
+  } = pdfConfig
 
   /**
    * @function checkPagePDF
@@ -49,6 +60,8 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
+      parentPage,
+      short_title: shortTitle,
       subtitle,
       title,
       outputs,
@@ -84,6 +97,55 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
+    function getPDFRunningHead(value) {
+
+      let runningHead
+      
+      switch (value) {
+        case 'title':
+          runningHead = shortTitle
+            ? markdownify(shortTitle)
+            : markdownify(title)
+          break
+        case 'label':
+          runningHead = label
+            ? markdownify(label)
+            : getPDFRunningHead(runningHeadDefault)
+          break
+        case 'section':
+          if (!parentPage) {
+            runningHead = getPDFRunningHead(runningHeadDefault)
+          } else {
+            runningHead = parentPage.short_title
+            ? markdownify(parentPage.short_title)
+            : markdownify(parentPage.title)
+          }
+          break
+        case 'contributor':
+          if (!pageContributors) {
+            runningHead = getPDFRunningHead(runningHeadDefault)
+          } else if (pageContributors.length > 7 ) {
+            // Per the Chicago Manual of Style, only list the first 7 contributors
+            const pageContributorsPartial = pageContributors.slice(0, 7)
+            const lastNameList = contributors({ context: pageContributorsPartial, format: 'last-name' })
+            runningHead = lastNameList.replace(', and ', ', ') + ', et al.'
+          } else {
+            runningHead = contributors({ context: pageContributors, format: 'last-name' })
+          }
+          break
+        default:
+          runningHead = ''
+          break
+      }
+      
+      return runningHead
+    }
+
+    const pdfRunningHeadElements = html`
+      <span class="pdf-running-head pdf-running-head--recto pdf-running-head--${runningHeadRecto}" data-outputs-include="pdf">${getPDFRunningHead(runningHeadRecto)}</span>
+      <span class="pdf-running-head pdf-running-head--verso pdf-running-head--${runningHeadVerso}" data-outputs-include="pdf">${getPDFRunningHead(runningHeadVerso)}</span>
+    `
+
     let downloadLink = ''
 
     if (checkPagePDF(pdfConfig,outputs,pagePDFOutput)) {
@@ -105,6 +167,7 @@ module.exports = function(eleventyConfig) {
           </h1>
           ${contributorsElement}
           ${downloadLink}
+          ${pdfRunningHeadElements}
         </div>
       </section>
       ${imageElement}

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add lastname filter to support better PDF running heads
+//
 // Quire data filters
 const fullname = require('./fullname')
 const getAnnotation = require('./getAnnotation')
@@ -5,6 +9,7 @@ const getContributor = require('./getContributor')
 const getFigure = require('./getFigure')
 const getObject = require('./getObject')
 const initials = require('./initials')
+const lastName = require('./lastName')
 const keywords = require('./keywords')
 const sortContributors = require('./sortContributors')
 const sortReferences = require('./sortReferences')
@@ -37,6 +42,7 @@ module.exports = function(eleventyConfig, options) {
   eleventyConfig.addFilter('getObject', (id) => getObject(eleventyConfig, id))
   eleventyConfig.addFilter('initials', (person, options) => initials(person, options))
   eleventyConfig.addFilter('keywords', () => keywords(eleventyConfig))
+  eleventyConfig.addFilter('lastName', (person, options) => lastName(person, options))
   eleventyConfig.addFilter('sortContributors', (contributors) => sortContributors(eleventyConfig, contributors))
   eleventyConfig.addFilter('sortReferences', (items) => sortReferences(eleventyConfig, items))
   /**
