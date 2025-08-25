@@ -66,10 +66,10 @@ pdf:
     accessLinks:
       - header: true 
         label: 'PDF'
-      - footer: true
+      - footer: false
         label: 'Download this page'
     coverPage: true
-    output: false
+    output: true
   publicationPDF:
     output: true
 

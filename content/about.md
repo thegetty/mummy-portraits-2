@@ -4,6 +4,7 @@ layout: page
 order: 503
 outputs:
   - html
+page_pdf_output: false
 ---
 
 {{ publication.description.full }}

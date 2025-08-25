@@ -9,6 +9,7 @@ outputs:
   - pdf
 toc: false
 menu: false 
+page_pdf_output: false
 ---
 
 {{ config.quire_credit_line }}

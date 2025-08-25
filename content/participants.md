@@ -2,6 +2,7 @@
 title: APPEAR Participants
 layout: page
 order: 200
+page_pdf_output: false
 ---
 
 Allard Pierson Museum, Amsterdam
