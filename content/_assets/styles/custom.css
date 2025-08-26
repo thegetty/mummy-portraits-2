@@ -253,8 +253,35 @@ q-lightbox .q-figure-slides__slide-ui form {
   line-height: 1.6 !important;
 }
 
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */
-
 div.publisher p:first-child {
+  margin-bottom: 0 !important;
+}
+/* Hide logo */
+.copyright > .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Remove link border style from CC icons */
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0;
+}
+/* Simplify project team list */
+.project-team ul {
+  margin-left: 0;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.project-team ul li {
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+}
+.project-team ul li::before {
+  content: '' !important;
+}
+/* Remove space below image credits heading */
+.cover-image-credits .illustration-credits-heading {
   margin-bottom: 0 !important;
 }

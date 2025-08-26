@@ -53,7 +53,7 @@ Distributed outside the United States and Canada by Yale&nbsp;University&nbsp;Pr
 
 Front cover: Mummy portrait of a man, Greek/Roman/Egyptian, second century CE (detail, fig. 13.6)
 
-Illustration Credits
+Illustration Credits {.illustration-credits-heading}
 
 Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
