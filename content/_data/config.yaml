@@ -57,7 +57,7 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'mummy-portraits'
   outputDir: '/_assets/downloads' 
   runningHeadDefault: title # none | title
   runningHeadRecto: title # contributor | label | none | section | title
