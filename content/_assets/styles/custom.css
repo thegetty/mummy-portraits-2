@@ -148,6 +148,15 @@ q-lightbox .q-figure-slides__slide-ui form {
   position: relative;
 }
 
+/* Fix display of images in tables */
+.q-lightbox-slides__element table img {
+  position: relative;
+  transform: none;
+  top: 0;
+  left: 0;
+  max-height: 300px;
+}
+
 /* Adjust figure image heights */
 @media print {
   .pdf-2q2in-height .q-figure__image {
@@ -234,12 +243,13 @@ q-lightbox .q-figure-slides__slide-ui form {
 }
 .q-lightbox-slides__element--table table + div,
 .q-figure.q-figure--table table + div {
-  font-size: .75em;
+  font-size: .875em;
   margin-top: .25em;
+  text-align: left;
 }
 .q-lightbox-slides__element--table table + div p,
 .q-figure.q-figure--table table + div p {
-  margin-bottom: .1625em;
+  margin-bottom: .25em;
   line-height: 1.6 !important;
 }
 
