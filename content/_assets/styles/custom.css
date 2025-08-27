@@ -253,6 +253,18 @@ q-lightbox .q-figure-slides__slide-ui form {
   line-height: 1.6 !important;
 }
 
+/* Add getty logo to the PDF cover pages */
+.pdf-cover-page::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  background-image: url('_assets/images/logo-getty.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: .625in;
+  width: 4in;
+}
+
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */

@@ -87,6 +87,9 @@ Add cc icons to PDF output
 **_includes/components/lightbox/data.js**
 Fix errant duplication of caption in lightbox data
 
+**_layouts/pdf-cover-page.liquid**
+Handle cover page title same as other elements, remove MLA citation
+
 **_plugins/filters/getContributor.js**
 Use local contributor sort_as value if given
 
