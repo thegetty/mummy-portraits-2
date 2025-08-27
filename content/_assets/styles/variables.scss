@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #5c6e48;
 $content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$secondary-background-color: #f9f9f2; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -69,7 +69,7 @@ $print-inner-margin: 1in;
 $print-base-font-size: 8.5pt;
 $print-text-color: $black;
 
-$print-splash-color: $off-white;
+$print-splash-color: #f9f9f2;
 
 $print-entry-image-color: $black; // or can use $rich-black with PrinceXML
 $print-entry-caption-color: $white;

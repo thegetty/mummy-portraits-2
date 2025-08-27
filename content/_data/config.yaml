@@ -1,3 +1,7 @@
+##
+## CUSTOMIZED FILE
+## Added configuration to support better PDF running heads
+##
 accordion:
   controls: arrow # arrow | plus-minus
   copyButton:
@@ -53,16 +57,19 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'mummy-portraits'
   outputDir: '/_assets/downloads' 
+  runningHeadDefault: title # none | title
+  runningHeadRecto: title # contributor | label | none | section | title
+  runningHeadVerso: contributor # contributor | label | none | section | title
   pagePDF:
     accessLinks:
       - header: true 
         label: 'PDF'
-      - footer: true
+      - footer: false
         label: 'Download this page'
     coverPage: true
-    output: false
+    output: true
   publicationPDF:
     output: true
 

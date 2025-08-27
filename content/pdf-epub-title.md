@@ -7,6 +7,7 @@ outputs:
   - pdf
   - epub
 toc: false
+page_pdf_output: false
 ---
 
 <section class="title-block">

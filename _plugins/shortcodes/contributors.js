@@ -2,6 +2,7 @@
 // CUSTOMIZED FILE
 // Refactor logic to handle oxford commas correctly, lines 118–126
 // Remove id from .quire-contributor list element (undefined causes EPUB validation error)
+// Add lastname functionality to support better PDF running heads
 //
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
@@ -24,6 +25,7 @@ module.exports = function (eleventyConfig) {
   const fullname = eleventyConfig.getFilter('fullname')
   const getContributor = eleventyConfig.getFilter('getContributor')
   const initials = eleventyConfig.getFilter('initials')
+  const lastName = eleventyConfig.getFilter('lastName')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const slugify = eleventyConfig.getFilter('slugify')
   const sortContributors = eleventyConfig.getFilter('sortContributors')
@@ -39,7 +41,7 @@ module.exports = function (eleventyConfig) {
       type='all'
     } = params
 
-    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string']
+    const formats = ['bio', 'initials', 'last-name', 'name', 'name-title', 'name-title-block', 'string']
 
     if (format && !formats.includes(format)) {
       logger.error(
@@ -83,6 +85,20 @@ module.exports = function (eleventyConfig) {
             ? contributorInitials.join(', ') + ', and ' + last
             : last
         contributorsElement = `<span class="quire-contributor">${nameString}</span>`
+        break
+      }
+      case 'last-name': {
+        const contributorLastNames = contributorList.map(lastName).filter((name) => name)
+        const last = contributorLastNames.pop()
+        let namesString = ''
+        if (contributorLastNames.length > 1) {
+          namesString = contributorLastNames.join(', ') + ', and ' + last
+        } else if (contributorLastNames.length == 1 ){
+          namesString = contributorLastNames + ' and ' + last
+        } else {
+          namesString = last
+        }
+        contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }
       case 'name':

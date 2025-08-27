@@ -5,6 +5,7 @@ contributor:
     - id: ccartwright
     - id: msvoboda
 order: 220
+page_pdf_output: false
 ---
 
 The APPEAR project has grown significantly since its formation in 2013: today it represents sixty-two institutions, bringing together scholars with diverse areas of expertise for the collaborative research, analyses, and exploration of ancient funerary paintings. This cooperative venture to develop a collective data platform has involved considerable international communication and meetings, two conferences, two publications, and many journal articles. None of this would have been possible without the generosity, insight, and guidance of many people. We are grateful to the J. Paul Getty Trust, and those who have supported the project over the past twelve years, especially Timothy Potts, Robin Weissberger, and Richard Rand, as well as former Getty President and CEO James Cuno, who was instrumental in championing APPEAR from the outset.

@@ -287,6 +287,15 @@ q-lightbox .q-figure-slides__slide-ui form {
   position: relative;
 }
 
+/* Fix display of images in tables */
+.q-lightbox-slides__element table img {
+  position: relative;
+  transform: none;
+  top: 0;
+  left: 0;
+  max-height: 300px;
+}
+
 /* Adjust figure image heights */
 @media print {
   .pdf-2q2in-height .q-figure__image {
@@ -432,13 +441,26 @@ q-lightbox .q-figure-slides__slide-ui form {
 }
 .q-lightbox-slides__element--table table + div,
 .q-figure.q-figure--table table + div {
-  font-size: .75em;
+  font-size: .875em;
   margin-top: .25em;
+  text-align: left;
 }
 .q-lightbox-slides__element--table table + div p,
 .q-figure.q-figure--table table + div p {
-  margin-bottom: .1625em;
+  margin-bottom: .25em;
   line-height: 1.6 !important;
+}
+
+/* Add getty logo to the PDF cover pages */
+.pdf-cover-page::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  background-image: url('_assets/images/logo-getty.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: .625in;
+  width: 4in;
 }
 
 /* Red lettering for table 8.17 */
@@ -446,13 +468,6 @@ mark.red {
   color:red;
   background: none;
 }
-
-/* Remove extra space between publisher and address on copyright and about page */
-
-div.publisher p:first-child {
-  margin-bottom: 0 !important;
-}
-
 
 /* Scooch down text under large figure image to next page */
 @media print {
@@ -465,11 +480,35 @@ div.publisher p:first-child {
   }
 }
 
-@media screen {
-  .q-lightbox-slides__element canvas-panel, .q-lightbox-slides__element img, .q-lightbox-slides__element image-service {
-    position: relative;
-    top: 0;
-    transform: none;
-    left: 0;
-  }
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
+/* Remove extra space between publisher and address on copyright and about page */
+div.publisher p:first-child {
+  margin-bottom: 0 !important;
+}
+/* Hide logo */
+.copyright > .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Remove link border style from CC icons */
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0;
+}
+/* Simplify project team list */
+.project-team ul {
+  margin-left: 0;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.project-team ul li {
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+}
+.project-team ul li::before {
+  content: '' !important;
+}
+/* Remove space below image credits heading */
+.cover-image-credits .illustration-credits-heading {
+  margin-bottom: 0 !important;
 }
