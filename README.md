@@ -84,6 +84,9 @@ Add all annotation image layers to PDF output
 **_layouts/pdf.liquid**
 Add cc icons to PDF output
 
+**_layouts/cover.liquid**
+Display multilayered cover image in animated quadrants
+
 **_includes/components/lightbox/data.js**
 Fix errant duplication of caption in lightbox data
 
