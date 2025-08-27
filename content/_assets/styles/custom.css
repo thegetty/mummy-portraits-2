@@ -59,9 +59,9 @@
   animation-iteration-count: infinite;
   animation-duration: 16s;
 }
-.quire-cover__overlay img {
+/* .quire-cover__overlay img {
   object-fit: none;
-}
+} */
 .quire-cover__overlay.upper-left img {
   object-position: bottom right;
 }
@@ -105,18 +105,15 @@
   animation-name: none;
 }
 .quire-cover__overlay.upper-left img:nth-of-type(2) {
-  animation-delay: 8s;
-}
-.quire-cover__overlay.upper-left img:nth-of-type(3) {
   animation-delay: 6s;
 }
-.quire-cover__overlay.upper-left img:nth-of-type(4) {
+.quire-cover__overlay.upper-left img:nth-of-type(3) {
   animation-delay: 4s;
 }
-.quire-cover__overlay.upper-left img:nth-of-type(5) {
+.quire-cover__overlay.upper-left img:nth-of-type(4) {
   animation-delay: 2s;
 }
-.quire-cover__overlay.upper-left img:nth-of-type(6) {
+.quire-cover__overlay.upper-left img:nth-of-type(5) {
   animation-delay: 0;
 }
 
@@ -124,18 +121,15 @@
   animation-name: none;
 }
 .quire-cover__overlay.upper-right img:nth-of-type(2) {
-  animation-delay: 10s;
-}
-.quire-cover__overlay.upper-right img:nth-of-type(3) {
   animation-delay: 8s;
 }
-.quire-cover__overlay.upper-right img:nth-of-type(4) {
+.quire-cover__overlay.upper-right img:nth-of-type(3) {
   animation-delay: 6s;
 }
-.quire-cover__overlay.upper-right img:nth-of-type(5) {
+.quire-cover__overlay.upper-right img:nth-of-type(4) {
   animation-delay: 4s;
 }
-.quire-cover__overlay.upper-right img:nth-of-type(6) {
+.quire-cover__overlay.upper-right img:nth-of-type(5) {
   animation-delay: 2s;
 }
 
@@ -143,18 +137,15 @@
   animation-name: none;
 }
 .quire-cover__overlay.lower-right img:nth-of-type(2) {
-  animation-delay: 12s;
-}
-.quire-cover__overlay.lower-right img:nth-of-type(3) {
   animation-delay: 10s;
 }
-.quire-cover__overlay.lower-right img:nth-of-type(4) {
+.quire-cover__overlay.lower-right img:nth-of-type(3) {
   animation-delay: 8s;
 }
-.quire-cover__overlay.lower-right img:nth-of-type(5) {
+.quire-cover__overlay.lower-right img:nth-of-type(4) {
   animation-delay: 6s;
 }
-.quire-cover__overlay.lower-right img:nth-of-type(6) {
+.quire-cover__overlay.lower-right img:nth-of-type(5) {
   animation-delay: 4s;
 }
 
@@ -162,19 +153,95 @@
   animation-name: none;
 }
 .quire-cover__overlay.lower-left img:nth-of-type(2) {
-  animation-delay: 14s;
-}
-.quire-cover__overlay.lower-left img:nth-of-type(3) {
   animation-delay: 12s;
 }
-.quire-cover__overlay.lower-left img:nth-of-type(4) {
+.quire-cover__overlay.lower-left img:nth-of-type(3) {
   animation-delay: 10s;
 }
-.quire-cover__overlay.lower-left img:nth-of-type(5) {
+.quire-cover__overlay.lower-left img:nth-of-type(4) {
   animation-delay: 8s;
 }
-.quire-cover__overlay.lower-left img:nth-of-type(6) {
+.quire-cover__overlay.lower-left img:nth-of-type(5) {
   animation-delay: 6s;
+}
+
+/* Cover type */
+.hero-body .container.is-fluid {
+  background-color: #5c6e48;
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.quire-cover__hero .contributor {
+  margin-top: 1.5rem;
+}
+
+/* add contributors to cover content area for mobile devices only */
+.mobile-contributor {
+  display: none;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+/* Soften black on down arrow circle */
+.quire-cover__more .hero-more {
+  background: #333;
+}
+
+@media screen and (max-width: 689px){
+  .quire-cover__hero {
+    overflow: hidden;
+  }
+  .quire-cover__overlay {
+    width: 100%;
+    /* make the top images 40% height */
+    height: calc((95vh - 3rem) * .4);
+    min-height: calc((95vh - 3rem) * .4);
+  }
+  .quire-cover__overlay img {
+    /* show more of the image */
+    object-fit: cover;
+  }
+  .quire-cover__overlay.upper-left,
+  .quire-cover__overlay.lower-left {
+    left: -50vw;
+  }
+  .quire-cover__overlay.upper-right,
+  .quire-cover__overlay.lower-right {
+    margin-right: -50vw;
+  }
+  .quire-cover__overlay.lower-left,
+  .quire-cover__overlay.lower-right {
+    top: 40%;
+    /* make the bottom images 60% height */
+    height: calc((95vh - 3rem) * .6);
+    min-height: calc((95vh - 3rem) * .6);
+  }
+  /* adjust spacing and display on title/subtitle block */
+  .hero-body .container.is-fluid {
+    bottom: 0%;
+    margin: 0;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+  .quire-cover__hero .title {
+    margin: 0;
+  }
+  .quire-cover__hero .subtitle {
+    line-height: 1.35;
+  }
+  /* hide contributor in title block */
+  .quire-cover__hero .contributor {
+    display: none;
+  }
+  /* display contributor in content area */
+  .mobile-contributor {
+    display: block;
+  }
 }
 
 /* FIGURES
