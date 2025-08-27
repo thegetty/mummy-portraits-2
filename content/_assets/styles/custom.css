@@ -423,8 +423,9 @@ q-lightbox .q-figure-slides__slide-ui form {
     width: auto;
   }
 
-  #fig-12-1.q-figure .q-figure__layers-group--radio.q-figure__layers-group--3 .q-figure__image {
-    width: 23%;
+  #fig-12-1.q-figure .q-figure__layers-group--radio {
+    max-width: 70%;
+    margin: 0 auto;
   }
 
   /* Set figure images to span both columns and to float to top, only works with prince */
