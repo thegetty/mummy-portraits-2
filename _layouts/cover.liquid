@@ -3,16 +3,43 @@ classes:
  - quire-cover
 description: Quire publication cover page
 layout: base.11ty.js
+## CUSTOMIZED FILE
+## Added image paths for quadrisected cover image layers in place of default, lines 12~40
 ---
 
 {% assign coverImage = image %}
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
-  <div
-    class="quire-cover__overlay"
-    style="background-image: url('{{ imagePath }}');"
-  >
+  <div class="quire-cover__overlay">
+    
+    <section class="quire-cover__hero hero is-fullheight">
+    <div class="quire-cover__overlay upper-left">
+    <img src="./_assets/images/upper-left/portrait.jpg">
+    <img src="./_assets/images/upper-left/portrait-uv.jpg">
+    <img src="./_assets/images/upper-left/portrait-xray.jpg">
+    <img src="./_assets/images/upper-left/portrait-ir.jpg">
+    </div>
+    <div class="quire-cover__overlay upper-right">
+    <img src="./_assets/images/upper-right/portrait.jpg">
+    <img src="./_assets/images/upper-right/portrait-uv.jpg">
+    <img src="./_assets/images/upper-right/portrait-xray.jpg">
+    <img src="./_assets/images/upper-right/portrait-ir.jpg">
+    </div>
+    <div class="quire-cover__overlay lower-left">
+    <img src="./_assets/images/lower-left/portrait.jpg">
+    <img src="./_assets/images/lower-left/portrait-uv.jpg">
+    <img src="./_assets/images/lower-left/portrait-xray.jpg">
+    <img src="./_assets/images/lower-left/portrait-ir.jpg">
+    </div>
+    <div class="quire-cover__overlay lower-right">
+    <img src="./_assets/images/lower-right/portrait.jpg">
+    <img src="./_assets/images/lower-right/portrait-uv.jpg">
+    <img src="./_assets/images/lower-right/portrait-xray.jpg">
+    <img src="./_assets/images/lower-right/portrait-ir.jpg">
+    </div>
+</section>
+
     <!-- This ensures background image asset gets copied into epub package -->
     <img class="visually-hidden" src="{{ imagePath }}" />
   </div>
