@@ -493,6 +493,13 @@ q-lightbox .q-figure-slides__slide-ui form {
     text-align: left;
     font-size: 10px;
   }
+
+  /* Ensure table rows don't break across pages */
+  th, td, tr,
+  .table-row-group {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
 }
 
 /* MISC
