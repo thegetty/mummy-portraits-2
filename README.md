@@ -53,7 +53,15 @@ git clone --recursive https://github.com/thegetty/mummy-portraits-2.git
 
 ### Creating a PDF Version
 
-TK
+1. Run `quire build`
+
+2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+
+    ```
+    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
+
+3. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
