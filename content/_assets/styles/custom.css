@@ -13,7 +13,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "FIRST";
+    content: "SECOND";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
