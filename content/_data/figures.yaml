@@ -911,7 +911,7 @@ figure_list:
     src: "figures/fig-8-11.jpg"
     label: "Figure 8.11"
     caption: "PMF spectra from a Getty (top) and a Glyptotek (center) portrait and whole hen egg reference (bottom). Several of the more intense egg-related ions are labeled; most unlabeled ions are contaminating keratin. The insets illustrate isotopic patterns for two N- and Q-containing peptides (1690.8 Da and 1893.0 Da) shifted to higher mass in the portrait samples compared to whole egg due to deamidation. All seven portraits analyzed gave similar results."
-    credit: "Figure: Daniel Kirby"
+    credit: "Table: Daniel Kirby"
     alt: "TK"
     zoom: "true"
 
@@ -919,7 +919,7 @@ figure_list:
     src: "figures/fig-8-12.jpg"
     label: "Figure 8.12"
     caption: "MS/MS spectra for the two ions in the insets (Figure 8.11) that confirm deamidation at N and Q residues. Labeled ions are those used to determine the peptide sequence by Mascot."
-    credit: "Figure: Daniel Kirby"
+    credit: "Table: Daniel Kirby"
     alt: "TK"
     zoom: "true"
 
@@ -983,7 +983,7 @@ figure_list:
     src: "tables/table-8-17.html"
     media_type: table
     label: "Figure 8.17"
-    caption: "Radiocarbon dates obtained <mark class='red'>from the egg coating on</mark> two portraits: JPGM 74.AP.11 and NSM F.1978.19.P."
+    caption: "Radiocarbon dates obtained from the egg coating on two portraits: JPGM 74.AP.11 and NSM F.1978.19.P."
     credit: ""
     alt: "TK"
   
