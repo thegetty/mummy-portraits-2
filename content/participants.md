@@ -54,6 +54,7 @@ Rhode Island School of Design Museum, Providence
 Rijksmuseum van Oudheden, Leiden, Netherlands
 Rosicrucian Egyptian Museum, San Jose, California
 Royal Museum of Mariemont, Belgium
+Royal Ontario Museum, Toronto
 San Antonio Museum of Art, Texas
 Santa Barbara Museum of Art, California
 Saint Louis Art Museum, Missouri
