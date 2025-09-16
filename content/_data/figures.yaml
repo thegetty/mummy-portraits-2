@@ -992,7 +992,7 @@ figure_list:
     media_type: table
     label: "Figure 9.1"
     caption: "The nine analyzed portraits in this study, including their provenience and age. The table is a schematic overview of the present pigment identification results together with the results from former analyses done on the portraits as part of the APPEAR project (see note 11). Ny Carlsberg Glyptotek: Young Man, ÆIN 680; Young Man with Beard, ÆIN 681; Young Woman with Jewelry, ÆIN 682; Woman with Blue and Red Dress, ÆIN 683; Man with Receding Hairline, ÆIN 684; Portrait of a Man on Canvas, ÆIN 1425; Portrait of a Man, Red Shroud Mummy, ÆIN 1426."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Ole Haupt"
+    credit: "Photo: Ole Haupt"
     alt: "TK"
 
   - id: "fig-9-2"
@@ -1013,14 +1013,14 @@ figure_list:
     src: "figures/fig-9-4.jpg"
     label: "Figure 9.4"
     caption: "An example of a black color cross section, Portrait of a Man, inv. no. 1426. Top: visible light; center: UV-fluorescence (note that the red lake pigments appear as bright orange particles); bottom: SEM-EDX image showing lead as bright white particles."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Lin Rosa Spaabæk"
+    credit: "Photo: Lin Rosa Spaabæk"
     alt: "TK"
 
   - id: "fig-9-5"
     src: "figures/fig-9-5.jpg"
     label: "Figure 9.5"
     caption: "Cross section showing the stratigraphy of black hair (layer no. 1) above two layers of light gray background color (nos. 2 and 3). Mummy portrait of a bearded young man from er-Rubayat. Inv. no. ÆIN 681. Top: visible light; bottom: SEM-EDX image."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Ole Haupt"
+    credit: "Photo: Ole Haupt"
     alt: "TK"
 
   - id: "fig-10-1"
