@@ -194,7 +194,7 @@ figure_list:
     src: "figures/fig-3-2.jpg"
     label: "Figure 3.2"
     caption: "Left part of a votive panel painting depicting the goddess Nemesis and the god Harpocrates. 50.2 × 22.7 cm (19.8 × 8.9 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 685."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -202,7 +202,7 @@ figure_list:
     src: "figures/fig-3-3.jpg"
     label: "Figure 3.3"
     caption: "Fragment of a votive panel painting rendering a female bust, a winged griffin, and two minor divinities. 53 × 18.5 × 2 cm (21 × 7.3 × 0.75 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 711."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -210,7 +210,7 @@ figure_list:
     src: "figures/fig-3-4.jpg"
     label: "Figure 3.4"
     caption: "The central and right part of a funerary portrait of a man and a griffin with the wheel of Nemesis. 67.5 × 9.7/13.8 × 4 cm (25.9 × 3.8/5.4 × 1.0 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 686-687."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -218,7 +218,7 @@ figure_list:
     src: "figures/fig-3-5.jpg"
     label: "Figure 3.5"
     caption: "Multiband imaging of panel ÆIN 685: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -226,7 +226,7 @@ figure_list:
     src: "figures/fig-3-6.jpg"
     label: "Figure 3.6"
     caption: "Multiband imaging of a detail of ÆIN 685 rendering the head of Nemesis: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -242,7 +242,7 @@ figure_list:
     src: "figures/fig-3-8.jpg"
     label: "Figure 3.8"
     caption: "Detail of ÆIN 685 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -250,7 +250,7 @@ figure_list:
     src: "figures/fig-3-9.jpg"
     label: "Figure 3.9"
     caption: "Multiband imaging of the panel ÆIN 711: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -258,7 +258,7 @@ figure_list:
     src: "figures/fig-3-10.jpg"
     label: "Figure 3.10"
     caption: "Multiband imaging of the griffin on ÆIN 711: (A) VIS, (B) UVF, &#40;C) FCIR, (D) MBR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -266,7 +266,7 @@ figure_list:
     src: "figures/fig-3-11.jpg"
     label: "Figure 3.11"
     caption: "Detail of ÆIN 711 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -274,7 +274,7 @@ figure_list:
     src: "figures/fig-3-12.jpg"
     label: "Figure 3.12"
     caption: "Multiband imaging of the panel ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR, (D) MBR. No significant VIL signal was detected (not shown)."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -282,7 +282,7 @@ figure_list:
     src: "figures/fig-3-13.jpg"
     label: "Figure 3.13"
     caption: "Multiband imaging of the inscription on ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR, (D) MBR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -290,7 +290,7 @@ figure_list:
     src: "figures/fig-3-14.jpg"
     label: "Figure 3.14"
     caption: "Multiband imaging of the gammadion on ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -298,7 +298,7 @@ figure_list:
     src: "figures/fig-3-15.jpg"
     label: "Figure 3.15"
     caption: "Detail of ÆIN 686/687 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -306,7 +306,7 @@ figure_list:
     src: "figures/fig-3-16.jpg"
     label: "Figure 3.16"
     caption: "Comparison of multiband imaging of the snake bracelets on ÆIN 685: (A) VIS, (B) UVF, &#40;C) IRR; and ÆIN 711: (D) VIS, (E) UVF, (F) IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
