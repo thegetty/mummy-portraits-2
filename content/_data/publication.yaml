@@ -209,7 +209,7 @@ contributor:
     type: secondary
     first_name: Joy
     last_name: Mazurek
-    bio: "Joy Mazurek is an associate scientist at the Getty Conservation Institute. She specializes in the identification of binding media in paint using gas chromatography mass spectrometry, the characterization and degradation of plastics, and the application of biological methods to study artwork. She obtained her MS in microbiology from California State University, Northridge, and her BS in biology from the University of California, Davis."
+    bio: "Joy Mazurek is an associate scientist at the Getty Conservation Institute. She specializes in the identification of binding media in paint using gas chromatography/mass spectrometry, the characterization and degradation of plastics, and the application of biological methods to study artwork. She obtained her MS in microbiology from California State University, Northridge, and her BS in biology from the University of California, Davis."
   - id: amcgeachy
     type: secondary
     first_name: Alicia
@@ -314,7 +314,7 @@ contributor:
     type: secondary
     first_name: Aleksandra
     last_name: Sulikowska-Bełczowska 
-    bio: "Aleksandra Sulikowska-Bełczowska is a curator of the Collection of Ancient Art and the Collection of Eastern Christian Art at the National Museum in Warsaw, where she oversees Nubian, Coptic, and Ethiopian collections, as well as the Collection of Icons and Byzantine Crafts. She is also a professor in the Institute of Art History at the University of Warsaw. Sulikowska-Bełczowska has authored books and papers on the cult of images in late antique and eastern Christian art and on the iconography of the icons and wall paintings in Orthodox art."
+    bio: "Aleksandra Sulikowska-Bełczowska is a curator of the Collection of Ancient Art and the Collection of Eastern Christian Art at the National Museum in Warsaw, where she oversees Nubian, Coptic, and Ethiopian collections, as well as the Collection of Icons and Byzantine Crafts. She is also a professor in the Institute of Art History at the University of Warsaw. Sulikowska-Bełczowska has authored books and papers on the cult of images in late antique and eastern Christian art and the iconography of the icons and wall paintings in Orthodox art."
   - id: ksutherland  
     type: secondary
     first_name: Ken
@@ -359,7 +359,7 @@ contributor:
     type: secondary
     first_name: Jan M.
     last_name: van Daal
-    bio: "Jan M. van Daal is a technical art historian with a background in classical archaeology and Latin. He engages with textual sources, object analyses, and historical reconstructions to understand the meanings of materials and production processes that underlie cultural heritage objects. Van Daal is currently a PhD candidate at Utrecht University. He is part of the ERC-funded project “Dynamics of the Durable: A History of Making Things Last in the Visual and Decorative Arts” (DURARE). Within DURARE van Daal investigates the meaning of durability in the development of medieval splendor."
+    bio: "Jan M. van Daal currently works for the Dutch Tax and Customs Administration. He obtained his BAs in Archaeology and Prehistory and Latin Language and Culture, and his MSc in Technical Art History from the University of Amsterdam. In May 2025 he obtained his PhD from Utrecht University after completing a dissertation on long-term investments and risk analysis in medieval west European art production, as part of the ERC-DURARE project. He has fulfilled several voluntary board functions in the humanities and cultural sector and continues to do so. Van Daal’s main research interests lie with painted portraits from Roman Egypt, medieval Latin, and art technological source research."
   - id: bvoruiter
     type: secondary
     first_name: Branko F.    
