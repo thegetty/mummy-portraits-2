@@ -1148,7 +1148,7 @@ figure_list:
   - id: "fig-11-7"
     src: "figures/fig-11-7.jpg"
     label: "Figure 11.7"
-    caption: "Proportional grids for six portraits"
+    caption: "Proportional grids for six portraits."
     credit: "Grids overlaid by Branko van Oppen"
     alt: "TK"
     zoom: "true"
@@ -1157,7 +1157,7 @@ figure_list:
     src: "figures/fig-11-8.jpg"
     label: "Figure 11.8"
     caption: "Proportional grid for six portraits."
-    credit: "Photo: Courtesy Jevon Thistlewood, used with permission"
+    credit: "Photo: © Ashmolean Museum of Art and Archaeology, University of Oxford"
     alt: "TK"
     zoom: "true"
 
@@ -1181,7 +1181,7 @@ figure_list:
     src: "figures/fig-11-11.jpg"
     label: "Figure 11.11"
     caption: "Portrait with a preparatory sketch and written instructions, Tebtynis (Roman tomb, cemetery VII or VIII), Fayum, Egypt, mid-second century CE. Fig wood panel, 36 x 24 x 1.4 cm (14 3/16 x 9 7/16 x 11/20 in.). University of California, Berkeley, Phoebe A. Hearst Museum of Anthropology, 6-21378a, verso."
-    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
+    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California. Infrared photography courtest of the J. Paul Getty Museum"
     alt: "TK"
     zoom: "true"
 
