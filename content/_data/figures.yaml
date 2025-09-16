@@ -1329,7 +1329,7 @@ figure_list:
     media_type: table
     label: "Figure 12.14"
     caption: "Preparatory layers, infrared reflectograms, and selected elemental distribution maps obtained by MA-XRF in the nine portraits analyzed for the present study."
-    credit: ""
+    credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
   - id: "fig-12-15"
@@ -1351,7 +1351,7 @@ figure_list:
   - id: "fig-12-17"
     src: "figures/fig-12-17.jpg"
     label: "Figure 12.17"
-    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area. Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
+    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
 
   - id: "fig-12-17-e"
