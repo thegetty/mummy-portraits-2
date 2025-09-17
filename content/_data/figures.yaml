@@ -234,7 +234,7 @@ figure_list:
     src: "figures/fig-3-7.jpg"
     label: "Figure 3.7"
     caption: "Multiband imaging of a detail of ÆIN 685 rendering the figure of Harpocrates: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
