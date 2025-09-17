@@ -154,7 +154,7 @@ figure_list:
   - id: "fig-2-6"
     src: "figures/fig-2-6.jpg"
     label: "Figure 2.6"
-    caption: "(A) Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). (B) The pink pixels correspond to the spectral presence of madder lake. (C) The blue pixels correspond to the spectral presence of Egyptian blue. (D) The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
+    caption: "(A) Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). (B) The pink pixels correspond to the spectral presence of madder lake. &#40;C) The blue pixels correspond to the spectral presence of Egyptian blue. (D) The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
     credit: "Photos: © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
     zoom: "true"
@@ -194,7 +194,7 @@ figure_list:
     src: "figures/fig-3-2.jpg"
     label: "Figure 3.2"
     caption: "Left part of a votive panel painting depicting the goddess Nemesis and the god Harpocrates. 50.2 × 22.7 cm (19.8 × 8.9 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 685."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -202,7 +202,7 @@ figure_list:
     src: "figures/fig-3-3.jpg"
     label: "Figure 3.3"
     caption: "Fragment of a votive panel painting rendering a female bust, a winged griffin, and two minor divinities. 53 × 18.5 × 2 cm (21 × 7.3 × 0.75 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 711."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -210,7 +210,7 @@ figure_list:
     src: "figures/fig-3-4.jpg"
     label: "Figure 3.4"
     caption: "The central and right part of a funerary portrait of a man and a griffin with the wheel of Nemesis. 67.5 × 9.7/13.8 × 4 cm (25.9 × 3.8/5.4 × 1.0 in.). Ny Carlsberg Glyptotek, inv. no. ÆIN 686-687."
-    credit: "Photo: Anders Sune Berg. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Anders Sune Berg"
     alt: "TK"
     zoom: "true"
 
@@ -218,7 +218,7 @@ figure_list:
     src: "figures/fig-3-5.jpg"
     label: "Figure 3.5"
     caption: "Multiband imaging of panel ÆIN 685: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -226,7 +226,7 @@ figure_list:
     src: "figures/fig-3-6.jpg"
     label: "Figure 3.6"
     caption: "Multiband imaging of a detail of ÆIN 685 rendering the head of Nemesis: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -234,7 +234,7 @@ figure_list:
     src: "figures/fig-3-7.jpg"
     label: "Figure 3.7"
     caption: "Multiband imaging of a detail of ÆIN 685 rendering the figure of Harpocrates: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -242,7 +242,7 @@ figure_list:
     src: "figures/fig-3-8.jpg"
     label: "Figure 3.8"
     caption: "Detail of ÆIN 685 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -250,7 +250,7 @@ figure_list:
     src: "figures/fig-3-9.jpg"
     label: "Figure 3.9"
     caption: "Multiband imaging of the panel ÆIN 711: (A) VIS, (B) UVF, &#40;C) MBR, (D) IRR, (E) FCIR, (F) VIL with a small contribution from IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -258,7 +258,7 @@ figure_list:
     src: "figures/fig-3-10.jpg"
     label: "Figure 3.10"
     caption: "Multiband imaging of the griffin on ÆIN 711: (A) VIS, (B) UVF, &#40;C) FCIR, (D) MBR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -266,7 +266,7 @@ figure_list:
     src: "figures/fig-3-11.jpg"
     label: "Figure 3.11"
     caption: "Detail of ÆIN 711 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -274,7 +274,7 @@ figure_list:
     src: "figures/fig-3-12.jpg"
     label: "Figure 3.12"
     caption: "Multiband imaging of the panel ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR, (D) MBR. No significant VIL signal was detected (not shown)."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -282,7 +282,7 @@ figure_list:
     src: "figures/fig-3-13.jpg"
     label: "Figure 3.13"
     caption: "Multiband imaging of the inscription on ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR, (D) MBR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -290,7 +290,7 @@ figure_list:
     src: "figures/fig-3-14.jpg"
     label: "Figure 3.14"
     caption: "Multiband imaging of the gammadion on ÆIN 686-687: (A) VIS, (B) UVF, &#40;C) IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -298,7 +298,7 @@ figure_list:
     src: "figures/fig-3-15.jpg"
     label: "Figure 3.15"
     caption: "Detail of ÆIN 686/687 in raking light."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -306,7 +306,7 @@ figure_list:
     src: "figures/fig-3-16.jpg"
     label: "Figure 3.16"
     caption: "Comparison of multiband imaging of the snake bracelets on ÆIN 685: (A) VIS, (B) UVF, &#40;C) IRR; and ÆIN 711: (D) VIS, (E) UVF, (F) IRR."
-    credit: "Photo: Jens Stenger. © Ny Carlsberg Glyptotek"
+    credit: "Photo: Jens Stenger"
     alt: "TK"
     zoom: "true"
 
@@ -322,7 +322,7 @@ figure_list:
     src: "figures/fig-4-1.jpg"
     label: "Figure 4.1"
     caption: "Historic photograph showing both shrouds on display (wall case, left side) in the Copley Square Museum, ca. 1902."
-    credit: "Photo: T. E. Marr. Courtesy Museum of Fine Arts, Boston"
+    credit: "Photo: T. E. Marr Photography. Courtesy Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -345,7 +345,7 @@ figure_list:
     src: "figures/fig-4-4.jpg"
     label: "Figure 4.4"
     caption: "Overall photograph of Osiris shroud: Roman Egyptian, possibly Thebes, Roman Imperial Period, first to third century CE, painted linen, 87 x 70 cm (34.3 x 27.6 in.). Hay Collection—Gift of C. Granville Way, 72.4724."
-    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -353,7 +353,7 @@ figure_list:
     src: "figures/fig-4-5.jpg"
     label: "Figure 4.5"
     caption: "Sample locations for Hathor shroud with color-coded sample number labels and material suffixes: P = paint, T = textile, O = other."
-    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -361,7 +361,7 @@ figure_list:
     src: "figures/fig-4-6.jpg"
     label: "Figure 4.6"
     caption: "Sample locations for Osiris shroud with color-coded sample number labels and material suffixes: P = paint, T = textile, O = other."
-    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -385,7 +385,7 @@ figure_list:
     src: "figures/fig-4-9.jpg"
     label: "Figure 4.9"
     caption: "Detail of plain weave substrates with supplementary weft decorative bands from (A) Hathor shroud and (B) Osiris shroud."
-    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -393,7 +393,7 @@ figure_list:
     src: "figures/fig-4-10.jpg"
     label: "Figure 4.10"
     caption: "Examples of paint layers of Hathor shroud at magnification: (A) The intersection of original red (dark red), restoration red (bright red), and restoration pink (top) paint layers at figure’s chin. (B) An area of green pigmentation from the winged serpent in the upper proper-right register."
-    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -401,7 +401,7 @@ figure_list:
     src: "figures/fig-4-11.jpg"
     label: "Figure 4.11"
     caption: "Examples of paint layers of Osiris shroud at magnification: (A) Yellow pigmentation atop the white ground from the winged serpent in the upper proper-right register. (B) Dark red pigmentation of the outline of the figure where the chin and neck meet."
-    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -417,7 +417,7 @@ figure_list:
     src: "figures/fig-4-13.jpg"
     label: "Figure 4.13"
     caption: "(A) VIVL image of the upper half of the Hathor shroud showing the luminescent response of madder lake (bright orange) (Canon EOS 5D Mark II [modified], CrimeScope CS-16-500W [535 nm], PECA 918, and Tiffen 23a red filter). (B) Emission and excitation spectra for an original pink paint layer from Hathor shroud. Emission spectra (black traces) at 510 (d), 490 (e), and 470 (f) nm excitation. Excitation spectra (red traces) at 600 (a), 620 (b), and 640 &#40;c) nm emission. The range of peak excitation for madder lake is denoted in blue. Hay Collection—Gift of C. Granville Way."
-    credit: "Photo: © 2026 Museum of Fine Arts, Boston"
+    credit: "Photos: © 2026 Museum of Fine Arts, Boston"
     alt: "TK"
     zoom: "true"
 
@@ -449,7 +449,7 @@ figure_list:
     src: "figures/fig-5-1.jpg"
     label: "Figure 5.1"
     caption: "Visible light image of Mummy Portrait of a Young Man, Romano-Egyptian, 117–138 CE. Tempera on wood, 35 x 19 cm (13 3/4 x 7 1/2 in.). Athens, National Archaeological Museum, Department of Prehistoric, Egyptian Cypriot and Near Eastern Antiquities Collection, 1627."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -457,7 +457,7 @@ figure_list:
     src: "figures/fig-5-2.jpg"
     label: "Figure 5.2"
     caption: "Visible light image of Mummy Portrait of a Woman, Romano-Egyptian, 138–161 CE. Encaustic on wood, 35.5 x 18 cm (14 x 7 1/16 in.). Athens, National Archaeological Museum, Department of Prehistoric, Egyptian Cypriot and Near Eastern Antiquities Collection, 1628."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -465,7 +465,7 @@ figure_list:
     src: "figures/fig-5-3.jpg"
     label: "Figure 5.3"
     caption: "Visible light image of Mummy Portrait of an Old Man, Romano-Egyptian, 138–161 CE. Tempera on wood, 36 x 11.5 cm (14 3/16 x 4 1/2 in.). Athens, National Archaeological Museum, Department of Prehistoric, Egyptian Cypriot and Near Eastern Antiquities Collection, 1629."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -473,7 +473,7 @@ figure_list:
     src: "figures/fig-5-4.jpg"
     label: "Figure 5.4"
     caption: "Raking light detail of fig. 5.2, highlighting the textured paint surface."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -482,14 +482,14 @@ figure_list:
     media_type: table
     label: "Figure 5.5"
     caption: "Experimental setup used for the MBI."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Chart: Peppy Tsakri and Ioannis Panagakos"
     alt: "TK"
 
   - id: "fig-5-6"
     src: "figures/fig-5-6.jpg"
     label: "Figure 5.6"
     caption: "UVF results for fig. 5.1."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -497,7 +497,7 @@ figure_list:
     src: "figures/fig-5-7.jpg"
     label: "Figure 5.7"
     caption: "UVF results for fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -505,7 +505,7 @@ figure_list:
     src: "figures/fig-5-8.jpg"
     label: "Figure 5.8"
     caption: "UVF results for fig. 5.3."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -513,7 +513,7 @@ figure_list:
     src: "figures/fig-5-9.jpg"
     label: "Figure 5.9"
     caption: "VIL image of fig. 5.2, revealing the spatial distribution of Egyptian blue."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -521,7 +521,7 @@ figure_list:
     src: "figures/fig-5-10.jpg"
     label: "Figure 5.10"
     caption: "Detail of IRR image of fig. 5.2, showing the underdrawing used for the placement of the green-blue beads."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -529,7 +529,7 @@ figure_list:
     src: "figures/fig-5-11.jpg"
     label: "Figure 5.11"
     caption: "Visible light detail of the wreath in fig. 5.3."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -537,7 +537,7 @@ figure_list:
     src: "figures/fig-5-12.jpg"
     label: "Figure 5.12"
     caption: "IRR image of the wreath in fig. 5.3."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -545,7 +545,7 @@ figure_list:
     src: "figures/fig-5-13.jpg"
     label: "Figure 5.13"
     caption: "The IRRFC image of the older man’s wreath generated by using the visible and IR images (inv. no. 1629)."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -553,7 +553,7 @@ figure_list:
     src: "figures/fig-5-14.jpg"
     label: "Figure 5.14"
     caption: "Visible image of the tunic in fig. 5.2."
-    credit: "TK"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -561,7 +561,7 @@ figure_list:
     src: "figures/fig-5-15.jpg"
     label: "Figure 5.15"
     caption: "IRR image of the tunic in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -569,7 +569,7 @@ figure_list:
     src: "figures/fig-5-16.jpg"
     label: "Figure 5.16"
     caption: "IRRFC image of the tunic in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -577,7 +577,7 @@ figure_list:
     src: "figures/fig-5-17.jpg"
     label: "Figure 5.17"
     caption: "Radiograph of fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -585,7 +585,7 @@ figure_list:
     src: "figures/fig-5-18.jpg"
     label: "Figure 5.18"
     caption: "Radiograph of fig. 5.3."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -594,13 +594,13 @@ figure_list:
     media_type: table
     label: "Figure 5.19"
     caption: "Summary of the chemical elements detected via XRF in the three portraits."
-    credit: ""
+    credit: "Chart: Peppy Tsakri and Ioannis Panagakos"
 
   - id: "fig-5-20"
     src: "figures/fig-5-20.jpg"
     label: "Figure 5.20"
     caption: "Graph of the chemical composition (mean values) of the woman’s jewelry beads, according to XRF analysis."
-    credit: ""
+    credit: "Chart: Peppy Tsakri and Ioannis Panagakos"
     alt: "TK"
     zoom: "true"
 
@@ -608,7 +608,7 @@ figure_list:
     src: "figures/fig-5-21.jpg"
     label: "Figure 5.21"
     caption: "Visible image of the proper left eye in fig. 5.1."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -616,7 +616,7 @@ figure_list:
     src: "figures/fig-5-22.jpg"
     label: "Figure 5.22"
     caption: "Visible image of the only surviving eye in fig. 5.3."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -624,7 +624,7 @@ figure_list:
     src: "figures/fig-5-23.jpg"
     label: "Figure 5.23"
     caption: "Microscopic detail image of an area on the PR cheek on fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -632,7 +632,7 @@ figure_list:
     src: "figures/fig-5-24.jpg"
     label: "Figure 5.24"
     caption: "Microscopic detail image of an area of the forehead on fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -640,7 +640,7 @@ figure_list:
     src: "figures/fig-5-25.jpg"
     label: "Figure 5.25"
     caption: "The overlapping of links on the earring beads in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -648,7 +648,7 @@ figure_list:
     src: "figures/fig-5-26.jpg"
     label: "Figure 5.26"
     caption: "The overlapping of links on the necklace beads in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -656,7 +656,7 @@ figure_list:
     src: "figures/fig-5-27.jpg"
     label: "Figure 5.27"
     caption: "Egyptian blue particles in a white necklace bead in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -664,7 +664,7 @@ figure_list:
     src: "figures/fig-5-28.jpg"
     label: "Figure 5.28"
     caption: "Egyptian blue particles in the sclera highlight of the PR eye in fig. 5.2."
-    credit: "Photo: National Archaeological Museum, Athens, Greece"
+    credit: "Photo: Hellenic National Archaeological Museum, Athens, Greece"
     alt: "TK"
     zoom: "true"
 
@@ -673,7 +673,7 @@ figure_list:
     media_type: table
     label: "Figure 5.29"
     caption: "Pigments (P) detected via XRF in each portrait."
-    credit: ""
+    credit: "Chart: Peppy Tsakri and Ioannis Panagakos"
     alt: "TK"
 
   - id: "fig-6-1"
@@ -742,7 +742,7 @@ figure_list:
   - id: "fig-6-9"
     src: "figures/fig-6-9.jpg"
     label: "Figure 6.9"
-    caption: "Mummy Portrait of a Woman (Romano-Egyptian, active 100–125 CE), 100 CE. Encaustic on limewood, gilt and linen, 48 x 36 x 12.8 cm (18 7/8 × 14 3/16 × 5 1/16 in.). This portrait exemplifies the skill achievable by the ancient portraitists. Los Angeles, J. Paul Getty Museum, 81.AP.42."
+    caption: "Mummy Portrait of a Woman, 100 CE. Encaustic on limewood, gilt and linen, 48 x 36 x 12.8 cm (18 7/8 × 14 3/16 × 5 1/16 in.). This portrait exemplifies the skill achievable by the ancient portraitists. Los Angeles, J. Paul Getty Museum, 81.AP.42."
     credit: ""
     alt: "TK"
     zoom: "true"
@@ -911,7 +911,7 @@ figure_list:
     src: "figures/fig-8-11.jpg"
     label: "Figure 8.11"
     caption: "PMF spectra from a Getty (top) and a Glyptotek (center) portrait and whole hen egg reference (bottom). Several of the more intense egg-related ions are labeled; most unlabeled ions are contaminating keratin. The insets illustrate isotopic patterns for two N- and Q-containing peptides (1690.8 Da and 1893.0 Da) shifted to higher mass in the portrait samples compared to whole egg due to deamidation. All seven portraits analyzed gave similar results."
-    credit: "Figure: Daniel Kirby"
+    credit: "Table: Daniel Kirby"
     alt: "TK"
     zoom: "true"
 
@@ -919,7 +919,7 @@ figure_list:
     src: "figures/fig-8-12.jpg"
     label: "Figure 8.12"
     caption: "MS/MS spectra for the two ions in the insets (Figure 8.11) that confirm deamidation at N and Q residues. Labeled ions are those used to determine the peptide sequence by Mascot."
-    credit: "Figure: Daniel Kirby"
+    credit: "Table: Daniel Kirby"
     alt: "TK"
     zoom: "true"
 
@@ -958,7 +958,7 @@ figure_list:
   - id: "fig-8-15-a"
     src: "figures/fig-8-15-a.jpg"
     label: "Figure 8.15A"
-    caption: "Portrait of a Lady, Romano-Egyptian, 117–138 CE. Er-Rubayat. Encaustic on linden panel, 40 x 20 x 0.2 cm (15 3/4 x 7 7/8 x 1/16 in.). Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband."
+    caption: "Portrait of a Lady, Romano-Egyptian, 117–138 CE. Er-Rubayat. Encaustic on linden panel, 40 x 20 x 0.2 cm (15 3/4 x 7 7/8 x 1/16 in.). Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband"
     credit: ""
     alt: "TK"
     zoom: "true"
@@ -966,7 +966,7 @@ figure_list:
   - id: "fig-8-15-b"
     src: "figures/fig-8-15-b.jpg"
     label: "Figure 8.15B"
-    caption: "Ultraviolet-induced visible fluorescence image of Portrait of a Lady. Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband."
+    caption: "Ultraviolet-induced visible fluorescence image of Portrait of a Lady. Kunsthistorisches Museum, Vienna, X 297. KHM-Museumsverband"
     credit: ""
     alt: "TK"
     zoom: "true"
@@ -983,7 +983,7 @@ figure_list:
     src: "tables/table-8-17.html"
     media_type: table
     label: "Figure 8.17"
-    caption: "Radiocarbon dates obtained <mark class='red'>from the egg coating on</mark> two portraits: JPGM 74.AP.11 and NSM F.1978.19.P."
+    caption: "Radiocarbon dates obtained from the egg coating on two portraits: JPGM 74.AP.11 and NSM F.1978.19.P."
     credit: ""
     alt: "TK"
   
@@ -992,7 +992,7 @@ figure_list:
     media_type: table
     label: "Figure 9.1"
     caption: "The nine analyzed portraits in this study, including their provenience and age. The table is a schematic overview of the present pigment identification results together with the results from former analyses done on the portraits as part of the APPEAR project (see note 11). Ny Carlsberg Glyptotek: Young Man, ÆIN 680; Young Man with Beard, ÆIN 681; Young Woman with Jewelry, ÆIN 682; Woman with Blue and Red Dress, ÆIN 683; Man with Receding Hairline, ÆIN 684; Portrait of a Man on Canvas, ÆIN 1425; Portrait of a Man, Red Shroud Mummy, ÆIN 1426."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Ole Haupt"
+    credit: "Photos: Ole Haupt"
     alt: "TK"
 
   - id: "fig-9-2"
@@ -1013,14 +1013,14 @@ figure_list:
     src: "figures/fig-9-4.jpg"
     label: "Figure 9.4"
     caption: "An example of a black color cross section, Portrait of a Man, inv. no. 1426. Top: visible light; center: UV-fluorescence (note that the red lake pigments appear as bright orange particles); bottom: SEM-EDX image showing lead as bright white particles."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Lin Rosa Spaabæk"
+    credit: "Photo: Lin Rosa Spaabæk"
     alt: "TK"
 
   - id: "fig-9-5"
     src: "figures/fig-9-5.jpg"
     label: "Figure 9.5"
     caption: "Cross section showing the stratigraphy of black hair (layer no. 1) above two layers of light gray background color (nos. 2 and 3). Mummy portrait of a bearded young man from er-Rubayat. Inv. no. ÆIN 681. Top: visible light; bottom: SEM-EDX image."
-    credit: "© Ny Carlsberg Glyptotek. Photo: Ole Haupt"
+    credit: "Photo: Ole Haupt"
     alt: "TK"
 
   - id: "fig-10-1"
@@ -1148,7 +1148,7 @@ figure_list:
   - id: "fig-11-7"
     src: "figures/fig-11-7.jpg"
     label: "Figure 11.7"
-    caption: "Proportional grids for six portraits"
+    caption: "Proportional grids for six portraits."
     credit: "Grids overlaid by Branko van Oppen"
     alt: "TK"
     zoom: "true"
@@ -1157,7 +1157,7 @@ figure_list:
     src: "figures/fig-11-8.jpg"
     label: "Figure 11.8"
     caption: "Proportional grid for six portraits."
-    credit: "Photo: Courtesy Jevon Thistlewood, used with permission"
+    credit: "Photo: © Ashmolean Museum of Art and Archaeology, University of Oxford"
     alt: "TK"
     zoom: "true"
 
@@ -1181,7 +1181,7 @@ figure_list:
     src: "figures/fig-11-11.jpg"
     label: "Figure 11.11"
     caption: "Portrait with a preparatory sketch and written instructions, Tebtynis (Roman tomb, cemetery VII or VIII), Fayum, Egypt, mid-second century CE. Fig wood panel, 36 x 24 x 1.4 cm (14 3/16 x 9 7/16 x 11/20 in.). University of California, Berkeley, Phoebe A. Hearst Museum of Anthropology, 6-21378a, verso."
-    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
+    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California. Infrared photography courtest of the J. Paul Getty Museum"
     alt: "TK"
     zoom: "true"
 
@@ -1329,7 +1329,7 @@ figure_list:
     media_type: table
     label: "Figure 12.14"
     caption: "Preparatory layers, infrared reflectograms, and selected elemental distribution maps obtained by MA-XRF in the nine portraits analyzed for the present study."
-    credit: ""
+    credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
     alt: "TK"
 
   - id: "fig-12-15"
@@ -1351,7 +1351,7 @@ figure_list:
   - id: "fig-12-17"
     src: "figures/fig-12-17.jpg"
     label: "Figure 12.17"
-    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area. Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
+    caption: "Portrait of a woman in a blue mantle (Portrait I). Details of the (A) iron (Fe) and (B) copper (Cu) distribution maps in the amulet area; &#40;C) and (D) show the same maps as (A) and (B), respectively, superimposed to the black and white image of the area."
     credit: "Photos: © The Metropolitan Museum of Art, Department of Scientific Research"
 
   - id: "fig-12-17-e"
@@ -1413,7 +1413,7 @@ figure_list:
   - id: "fig-13-1"
     label: "Figure 13.1"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 28.9 x 15.3 cm (11.4 x 6 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Field Museum of Natural History, FM 110872."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1435,12 +1435,12 @@ figure_list:
     src: "figures/fig-13-1.jpg"
     label: "Figure 13.1"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 28.9 x 15.3 cm (11.4 x 6 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Field Museum of Natural History, FM 110872."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-2"
     label: "Figure 13.2"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 22 cm (15.5 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4798."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1462,12 +1462,12 @@ figure_list:
     src: "figures/fig-13-2.jpg"
     label: "Figure 13.2"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 22 cm (15.5 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4798."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-3"
     label: "Figure 13.3"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.9 x 24.1 cm (16.5 x 9.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4799."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1489,12 +1489,12 @@ figure_list:
     src: "figures/fig-13-3.jpg"
     label: "Figure 13.3"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.9 x 24.1 cm (16.5 x 9.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Art Institute of Chicago, Gift of Emily Crane Chadbourne, AIC 1922.4799."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-4"
     label: "Figure 13.4"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 21.6 cm (15.5 x 8.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0251."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1516,12 +1516,12 @@ figure_list:
     src: "figures/fig-13-4.jpg"
     label: "Figure 13.4"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 39.4 x 21.6 cm (15.5 x 8.5 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0251."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-5"
     label: "Figure 13.5"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, first century CE. Wood and pigments, 36.8 x 21.3 cm (14.5 x 8.45 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0252."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1543,12 +1543,12 @@ figure_list:
     src: "figures/fig-13-5.jpg"
     label: "Figure 13.5"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, first century CE. Wood and pigments, 36.8 x 21.3 cm (14.5 x 8.45 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Collection of Susan and Lew Manilow, MN 0252."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-6"
     label: "Figure 13.6"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E2053."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1570,12 +1570,12 @@ figure_list:
     src: "figures/fig-13-6.jpg"
     label: "Figure 13.6"
     caption: "Panel portrait of a man, Greek/Roman/Egyptian, second century CE. Wood and pigments, 41.5 x 23.5 cm (16.3 x 9.3 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E2053."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-7"
     label: "Figure 13.7"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E9137."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     zoom: "true"
     annotations:
     - input: radio
@@ -1597,21 +1597,21 @@ figure_list:
     src: "figures/fig-13-7.jpg"
     label: "Figure 13.7"
     caption: "Panel portrait of a woman, Greek/Roman/Egyptian, second century CE. Wood and pigments, 32 x 22 cm (12.6 x 8.7 in.). From left to right, (A) visible; (B) VIL; &#40;C) IRR; and (D) UIL images. Institute for the Study of Ancient Cultures of the University of Chicago, ISAC E9137."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
 
   - id: "fig-13-8"
     src: "figures/fig-13-8.jpg"
     label: "Figure 13.8"
     caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798, AIC 1922.4799, MN 0251, MN 0252, ISAC E2053 and ISAC E9137."
-    credit: "Photos: Authors"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
   - id: "fig-13-8-a"
     src: "figures/fig-13-8-a.jpg"
     label: "Figure 13.8A"
-    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798 and AIC 1922.4799."
-    credit: "Photos: Authors"
+    caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: FM 110872, AIC 1922.4798, and AIC 1922.4799."
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1619,7 +1619,7 @@ figure_list:
     src: "figures/fig-13-8-b.jpg"
     label: "Figure 13.8B"
     caption: "Select MA-XRF elemental maps of the panel portraits examined in this study. From top to bottom row: MN 0251, MN 0252, ISAC E2053 and ISAC E9137."
-    credit: "Photos: Authors"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1628,14 +1628,14 @@ figure_list:
     media_type: table
     label: "Figure 13.9"
     caption: "Summary of the painting materials inferred from analysis using techniques indicated in parentheses. Detailed information on portraits AIC 1922.4798 and 1922.4799 can be found in Sabino et al. 2019 and Sutherland, Sabino, and Pozzi 2020. Analytical reports for all portraits are on file at the Department of Conservation and Science at AIC and relevant institutions."
-    credit: ""
+    credit: "Table: Giovanni Verri"
     alt: "TK"
 
   - id: "fig-13-10"
     src: "figures/fig-13-10.jpg"
     label: "Figure 13.10"
     caption: "FM 110872. Visible (left) and VIL (right) image of a detail of the mouth showing the distribution of EB. Field Museum of Natural History."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1643,7 +1643,7 @@ figure_list:
     src: "figures/fig-13-11.jpg"
     label: "Figure 13.11"
     caption: "FM 110872. Sample from the area next to the left eye. Unmounted sample (top); Visible (left) and VIL (right) image of the sample in cross section (bottom). Field Museum of Natural History."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1651,7 +1651,7 @@ figure_list:
     src: "figures/fig-13-12.jpg"
     label: "Figure 13.12"
     caption: "AIC 1922.4799. Detail of the chin (top); cross section (middle); and VIL image of the cross section (bottom). Art Institute of Chicago, Gift of Emily Crane Chadbourne."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1659,7 +1659,7 @@ figure_list:
     src: "figures/fig-13-13.jpg"
     label: "Figure 13.13"
     caption: "Detail of the left eye of MN 0251. Visible (top) and VIL image (bottom), showing the distribution of EB. Collection of Susan and Lew Manilow."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1667,7 +1667,7 @@ figure_list:
     src: "figures/fig-13-14.jpg"
     label: "Figure 13.14"
     caption: "Eye details (from top left to bottom right): FM 110872, AIC 1922.4798, ISAC E2053, AIC 1922.4799, MN 0252, and MN 0251."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1675,7 +1675,7 @@ figure_list:
     src: "figures/fig-13-15.jpg"
     label: "Figure 13.15"
     caption: "Scarf detail, ISAC E2053, visible (left) and VIL (right) image. Points (A) and (B) show gray areas that are visually similar but executed with different concentrations of EB. Institute for the Study of Ancient Cultures of the University of Chicago."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1683,7 +1683,7 @@ figure_list:
     src: "figures/fig-13-16.jpg"
     label: "Figure 13.16"
     caption: "Hair detail, ISAC E2053. Visible (left) and VIL (right) image showing the EB distribution. Institute for the Study of Ancient Cultures of the University of Chicago."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1691,7 +1691,7 @@ figure_list:
     src: "figures/fig-13-17.jpg"
     label: "Figure 13.17"
     caption: "Detail of MN 0251’s garment. Visible (left) and VIL (right) image: (A) white paint not rich in EB, (B) white paint rich in EB, and &#40;C) translucent gray paint rich in EB. Collection of Susan and Lew Manilow."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1699,7 +1699,7 @@ figure_list:
     src: "figures/fig-13-18.jpg"
     label: "Figure 13.18"
     caption: "Detail of MN 0251’s hair showing the presence of small amounts of a green pigment, mixed with a white pigment, in the brown hair. For a more precise location of the green pigment, see the arrow and also the Cu_K map in figure 13.8. Collection of Susan and Lew Manilow."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -1707,7 +1707,7 @@ figure_list:
     src: "figures/fig-13-19.jpg"
     label: "Figure 13.19"
     caption: "Detail of the hair of MN 0252. Top: Visible (left) and infrared false-color (right) image in which a blue dye, with an absorption at ca. 660 nm, likely indigo or woad, shows as red. Bottom: Detail of the curls, showing a small amount of a pink pigment, likely madder lake (see fig. 13.9). Collection of Susan and Lew Manilow."
-    credit: "Photos: G. Verri"
+    credit: "Photos: Giovanni Verri"
     alt: "TK"
     zoom: "true"
 
@@ -2001,7 +2001,7 @@ figure_list:
   - id: "fig-16-4"
     src: "figures/fig-16-4.jpg"
     label: "Figure 16.4"
-    caption: "Figure 16.4. UVF imaging after removal of dirt and overpainting. The National Museum in Warsaw."
+    caption: "UVF imaging after removal of dirt and overpainting. The National Museum in Warsaw."
     credit: "Photo: Anna Lewandowska"
     alt: "TK"
     zoom: "true"
@@ -2009,7 +2009,7 @@ figure_list:
   - id: "fig-16-5"
     src: "figures/fig-16-5.jpg"
     label: "Figure 16.5"
-    caption: "Figure 16.5. IRR imaging following the removal of dirt and overpainting. The National Museum in Warsaw."
+    caption: "IRR imaging following the removal of dirt and overpainting. The National Museum in Warsaw."
     credit: "Photo: Anna Lewandowska"
     alt: "TK"
     zoom: "true"
@@ -2144,7 +2144,7 @@ figure_list:
   - id: "fig-17-6"
     src: "figures/fig-17-6.jpg"
     label: "Figure 17.6"
-    caption: "(A) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 25.7 x 14.9 cm (10 x 6 in.). Saint Louis Art Museum, Gift of Mrs. Max A. Goldstein, 128:1951. Photo: Courtesy Saint Louis Art Museum. (B) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 32 x 19 x 0.5 cm (12 1/2 x 7 1/2 x 1/4 in.). Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mrs. John D. Rockefeller, Jr., 1939.111. Photo: © President and Fellows of Harvard College. &#40;C) Portrait of a woman, probably from Philadelphia (near er-Rubayat), Egypt, second half of the second century CE. 24.5 x 9.5 cm (10 x 4 in.). Yale University Art Gallery, Ruth Elizabeth White Fund, 2011.102.1. Photo: Courtesy Yale University Art Gallery. (D) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 33 x 20.3 cm (13 x 8 in.). Smith College Museum of Art, Purchased with the Drayton Hillyer Fund, SC 1932.9.1. Photo: Courtesy Smith College Museum of Art"
+    caption: "(A) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 25.7 x 14.9 cm (10 x 6 in.). Saint Louis Art Museum, Gift of Mrs. Max A. Goldstein, 128:1951. Photo: Courtesy Saint Louis Art Museum. (B) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 32 x 19 x 0.5 cm (12 1/2 x 7 1/2 x 1/4 in.). Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mrs. John D. Rockefeller Jr., 1939.111. Photo: © President and Fellows of Harvard College. &#40;C) Portrait of a woman, probably from Philadelphia (near er-Rubayat), Egypt, second half of the second century CE. 24.5 x 9.5 cm (10 x 4 in.). Yale University Art Gallery, Ruth Elizabeth White Fund, 2011.102.1. Photo: Courtesy Yale University Art Gallery. (D) Portrait of a woman, Egypt, probably from Philadelphia (near er-Rubayat), second half of the second century CE. 33 x 20.3 cm (13 x 8 in.). Smith College Museum of Art, Purchased with the Drayton Hillyer Fund, SC 1932.9.1. Photo: Courtesy Smith College Museum of Art"
     credit: ""
     alt: "TK"
     zoom: "true"
@@ -2185,7 +2185,7 @@ figure_list:
     src: "tables/table-17-11.html"
     media_type: table
     label: "Figure 17.11"
-    caption: "Layers present and pigments detected in the cross-sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits"
+    caption: "Layers present and pigments detected in the cross sections prepared from the tunic of the Saint Louis Art Museum, Harvard Art Museums, and Smith College Museum of Art portraits."
     credit: ""
     alt: "TK"
  

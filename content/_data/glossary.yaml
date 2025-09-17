@@ -43,7 +43,7 @@ entries:
   definition: "A pointed graver, possibly metal, used for adding incised details in encaustic. The cestrum would have been heated and used to draw into wax."
 
 - term: "Chiton (tunic)"
-  definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women during the Roman empire. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear the garment under the toga, especially on formal occasions. Its length and the presence or lack of stripes (*clavi*), as well as width and ornamentation, indicated the wearer’s status in Roman society."
+  definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women during the Roman empire. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear the garment under the toga, especially on formal occasions. Its length and the presence or lack of stripes (clavi), as well as width and ornamentation, indicated the wearer’s status in Roman society."
 
 - term: "Cinnabar"
   definition: "An orange-red pigment with excellent hiding power (opacity) and good permanence. It has been used from antiquity to the present. Chemical formula: Mercuric sulfide, HgS"
@@ -61,7 +61,7 @@ entries:
   definition: "To strengthen or stabilize a material by adding another impregnating material, such as an adhesive (consolidant). For example: *The paint on the surface was consolidated using gelatin.*"
 
 - term: "Copper greens"
-  definition: "Green pigments based on the element copper. They can include, but are not limited to, synthesized pigments such as verdigris (Cu(CH~3~COO)~2~), copper resinate (copper salts of resin acids), copper (II) oleate (copper and fatty acid), Egyptian green (CaOCuO(SiO~2~)~4~), and naturally occurring mineral pigments such as malachite (Cu~2~CO~3~(OH)~2~)"
+  definition: "Green pigments based on the element copper. They can include, but are not limited to, synthesized pigments such as verdigris (Cu(CH~3~COO)~2~), copper resinate (copper salts of resin acids), copper (II) oleate (copper and fatty acid), Egyptian green (CaOCuO(SiO~2~)~4~), and naturally occurring mineral pigments such as malachite (Cu~2~CO~3~(OH)~2~)."
 
 - term: "Dura-Europos"
   definition: "An ancient city, in what is now Syria, that borders the Euphrates River. A strategic site that served as a crossroads for different cultures, language, and religions. With a long and complex history, the site is best known from the excavations sponsored by Yale University and the French Academy in the 1920s and 1930s."
@@ -160,7 +160,7 @@ entries:
   definition: "A distinctive Egyptian hairstyle depicted on the gods Horus/Harpocrates, worn by children (typically male) and sometimes by adult males. It appears as a single lock of hair (a sign of youth) on the right side of the head, above the ear."
 
 - term: "Huntite"
-  definition: "A white carbonate-based mineral used as a pigment throughout the ancient Mediterranean. Chemical formula: Mg^3^Ca(CO^3^)^4^"
+  definition: "A white carbonate-based mineral used as a pigment throughout the ancient Mediterranean. Chemical formula: Mg~3~Ca(CO~3~)~4~"
 
 - term: "Hyperspectral imaging (HSI)"
   definition: "A spectral imaging technique in which images of the same spatial area are recorded at a series of different wavelengths across the electromagnetic spectrum. HSI systems typically utilize a dispersion element to enable the collection of hundreds of images over a set of wavelengths. Depending on the instrument, this range typically includes the visible through the near infrared (400–1000 nm) but is sometimes extended further into the infrared (up to 2500 nm). The stack of images collected at each wavelength is called a hyperspectral data cube, where each pixel contains spectral information that can help detect or characterize the materials present."
@@ -245,7 +245,7 @@ entries:
 - term: "Penicillum"
   definition: "A paintbrush with bristles made from plant fibers or animal hair."
 
-- term: "Peptide mass fingerprint (PMF) "
+- term: "Peptide mass fingerprint (PMF)"
   definition: "An analytical technique that involves the enzymatic digestion of proteins followed by Matrix Assisted Laser Desorption-Ionization Time of Flight mass spectrometric (MALDI) analysis of the resultant peptide mixture. PMF is currently applied extensively to collagen- and keratin-based materials, and can be used to determine the sources of, for example, leather, bone, parchment, animal and fish glues, ivory, horn, hoof, hair, baleen, and silk. In cultural heritage and art, materials such as egg and casein can similarly be identified to a specific source with PMF. "
 
 - term: "Pharaonic Egypt (3000–332 BCE)"
@@ -356,7 +356,7 @@ entries:
 - term: "Tunic. *See* chiton"
   definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
 
-- term: "Ultraviolet-induced visible fluorescence (UVF) / UV-visible fluorescence / Ultraviolet-induced visible luminescence (UVL) (historically UV/VisFL)"
+- term: "Ultraviolet-induced visible fluorescence (UVF) / UV-visible fluorescence / Ultraviolet-induced visible luminescence (UVL) (historically UV/VisFL) / Ultraviolet-induced luminescence (UIL)"
   definition: "An imaging technique and diagnostic examination method, based on characteristic responses of materials to ultraviolet (UV) radiation (~185–400 nm, commonly the narrow band at 365 nm) in the form of fluorescence, in which radiant energy in the UV region is absorbed to create an unstable high-energy state and then reemitted as lower-energy visible light to regain stability. The fluorescence revealed by the technique is used to assist in the general characterization or differentiation of materials—such as pigments, coatings, binders, and adhesives—and to diagnose the condition of an object (e.g., to detect areas of restoration). The term *luminescence* also encompasses the possibility of a phosphorescent response to UV radiation in which there is a delay in the reemission of the absorbed energy by some materials, so that emission might even continue for a period after the UV excitation source is turned off. While *luminescence* encompasses all the emission processes that may occur, the term *fluorescence* is by far the dominant phenomenon being observed and has historically been used in describing this technique in conservation (as well as in medicine, non-destructive testing, and forensics). *Luminescence* is an equally appropriate descriptor. (*See also* fluorescence / photoluminescence / luminescence.)"
 
 - term: "Ultraviolet reflectance or ultraviolet reflected (UVR) imaging / reflected ultraviolet (RUV) imaging"
