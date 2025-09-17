@@ -154,7 +154,7 @@ figure_list:
   - id: "fig-2-6"
     src: "figures/fig-2-6.jpg"
     label: "Figure 2.6"
-    caption: "(A) Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). (B) The pink pixels correspond to the spectral presence of madder lake. (C) The blue pixels correspond to the spectral presence of Egyptian blue. (D) The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
+    caption: "(A) Portrait of a woman, Antinoöpolis(?), ca. 130–150 CE. Encaustic on linden, 32 × 17 × 0.1 cm (14.6 × 6.7 × 0.04 in.). (B) The pink pixels correspond to the spectral presence of madder lake. &#40;C) The blue pixels correspond to the spectral presence of Egyptian blue. (D) The turquoise pixels correspond to the spectral presence of indigo lake. Paris, Musée du Louvre, département des Antiquités égyptiennes, AF 6884."
     credit: "Photos: © C2RMF / Lucile Brunel-Duverger"
     alt: "TK"
     zoom: "true"
