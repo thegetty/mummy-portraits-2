@@ -53,7 +53,7 @@ publisher:
 
 project_team:
   - Rachel Barth, *Project Editor*
-  - Amanda Sparrow, Katrina Posner, Courtney Johnson Thomas, and Leslie Tilley, *Manuscript Editors*
+  - Katrina Posner, Amanda Sparrow, Courtney Johnson Thomas, and Leslie Tilley, *Manuscript Editors*
   - Greg Albers, *Digital Publications Manager*
   - Erin Cecele Dunigan, *Digital Project Lead*
   - Jenny Park, *Digital Production*
@@ -452,6 +452,34 @@ subject:
   - type: 
     name: 
     identifer: 
+
+library_of_congress_cip: | 
+  Library of Congress Cataloging-in-Publication Data
+  - Names: APPEAR (Project), author. | Svoboda, Marie, editor. 
+   https://id.oclc.org/worldcat/entity/E39PCjxBrwpcypqprDtxxJmWpd | 
+   Cartwright, Caroline, editor. 
+   https://id.oclc.org/worldcat/entity/E39PCjxVxPC6MTTKdB78BDyjRX | J. Paul 
+   Getty Museum, issuing body.  
+  - Title: Mummy portraits of Roman Egypt : emerging research from the APPEAR 
+   Project. Volume 2 / edited by Marie Svoboda and Caroline R. Cartwright.  
+  - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2026. | 
+   Proceedings of a conference held at the Allard Pierson in Amsterdam in 
+   2022. | Includes bibliographical references. | Summary: "Publishes the 
+   papers delivered at the 2022 APPEAR (Ancient Panel Paintings: 
+   Examination, Analysis, and Research) conference, which present research 
+   on and discoveries about ancient Romano-Egyptian funerary portraits 
+   preserved in international collections"—Provided by publisher.  
+  - Identifiers: LCCN 2025018648 | ISBN 9781606069967 (paperback) | ISBN 
+   9781606069998 (epub) | ISBN 9781606069981 (adobe pdf) | ISBN 
+   9781606069974  
+  - Subjects: LCSH: Mummy portraits—Expertising—Congresses. | Mummy 
+   portraits—Egypt—Congresses. | Portraits, Roman—Egypt—Congresses. | 
+   Portraits, Egyptian—Congresses. | Egypt—Antiquities, 
+   Roman—Congresses. | LCGFT: Conference papers and proceedings. 
+  - Classification: LCC ND1327.E3 A673 2026 | DDC 
+   757.0932/09015—dc23/eng/20250619 
+  - LC record available at https://lccn.loc.gov/2025018648
+
 
 # ------------------------------------------------------------------------------
 # Revision History
