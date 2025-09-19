@@ -587,3 +587,28 @@ div.publisher p:first-child {
 .cover-image-credits .illustration-credits-heading {
   margin-bottom: 0 !important;
 }
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+.quire-page__content .container .content .no-break-container {
+  break-inside: avoid;
+}
