@@ -13,7 +13,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "SECOND";
+    content: "FINAL TEAM";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
