@@ -4,8 +4,8 @@
 // Remove id from .quire-contributor list element (undefined causes EPUB validation error)
 // Add lastname functionality to support better PDF running heads
 //
-const chalkFactory = require('~lib/chalk')
-const { html } = require('~lib/common-tags')
+import chalkFactory from '#lib/chalk/index.js'
+import { html } from '#lib/common-tags/index.js'
 
 const logger = chalkFactory('shortcodes:contributors')
 
@@ -20,7 +20,7 @@ const logger = chalkFactory('shortcodes:contributors')
  *
  * @return {String} Markup for contributors
  */
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   const contributorBio = eleventyConfig.getFilter('contributorBio')
   const fullname = eleventyConfig.getFilter('fullname')
   const getContributor = eleventyConfig.getFilter('getContributor')
@@ -34,11 +34,11 @@ module.exports = function (eleventyConfig) {
 
   return function (params) {
     const {
-      align='left',
+      align = 'left',
       context: contributors,
-      format=bylineFormat,
+      format = bylineFormat,
       role,
-      type='all'
+      type = 'all'
     } = params
 
     const formats = ['bio', 'initials', 'last-name', 'name', 'name-title', 'name-title-block', 'string']
@@ -109,16 +109,18 @@ module.exports = function (eleventyConfig) {
           const contributorParts = [
             `<span class="quire-contributor__name">${fullname(contributor)}</span>`
           ]
-          contributor.title && format !== 'name'
-            ? contributorParts.push(
-              `<span class="quire-contributor__title">${ contributor.title }</span>`
+          if (contributor.title && format !== 'name') {
+            contributorParts.push(
+              `<span class="quire-contributor__title">${contributor.title}</span>`
             )
-            : null
-          contributor.affiliation && format !== 'name'
-            ? contributorParts.push(
-              `<span class="quire-contributor__affiliation">${ contributor.affiliation }</span>`
+          }
+
+          if (contributor.affiliation && format !== 'name') {
+            contributorParts.push(
+              `<span class="quire-contributor__affiliation">${contributor.affiliation}</span>`
             )
-            : null
+          }
+
           return `
             <li class="quire-contributor">${contributorParts.join(separator)}</li>
           `

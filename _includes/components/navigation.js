@@ -2,9 +2,10 @@
 // CUSTOMIZED FILE
 // Change truncation from 34 characters to 40, line 42
 //
+/* eslint-disable camelcase */
 
-const truncate = require('~lib/truncate')
-const { html } = require('~lib/common-tags')
+import truncate from '#lib/truncate/index.js'
+import { html } from '#lib/common-tags/index.js'
 
 /**
  * This controls the various navigation elements (nav, skip-link, menu and
@@ -18,13 +19,11 @@ const { html } = require('~lib/common-tags')
  * eligible pages are ranged through and based on weight, the next or previous
  * one in the range is linked to.
  */
-module.exports = function(eleventyConfig) {
-  const eleventyNavigation = eleventyConfig.getFilter('eleventyNavigation')
+export default function (eleventyConfig) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
-  const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function (params) {
-    const { collections, pagination, title } = params
+    const { collections, pagination } = params
     const {
       currentPage,
       currentPageIndex,
@@ -34,7 +33,7 @@ module.exports = function(eleventyConfig) {
     } = pagination
 
     if (!currentPage) return
-    
+
     const home = '/'
     const isHomePage = currentPage.url === home
 

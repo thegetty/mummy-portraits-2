@@ -12,7 +12,7 @@
  * @example "Johnson"
  */
 
-module.exports = (person, options) => {
+export default (person, options) => {
   const {
     full_name: fullName,
     last_name: lastName

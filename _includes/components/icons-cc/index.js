@@ -1,29 +1,30 @@
 //
 // CUSTOMIZED FILE
-// Add cc icons to PDF output, line 34
+// Add cc icons to PDF output, line 35
 //
-const fs = require('fs')
-const path = require('path')
-const { html } = require('~lib/common-tags')
+import fs from 'fs'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
+import { html } from '#lib/common-tags/index.js'
 
 /**
  * Creative Commons SVG Icon
   The individual svg elements are assembled according to the specific license used:
   "CC 0", "CC BY", "CC BY-SA", "CC BY-ND", "CC BY-NC", "CC BY-NC-SA", or "CC BY-NC-ND".
  */
-module.exports = function(eleventyConfig) {
+export default function (eleventyConfig) {
   const { config } = eleventyConfig.globalData
 
-  return function() {
+  return function () {
     if (!config.licenseIcons) return ''
 
     const ccIcons = fs
-      .readdirSync(path.join(__dirname, 'icons'))
+      .readdirSync(path.join(path.dirname(fileURLToPath(import.meta.url)), 'icons'))
       .map((filename) => {
         const id = path.basename(filename, '.svg')
         return fs
           .readFileSync(
-            path.join(__dirname, 'icons', filename),
+            path.join(path.dirname(fileURLToPath(import.meta.url)), 'icons', filename),
             { encoding: 'utf8' }
           )
           .replace('<svg', `<symbol id="${id}"`)
@@ -37,4 +38,3 @@ module.exports = function(eleventyConfig) {
     `
   }
 }
-
