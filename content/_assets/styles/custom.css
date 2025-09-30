@@ -563,6 +563,20 @@ mark.red {
   }
 }
 
+/* Fix a couple overrides that broke after updating quire-11ty version */
+@media print {
+  a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    color: #000 !important;
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .content .footnote-ref a,
+  .quire-page__content .content a.footnote-return,
+  .quire-page__content .content a.footnote-backref,
+  .quire-page__content .content a.footnote-ref {
+    font-weight: normal;
+    font-size: inherit !important;
+  }
+}
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */
