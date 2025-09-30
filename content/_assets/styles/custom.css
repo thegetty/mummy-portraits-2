@@ -555,6 +555,14 @@ mark.red {
   }
 }
 
+/* Make frontmatter page number appear in lower roman in TOC */
+@media print {
+  .quire-contents-list .page-item:first-child > a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+    font-style: italic;
+  }
+}
+
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */
