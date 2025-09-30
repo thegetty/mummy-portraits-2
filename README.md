@@ -16,8 +16,8 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 20.18.1
-- Quire CLI 1.0.0-rc.25
+- Node 22.10.0
+- Quire CLI 1.0.0-rc.33
 
 ### Branches
 
@@ -82,21 +82,14 @@ Added support for better PDF running heads
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
 
-**_includes/components/figure/image/html.js**
-Display annotated image ui inline on page, not just modal
-
 **_includes/components/figure/image/print.js**
 Add all annotation image layers to PDF output
 
 **_includes/components/icons-cc/index.js**
-**_layouts/pdf.liquid**
 Add cc icons to PDF output
 
 **_layouts/cover.liquid**
 Display multilayered cover image in animated quadrants
-
-**_includes/components/lightbox/data.js**
-Fix errant duplication of caption in lightbox data
 
 **_layouts/pdf-cover-page.liquid**
 Handle cover page title same as other elements, remove MLA citation

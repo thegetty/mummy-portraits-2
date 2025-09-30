@@ -13,7 +13,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "SECOND";
+    content: "FINAL TEAM";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
@@ -555,6 +555,28 @@ mark.red {
   }
 }
 
+/* Make frontmatter page number appear in lower roman in TOC */
+@media print {
+  .quire-contents-list .page-item:first-child > a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+    font-style: italic;
+  }
+}
+
+/* Fix a couple overrides that broke after updating quire-11ty version */
+@media print {
+  a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    color: #000 !important;
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .content .footnote-ref a,
+  .quire-page__content .content a.footnote-return,
+  .quire-page__content .content a.footnote-backref,
+  .quire-page__content .content a.footnote-ref {
+    font-weight: normal;
+    font-size: inherit !important;
+  }
+}
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */
@@ -586,4 +608,29 @@ div.publisher p:first-child {
 /* Remove space below image credits heading */
 .cover-image-credits .illustration-credits-heading {
   margin-bottom: 0 !important;
+}
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+.quire-page__content .container .content .no-break-container {
+  break-inside: avoid;
 }

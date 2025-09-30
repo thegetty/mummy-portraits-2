@@ -1,6 +1,8 @@
 ---
 title: Introduction
 layout: essay
+classes:
+  - page-one
 contributor: 
     - id: msvoboda
     - id: ccartwright
