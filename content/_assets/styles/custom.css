@@ -577,6 +577,13 @@ mark.red {
     font-size: inherit !important;
   }
 }
+
+@media print {
+  .title-page * {
+    max-width: 5in;
+  }
+}
+
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */
