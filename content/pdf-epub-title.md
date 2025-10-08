@@ -1,4 +1,5 @@
 ---
+title: Title Page
 layout: base.11ty.js
 classes:
   - title-page

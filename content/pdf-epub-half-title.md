@@ -1,4 +1,5 @@
 ---
+title: Half Title Page
 layout: base.11ty.js
 classes:
   - half-title-page

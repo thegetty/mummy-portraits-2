@@ -1,5 +1,5 @@
 ---
-Title: Copyright
+title: Copyright
 layout: page
 order: 5
 classes:
