@@ -365,6 +365,11 @@ q-lightbox .q-figure-slides__slide-ui form {
 
 /* Adjust figure image heights */
 @media print {
+  
+  .pdf-1q3in-height .q-figure__image {
+    max-height: 1.75in !important;
+    width: auto;
+  }
   .pdf-2q2in-height .q-figure__image {
     max-height: 2.5in !important;
     width: auto;
