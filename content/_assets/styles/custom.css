@@ -13,7 +13,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "FINAL TEAM";
+    content: "FINAL DEPT";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
@@ -577,6 +577,13 @@ mark.red {
     font-size: inherit !important;
   }
 }
+
+@media print {
+  .title-page * {
+    max-width: 5in;
+  }
+}
+
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* Remove extra space between publisher and address on copyright and about page */

@@ -88,6 +88,9 @@ Add all annotation image layers to PDF output
 **_includes/components/icons-cc/index.js**
 Add cc icons to PDF output
 
+**_includes/components/license-icons.js**
+Remove icons from EPUB output to avoid validation issues with SVGs
+
 **_layouts/cover.liquid**
 Display multilayered cover image in animated quadrants
 

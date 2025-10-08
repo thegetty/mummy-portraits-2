@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Remove icons from EPUB output to avoid validation issues with SVGs
+//
 import { html } from '#lib/common-tags/index.js'
 
 export default function (eleventyConfig) {
@@ -17,7 +21,7 @@ export default function (eleventyConfig) {
     })
 
     return html`
-      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank">
+      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank" data-outputs-exclude="epub">
         ${icons.join(' ')}
       </a>
     `
