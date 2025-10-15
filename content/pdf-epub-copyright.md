@@ -39,7 +39,7 @@ First edition {{ publication.pub_date | date: "%Y" }}
 </div>
 <div class="distribution no-break-container">
 
-Distributed in the United States and Canada by the University of&nbsp;Chicago&nbsp;Press
+Distributed in the United States and Canada by <br />the University of&nbsp;Chicago&nbsp;Press
 
 Distributed outside the United States and Canada by Yale&nbsp;University&nbsp;Press,&nbsp;London
 

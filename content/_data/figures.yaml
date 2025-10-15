@@ -1156,7 +1156,7 @@ figure_list:
   - id: "fig-11-8"
     src: "figures/fig-11-8.jpg"
     label: "Figure 11.8"
-    caption: "Proportional grid for six portraits."
+    caption: "Proportional grid for two portraits. Left: Portrait of a Young Man, Romano-Egyptian, 193–235 CE. Uncovered at Tanis by Grenfell and Hunt in 1902. Encaustic paint on a lime wood panel with traces of linen, 39.2 x 19.1 cm (15 7/16 x 7 1/2 in.). Oxford, Ashmolean Museum of Art and Archaeology, Egypt Exploration Fund, AN1896-1908.E.3755. Right: Portrait of a Woman, Romano-Egyptian, 90–110 CE. Fayum. Tempera paint on a lime wood panel, 38.2 x 14.5 cm (15 x 5 11/16 in.). Oxford, Ashmolean Museum of Art and Archaeology, John Davidson Beazley (ex–Graf Collection), AN1966.1112."
     credit: "Photo: © Ashmolean Museum of Art and Archaeology, University of Oxford"
     alt: "TK"
     zoom: "true"
@@ -1181,7 +1181,7 @@ figure_list:
     src: "figures/fig-11-11.jpg"
     label: "Figure 11.11"
     caption: "Portrait with a preparatory sketch and written instructions, Tebtynis (Roman tomb, cemetery VII or VIII), Fayum, Egypt, mid-second century CE. Fig wood panel, 36 x 24 x 1.4 cm (14 3/16 x 9 7/16 x 11/20 in.). University of California, Berkeley, Phoebe A. Hearst Museum of Anthropology, 6-21378a, verso."
-    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California. Infrared photography courtesy of the J. Paul Getty Museum"
+    credit: "Photo: © Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
     alt: "TK"
     zoom: "true"
 

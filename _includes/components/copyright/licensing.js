@@ -23,7 +23,7 @@ export default function (eleventyConfig) {
       `
     } else if (license.scope === 'text-only') {
       licenseText += `
-        The text of this work is licensed under a ${licenseName}. All images are reproduced with the permission of the rights holders acknowledged in the captions and are expressly excluded from the CC BY-NC license covering the rest of the publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights. 
+        The text of this work is licensed under a ${licenseName}. All images are reproduced with the permission of the rights holders acknowledged in the captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights. 
       `
     } else {
       licenseText += `
