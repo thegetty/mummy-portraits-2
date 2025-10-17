@@ -495,6 +495,10 @@ q-lightbox .q-figure-slides__slide-ui form {
     font-size: 10px;
   }
   
+  #fig-15-3-a .q-figure__image, #fig-15-3-b .q-figure__image, #fig-15-4-a .q-figure__image, #fig-15-4-b .q-figure__image {
+    max-height: 3in !important;
+  }
+
   #fig-17-11 p {
     text-align: left;
     font-size: 10px;
