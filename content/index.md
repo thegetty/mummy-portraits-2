@@ -1,6 +1,8 @@
 ---
 title: Cover
 layout: cover
+classes:
+  - split-side-cover
 order: 1
 menu: false
 toc: false

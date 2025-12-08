@@ -12,6 +12,7 @@ layout: base.11ty.js
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
+  <div class="quire-cover__overlay-wrapper">
   <div class="quire-cover__overlay upper-left">
     <img src="./_assets/images/upper-left/portrait.jpg">
     <img src="./_assets/images/upper-left/portrait-xray.jpg">
@@ -39,6 +40,7 @@ layout: base.11ty.js
     <img src="./_assets/images/lower-left/portrait-uv.jpg">
     <img src="./_assets/images/lower-left/portrait-ir.jpg">
     <img src="./_assets/images/lower-left/portrait.jpg">
+  </div>
   </div>
   <div class="quire-cover__hero-body hero-body">
     <div class="container is-fluid">
