@@ -4,11 +4,11 @@
 # unless otherwise overridden by more specific contexts.
 [build]
 publish = "_site"
-command = "npm install -g @thegetty/quire-cli@1.0.0-rc.25 && quire build"
+command = "npm install -g @thegetty/quire-cli@1.0.0-rc.33 && quire build"
 
 [build.environment]
-NODE_VERSION = "20.18.1"
-NODE_OPTIONS = "--max-old-space-size=8192"
+NODE_VERSION = "22.10.0"
+NODE_OPTIONS = "--max-old-space-size=49152"
 
 # These two GIT_LFS variables need to be added to the project’s
 # Deploy Settings in the Netlify UI, under Environment Variables:

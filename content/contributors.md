@@ -1,8 +1,12 @@
 ---
 title: Contributors
 layout: page
-order: 501
+classes:
+  - backmatter
+order: 210
+page_pdf_output: false
 ---
 
-{% contributors context=publicationContributors format='bio' %}
+{% contributors context=publicationContributors type='primary' format='bio' %}
 
+{% contributors context=publicationContributors type='secondary' format='bio' %}

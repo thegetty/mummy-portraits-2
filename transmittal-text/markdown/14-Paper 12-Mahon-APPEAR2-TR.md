@@ -1,0 +1,411 @@
+**label:** 12
+
+**title:** Exploring Artistic Practice in Roman Egypt
+
+**subtitle:** A Study of Nine Portraits at The Metropolitan Museum of Art
+
+**short_title:** Exploring Artistic Practice in Roman Egypt
+
+**name:** Dorothy Mahon
+
+**name:** Silvia A. Centeno
+
+**name:** Marsha Hill
+
+**name:** Charlotte Hale
+
+**name:** Louisa Smieska
+
+**name:** Clara Granzotto
+
+**name:** Julie Arslanoglu
+
+**name:** Anna Serotta
+
+The present study is focused on nine portraits at The Metropolitan Museum of Art (The Met) that are assigned dates from the mid-first through the second century CE ([figs. 12.1a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-1)–i and [12.2](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-2)).[^1] The primary approach of this study was to consider the portraits as the production of uniquely individual artists who, in their work, exploited sophisticated techniques and materials developed in the ancient world. While there continues to be much to discover about the pigments, binding media, and other materials used, it is the way in which the artists manipulated their materials that is the focus of this paper.
+
+**\[\[fig-12-1\]\]**
+
+**\[\[fig-12-2\]\]**
+
+The approximately 1,000 Romano-Egyptian panel portraits that exist in public and private collections display a variety of artistic productions, ranging from highly modeled and realistic to flat, mask-like, and less personalized depictions.[^2] The portraits in The Met’s collection are all superb examples, produced by skilled artists who were able to model the subjects’ distinctive features and thus capture the personalities of their subjects, resulting in lifelike depictions of unique individuals. All nine portraits are painted on thin wooden supports, identified as *Tilia* sp., commonly known as linden or lime, which vary in thickness from 1–3 mm.[^3] The painting technique used is characteristic of the encaustic medium, consisting of pigment mixed in beeswax, which results in a highly textured surface. Because the portraits lack an archaeological provenience, the tentative dates assigned to the portraits listed in figure 12.2 are solely based on details of costume, hairstyle, and jewelry.[^4] Stylistic similarities have been used to group the portraits with others from the Fayum and other sites along the Nile, including Antinoöpolis and Akhmim.[^5] A fully intact mummy with an inserted panel portrait of a youth was not included in this study due to its fragility ([fig. 12.3](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-3)). Excavated by W. M. Flinders Petrie at Hawara, Egypt, between 1910 and 1911, it is mentioned here as an example of the original context of the portraits that will be discussed.[^6]
+
+**\[\[fig-12-3\]\]**
+
+When acquired, all portraits except for Portrait I were already mounted onto laminated wood secondary supports that extended beyond their original perimeters.[^7] Some areas of surface disruption and paint loss can be attributed to contact pressure during the initial burial, as well as ill-considered removal of mummy wrappings following excavation. Visible along the perimeter of the panel and, in some cases, cutting into the paint surface, are incisions from a sharp tool used to trim and shape the portraits before attachment to the mummy bundle ([fig. 12.4](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-4)). All the panels show evidence of having been trimmed after painting.
+
+**\[\[fig-12-4\]\]**
+
+Portrait I is painted on a well-preserved panel support and retains the original thickness and natural curvature resulting from attachment to the deceased ([fig. 12.5](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-5)).[^8] Portraits I and D differ from the others in that the paint layers originally extended to the perimeter of the wood panel. Since entering the collection, conservation treatments have been minimal.[^9] The secondary panel supports were trimmed to the perimeter of the original supports to present the portraits closer to their historic contexts. The overall condition of each is excellent and the surfaces of only two of the portraits (Portraits H and I) show evidence of thinly applied modern coatings.
+
+**\[\[fig-12-5\]\]**
+
+## Results and Discussion
+
+[Figure 12.2](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-2) reveals that, with few exceptions, there is a striking similarity in the materials identified—such as the presence of gold leaf, copper-based pigments, and a ground preparation. The portraits differ in the way these materials were used, however, and this will be the focus of our discussion.
+
+### Visual Examination 
+
+While there are some apparent similarities in technique, none of the portraits can be identified with certainty as having been made by the same artist. What is consistently remarkable is that all the portraits seem to have been painted rather quickly, with a sure and skillful hand. Because the []{.mark}encaustic medium is only workable while heated, it requires a rapid application, and the control demonstrated by these artists is particularly impressive. While passages of the encaustic were manipulated, the paint layers were never unnecessarily labored or extensively reworked. Although the nine portraits studied constitute a small number of the portraits produced at the time, they display interesting similarities as well as differences in the use of the encaustic technique.
+
+Three of the portraits are painted directly on the unprepared wooden panel. For two of these, Portraits F and E, the artists made use of the optical brightness of the light wooden support and exploited the translucency of the wax medium to achieve delicate and bright passages in areas of the flesh where the panel is barely covered. The panel supports also served to brighten the reddish-purple garments that are painted with mixtures of largely translucent red lake pigments. A stiff brush was used to paint both portraits, judging from strokes displaying characteristic crisp furrows and tapering terminal points. Fine details, such as the eyelashes on both portraits, were painted with a small brush. Much of the surface of both portraits has a melted appearance, particularly in the flesh, where some areas have been manipulated with a heated tool. Features made with a heated tool on the surface of Portrait F include parallel marks around the nose and in the dark shadow beneath the lower lip ([fig. 12.6a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-6)). The wrinkled skin texture of the elderly woman in Portrait E was created by extensive manipulation of the encaustic with a heated tool. Notable are zigzag marks along the dark contour of the head at right that extend into the hollow of the cheek ([fig. 12.6b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-6)).
+
+**\[\[fig-12-6\]\]**
+
+Although Portrait H is painted on an unprimed support like the two portraits described above, the buildup of the encaustic is different in that this artist used optically dense mixtures of paint. The use of a stiff brush to apply certain passages is evident here as well. Parallel marks indicative of manipulations with a heated tool are primarily confined to the face ([fig. 12.7a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-7)). The texture of the encaustic used to construct the face reveals a change to the proper right ear, where the contour was initially larger and reduced in the final depiction. The painted inscription on the white tunic does not have the same body as the paint used for the rest of the portrait: the paint is fluid and has pooled along the edges of the lettering. Another medium seems to have been used here, perhaps chosen to more easily paint the fine details ([fig. 12.7b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-7)).
+
+**\[\[fig-12-7\]\]**
+
+Five of the portraits are painted on panels prepared with black grounds. Portrait G is densely painted on top of the dark preparation, resulting in a final depiction of great plasticity and a cool flesh tone. Constructed in two layers, the underpainting is done with a salmon-colored encaustic applied with crisp brushstrokes. On top of this, the final applications of encaustic have a melted appearance. Specifically, the proper left ear clearly demonstrates the layered technique. Here too, passages in the face were manipulated with a heated tool.
+
+Portraits A, B, and C are painted on panels prepared with a black ground that is relatively thin in comparison to the black preparation in Portrait G. Although stylistic similarity with Portraits B and A has been recognized, a later date has been suggested for the latter based on the hairstyle.[^10] Specific aspects of the technique and materials displayed by these two portraits, discussed below, suggest that these may have been produced in the same workshop. For Portrait C, horizontal strokes visible in an unpainted area at the bottom confirm that the black ground was applied with a stiff brush and was done using a fluid, lean medium. The face is painted with thickly applied encaustic, which was manipulated throughout with a heated tool. Applications displaying the furrows characteristic of the use of a stiff brush are present in all areas. One distinctive passage below the proper right eye shows vertical, hatched striations created by pulling through the paint with a heated stylus, which effectively softened and broadened the light pinkish strokes used to highlight the upper cheek. The highlight extending the length of the nose was done with two thin, meandering applications that twist before terminating in two separate highlights at the tip of the nose. Overall, this artist applied the paint in an animated manner with crisscrossing strokes used to model the brow and create the final highlights ([fig. 12.8](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-8)).
+
+**\[\[fig-12-8\]\]**
+
+Portrait D is painted on a panel prepared with a thick black ground and Portrait I is painted on a panel prepared with a gray ground. These two portraits differ from the other seven in that the encaustic originally extended to the perimeter of the panels. Portrait I retains the original dimensions except where the top corners have been trimmed. The perimeter of Portrait D has been trimmed except along the bottom. The encaustic used for the face, neck, costume, and background of Portrait I has a highly textured appearance characteristic of a surface that has been manipulated throughout with a heated tool. In general, the softly rounded, swirling appearance of the surface texture suggests that the encaustic remained molten during the painting process and was possibly heated after painting. The final application of bright white paint in the tunic is riddled with small pits, possibly caused by air bubbles that erupted during or just after execution ([fig. 12.9a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-9)). These are also present in the final white highlight at the tip of the nose.
+
+**\[\[fig-12-9\]\]**
+
+The use of a brush to paint the background and figure in Portrait D is evident throughout. Furrows are visible but, in general, the surface has a fused, melted appearance. The white tunic was painted with both a brighter white and a distinctly warmer white, as well as a grayish white that was used to model the forms of the receding shoulder. There are many small pits in the surface throughout the garment, which are similar to those observed in Portrait I; these are concentrated to a greater degree in the bright white paint ([fig. 12.9b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-9)). The paint depicting the flesh and facial features has been extensively manipulated with a heated tool. In the forehead and cheeks, the reworking was done using short parallel strokes. The purpose of the tool marks adjacent to the inside corner of the proper right eye are remarkable. The horizontal reddish-brown feature beneath the eye has been described as a surgical scar resulting from the treatment of an eye disease.[^11] It could also be a wooden splint inserted into the flesh at the terminal points below the proper right eye. The point of tension where the wooden splint pulls the delicate skin at the inner corner of the eyelid is carefully indicated by the artist using a stylus to make two marks—one longer and vertical and, below, another slightly shorter and diagonal.
+
+### Infrared Reflectography
+
+In Portraits E, F, and H, infrared reflectography (IRR) revealed a detailed underdrawing and characteristics of the medium and tools used ([fig. 12.10](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-10)). Due to the different spectral responses of the two cameras, IRR produced a more complete image of the underdrawing when compared to that produced using infrared photography. These three portraits are executed on panels that have no visible ground preparation, as discussed above. A clear image of the underdrawing is visible because it is executed with a carbonaceous drawing material and carbon-based black or other materials that absorb IR radiation are not present in the panel support.
+
+**\[\[fig-12-10\]\]**
+
+Examination of the surfaces with a stereomicroscope confirmed that the drawing was done directly on the wooden panel ([fig. 12.11](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-11)). Additionally, the appearance of the underdrawing observed in locations where small losses are present suggests that its binding medium is not encaustic but is rather more fluid and ink-like. For Portrait E*,* the artist began with a bold drawing using a carbon-based black pigment, identified by in situ Raman spectroscopy by its characteristic broad bands at ca. 1350 and 1580 cm^-1^,[^12] in a fluid medium applied with a brush as well as a reed pen ([fig. 12.12](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-12)). The characteristic markings of a reed pen with a squarely cut tip are remarkably clear, as are the more fluid tapering strokes characteristic of the use of a brush. The facial features have all been boldly drawn. Marks characteristic of the use of a brush are present throughout, particularly in the chin ([fig. 12.12a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-12)). There are marks with blunt ends characteristic of the use of a reed pen throughout, especially below the proper right eye ([fig. 12.12b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-12)). Additional underdrawing is present in the neck and in the curls at right. The garment is not underdrawn. As strokes of encaustic paint containing a carbon-based black pigment also record as dark lines in IRR, it is important to distinguish painted strokes from the underdrawing through a close visual comparison of the surface with the IRR image.
+
+**\[\[fig-12-11\]\]**
+
+**\[\[fig-12-12\]\]**
+
+Observations made through examination with the stereomicroscope confirm that the lines extending across the forehead, which appear dark in the IRR (see [fig. 12.10a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-10)), are not underdrawing but rather final applications of encaustic paint used to describe the wrinkling of the brow. The diagonal lines describing the muscles of the gaunt neck are also in the paint layer.
+
+Underdrawing like that observed in Portrait E is revealed in the IRR of Portrait F, but the latter underdrawing is more fluid overall (see [fig. 12.10b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-10)). The face is freely drawn with rapid strokes, using both a reed pen and a brush. The mantle is underdrawn with many sweeping brush strokes and the collar of the tunic is drawn with the broad, bold lines of underdrawing characteristic of both a brush and a reed pen. A comparison of the underdrawings of these two portraits revealed that while both were executed with a similar carbon-based black material, they exhibit completely different characteristics and were surely made by different artists. The artist who executed the drawing for Portrait E primarily used a reed pen and, for Portrait F, most of the drawing was done with a brush and with a very fluid medium. As additional portraits from other collections are examined using IRR, it may be possible to assign groups to individual artists or workshops based on characteristics of the underdrawings.
+
+Underdrawing is also present in Portrait H (see [fig. 12.10c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-10)). In this case, it appears that the medium was fluid and applied with a finely tipped brush or pen. Noteworthy are areas of hatching in the shadows of the face: the right eye and below the cheekbone, the right of the nose, lower lip and chin, and the recess above the center of the lips. The mouth is indicated with a few short lines, including small arcs at the corners. The lines in the face are fine and appear very dark in the IRR. It is unclear whether there are lines contouring the figure, but broad lines visible in the IRR below the ear at left, and outside the contour of the face below the ear, indicate initial placements of these features. Black pigment is seen under magnification in the mid-tones and shadows in the flesh and in the drapery; these underpainted areas appear relatively dark in the reflectogram. As the paint was thickly applied, the only place underdrawing is visible when the surface is inspected under magnification is in a small gap between the flesh paint and the paint of the upper lip.
+
+IRR did not image underdrawing in Portrait I, however, when the recesses along the contours of paint applications are examined under magnification, carbonaceous particles visible on top of the light gray ground strongly indicate the presence of one.
+
+### X-radiography
+
+X-radiography produced bold images of the portraits, largely due to the pervasive use of the radiopaque pigment, lead (Pb) white. The overall presence of lead white was inferred from the lead distribution maps obtained by macro-X-ray fluorescence spectroscopy (MA-XRF); additionally, the pigment was identified by in situ Raman spectroscopy, as discussed in the following section. Because of the translucency of the wax medium, it was necessary for the artist to mix pigments with hiding power such as lead white into the colors to provide visual opacity. As these pigments are generally radiopaque, the X-radiographs reveal the overall paint handling, individual brushstrokes and tool marks, and, in some cases, the initial laying in of the ears and contours of the head and body.
+
+The X-radiographs show that all the artists began by painting in the background color, followed by the figure, refining the contours of the head and body, and details of the hair on top. Generally, all the artists painted from light to dark, leaving darker areas such as the eyes, eyebrows, and hair in reserve, and finishing details after establishing the overall structure. In Portrait C, X-radiography shows most clearly that the gray background was painted before the figure and was brushed in with bold fluid and arching strokes, leaving the areas of the head and body in reserve ([fig. 12.13a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-13)). Quickly applied sweeping strokes define the tunic and mantle. In contrast, Portraits F and D are more radiopaque overall ([figs. 12.13b and c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-13)). Here too, despite the similar X-radiographic density in the flesh, each portrait clearly displays a different handling of the wax medium. The short parallel marks characteristic of the pervasive use of a heated tool present throughout Portrait D are relatively few in Portrait F. The X-radiograph of Portrait F shows that several curling strokes were used to lay in the structure of the proper left ear; these were largely concealed by dark curls of hair applied on top.
+
+**\[\[fig-12-13\]\]**
+
+### Macro-X-ray Fluorescence and Raman Spectroscopy (MA-XRF)
+
+In Raman spectra acquired in areas that have the visual appearance of an encaustic medium, bands characteristic of a wax were detected at ca. 1460, 1440, 1418, 1295, 1170, 1130, 1062, and 890 cm^-1,\ 13^ together with features due to different pigments. These results confirm the presence of the main component of the encaustic, however a chromatographic technique, and therefore the removal of samples, would be necessary to identify any possible minor components of the binding media.
+
+MA-XRF analysis showed the presence of Pb, copper (Cu), iron (Fe), manganese (Mn), mercury (Hg), and arsenic (As), and along with Raman spectroscopy measurements in selected paints, allowed us to identify lead white, carbon-based black/s, copper-containing blues and greens, iron ochres, most likely an umber, cinnabar, and very possibly orpiment ([fig. 12.14](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-14)), all pigments that have been previously reported in Romano-Egyptian portraits.[^13] The presence of lead white, 2PbCO~3~·Pb(OH)~2~, was confirmed by its characteristic Raman bands at ca. 415, 680, and 1051 cm^-1^.[^14] Since Raman spectroscopy was only used to analyze selected paints in some of the portraits, and lead white and red lead (Pb~3~O~4~) cannot be distinguished by XRF, the presence of relatively smaller amounts of red lead in some of the portraits cannot ruled out.[^15] Carbon-based blacks were identified by the very broad Raman features at ca. 1600 and 1330 cm^-1^; no bands at ca. 960 cm^-1^ that would indicate a bone or an ivory black were observed in the acquired spectra.[^16]
+
+**\[\[fig-12-14\]\]**
+
+The use of ochres was visualized in the Fe distribution maps; Raman spectroscopy analyses allowed us to identify hematite, with characteristic bands at ca. 224, 291, 411, and 611 cm^-1^,[^17] in some of the red Fe-containing paints. The artists who painted these portraits used Fe-containing pigments—ochres ranging in color from yellow to red—in very distinctive ways to model the flesh tones, hair, garments, and jewelry. The Fe distribution maps for Portraits F, D, E, and G highlight the similarities and differences of the artists’ use of these pigments ([figs. 12.15a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-a)–[d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-d)). It is not surprising that these colors were used less liberally to paint the subject’s gray hair in Portrait E in comparison to the dark hair of the more youthful subjects. Her skin tone is deeper in color and loaded with Fe, having lost its pearlescent tone. By contrast, the Fe-containing pigments in the flesh of the more youthful subjects is concentrated in the modeling of the contours and shadows of the head and facial features.
+
+**\[\[fig-12-15-a\]\]**
+
+**\[\[fig-12-15-b\]\]**
+
+**\[\[fig-12-15-c\]\]**
+
+**\[\[fig-12-15-d\]\]**
+
+**\[\[fig-12-15-e\]\]**
+
+**\[\[fig-12-15-f\]\]**
+
+Copper was detected by MA-XRF in the large green emeralds of the necklace and earrings in Portrait G ([fig. 12.15h](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-h)). The jewel located between two pearls on the earring in Portrait E has been previously described as a black bead.[^18] However, MA-XRF showed that a Cu-based pigment was used ([fig. 12.15g](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-g)) and examination under magnification confirmed that the color is greenish and achieved in two paint applications consisting of an opaque green paint layer followed by a translucent glaze, suggesting that this is an emerald. As aspects of the jewelry and hairstyle are frequently used as an aid in dating the portraits, confirming these details is critical.
+
+**\[\[fig-12-15-g\]\]**
+
+**\[\[fig-12-15-h\]\]**
+
+Raman spectroscopy paint analysis of the green stones decorating the jewelry in Portrait G gave broad features in the 1200–1500 cm^-1^ range that did not allow the pigment(s) to be identified. In this case, the visual appearance is consistent with that of a verdigris, Cu resinate, or Cu oleate. Identifying these types of pigments by Raman spectroscopy in naturally aged paints is particularly difficult even if good spectra have been reported for numerous variants of these colorants in samples prepared in the laboratory.[^19]
+
+MA-XRF mapping also revealed hidden features that contribute to the understanding of the portraits. For Portrait G*,* the Fe and Pb distribution maps showed a crescent moon hairpin ornament, as well as details of the sitter’s hairstyle, concealed by the gold (Au) leaf ([figs. 12.16a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-16-a)–[c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-16-c)). An important feature made more clearly visible by MA-XRF mapping is the amulet in the sitter’s necklace in Portrait I ([fig. 12.17](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-a)). Painted mainly with an ochre pigment revealed in the Fe distribution map ([figs. 12.17a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-a) and [c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-c)), it can now be identified with certainty as Omphale holding the club of Herakles ([fig. 12.17e](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-e)).[^20] Questions have been raised as to whether the necklace was added to this portrait at a later date. That it is surely original has been confirmed by the Fe and Cu distribution maps and examination of the surface under magnification. The necklace was painted first, followed by the blue mantle, the latter painted with a Cu-containing pigment ([figs. 12.17b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-b)–[d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-d)). MA-XRF detected As in this necklace where the artist used a bright yellow As-containing pigment, very possibly orpiment, to enhance the highlight. This is the only instance in which As was identified in the present study. In addition, Portrait I is the only one in this study in which MA-XRF detected Hg. Here, the artist applied a tiny dab of cinnabar to redden the caruncle membrane at the inner corner of both eyes.
+
+**\[\[fig-12-16-a\]\]**
+
+**\[\[fig-12-16-b\]\]**
+
+**\[\[fig-12-16-c\]\]**
+
+**\[\[fig-12-17-a\]\]**
+
+**\[\[fig-12-17-b\]\]**
+
+**\[\[fig-12-17-c\]\]**
+
+**\[\[fig-12-17-d\]\]**
+
+**\[\[fig-12-17-e\]\]**
+
+Another interesting use of Cu-containing pigments is in the flesh tones. In Portraits F and G, the dark undermodeling of the shadows and recesses around the facial features and along the hairline is revealed in the Cu distribution maps (see [figs. 12.15e](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-e) and [h](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-h)). The artists exploited the translucency of the wax medium by skillfully layering applications of a lighter, more delicate, rosy flesh color on top to achieve a superbly modeled, final depiction. In Portrait D, the Cu-containing pigment Egyptian blue,[^21] which was indicated by visible induced luminescence (VIL) imaging, is dramatically captured in the Cu distribution map ([fig. 12.15f](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-f)). The pigment is concentrated in the upper eye socket and mixed with an Fe-containing pigment ([fig. 12.15b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-b)), apparently to achieve a sallow color suggesting ill health. Cu was also identified in the contours of the face, facial features, and neck as indicated in the MA-XRF map.
+
+The distribution of Au leaf in the wreaths and the backgrounds of four portraits, Portraits C*,* E*,* F, and G was visualized by MA-XRF (see [fig. 12.14](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-14)). Au was not identified in the other portraits. MA-XRF mapping also revealed the size and configuration of the pieces of Au leaf applied to the backgrounds. This is shown for Portrait G in [figure 12.16c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-16-c).
+
+MA-XRF revealed the presence and distribution of nickel (Ni) in three of the portraits: Portraits E*,* G*,* and H ([figs. 12.18a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-18-a), [c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-18-c), and [d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-18-d)). The Ni-containing material appears to have been deposited in a fluid form when the panels were in the upright position and extended in rivulets that pooled at the bottom. Where exposed, these areas appear grayish brown when viewed with the naked eye and examination under magnification confirmed that the deposits are on the wooden supports beneath the paint layers and that there is a whitish material on top. In Portrait E, there is Cu in the Ni-containing areas ([fig. 12.18b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-18-b)), but no Cu was observed in the Ni-containing areas for the other two portraits. In Portrait H*,* vanadium (V) was detected by MA-XRF in a distribution that does not coincide with that of Ni ([fig. 12.18e](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-18-e)). Raman analysis in the Ni-containing areas showed the presence of gypsum in the whitish material but no other compounds were detected by this technique. These results cannot be fully explained to date. V and Ni, present in porphyrin-like complexes, are the most abundant trace metals found in almost all bitumens; the concentration and relative abundance of these elements, along with those of minor components, depend on the source of the material.[^22] Bitumen could have been available to Egyptians from a number of sources [^23] and analysis of residues associated with mummies dating from the Greco-Roman period have identified bitumen both in treatment of the body and of the wrappings.[^24] It has been reported that bitumen in mummies occurs with other ingredients, such as conifer resins, grease, and beeswax, and the balms show a great variety of molecular compositions.[^25] When smeared on the exterior of mummy wrapping, bitumen may have been used as an external mechanical shield to prevent ingress by insects, fungi, bacteria, and moisture; it may also have been added as a biocidal agent to prevent the flesh from decaying.[^26] Even though the elemental analyses in the three portraits suggest the possible presence of bitumen, to firmly identify this material, GC-MS analyses are necessary.[^27]
+
+**\[\[fig-12-18-a\]\]**
+
+**\[\[fig-12-18-b\]\]**
+
+**\[\[fig-12-18-c\]\]**
+
+**\[\[fig-12-18-d\]\]**
+
+**\[\[fig-12-18-e\]\]**
+
+### Visible Induced Luminescence 
+
+VIL imaging showed the use of the pigment Egyptian blue in five portraits: Portraits C*,* G, D, H, and I*.* Egyptian blue is the earliest known synthetic pigment,[^28] composed of an analog to the natural mineral cuprorivaite (CaCuSi~4~O~10~) with variable amounts of wollastonite (CaSiO~3~), quartz, other phases of silicon dioxide, cuprite (Cu~2~O), and tenorite (CuO).[^29] It can vary from bright blue to nearly colorless depending on its composition, process of manufacture, and grain size.[^30]
+
+While VIL indicated Egyptian blue in Portrait C’s gray background, analysis by MA-XRF showed only traces of Cu in the area in question. Furthermore, no blue particles were observed when this area was examined under magnification. Because Egyptian blue displays very high luminescence,[^31] VIL imaging can record relatively low amounts of this pigment. Additionally, blue particles were not observed in Portrait G’s flesh under magnification, although MA-XRF analysis revealed the presence of relatively small amounts of Cu in these areas (see [fig. 12.15h](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-h)). This suggests that a grade of a very pale or virtually colorless form of this glassy pigment was used in both cases to increase translucency and to add bulk to the encaustic rather than for hue. Ganio et al. 2015 reported the presence of Egyptian blue with no visible blue color in panel portraits from Tebtunis and proposed that the pigment, in these cases, may have been used to impart brightness.[^32] In Portrait D*,* VIL showed Egyptian blue primarily concentrated in the upper eye sockets. Few pale blue particles were observed when the areas were examined under magnification, but present are abundant, distinctly opaque red particles. As mentioned above, MA-XRF confirmed the presence of an Fe-containing pigment, most likely an ochre, and of Cu in these areas ([figs. 12.15b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-b) and [f](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-15-f)). A pale Egyptian blue seems to have been used largely to increase translucency and to add bulk to the paint here as well. In this portrait, the paint mixture containing Egyptian blue and Fe-containing pigment(s), along with black and white pigments, was surely used to achieve dimension; the brownish tone intended to enhance a swollen appearance, emphasizing the subject’s eye condition. When the surface of Portrait H was examined, large, bright blue particles of Egyptian blue mixed with a red lake to achieve the purple color of the clavus were observed. Similar large Egyptian blue particles were also used strategically to model the neck; MA-XRF confirmed the presence of Cu in these areas of Portrait H. For Portrait I, VIL showed the presence of Egyptian blue throughout the sitter’s flesh, to color her beautiful blue mantle and to brighten her white tunic, and in the sclera of her eyes. Glassy, bright Egyptian blue particles were visible when the surface was examined with magnification and MA-XRF mapping detected Cu in these areas ([figs. 12.17b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-b) and [d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-17-d)).
+
+## Other Materials and Aspects of the Painting Technique
+
+The close relationship between Portraits B and A has long been recognized. Based on hairstyle, these portraits have been dated about a generation apart, 130–150 CE for the former and 160–180 CE for the latter.[^33] As mentioned above, both panels are prepared with a very thin black ground; a similarity in the handling of the paint medium is evident when the portraits are examined in raking light ([figs. 12.19a](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-a) and [d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-d)). Under high magnification, the pigment particle sizes and mixtures containing black, white, earth colors, and transparent red lake/s used to model the flesh are remarkably similar. Also, the distributions of lead white in both portraits point to a close resemblance in handling ([figs. 12.19b](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-b) and [e](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-e)) that, if not by the same hand, surely was a product of artists trained in the same, continuous workshop tradition. Mn, that most likely indicates the use of an umber,[^34] as mentioned above, was detected by MA-XRF in the color mixtures used to deepen the flesh tones of both subjects ([figs. 12.19c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-c) and [f](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-19-f)). The attention paid by the artist when depicting individual features is revealed by a photomicrograph taken of the mole ([fig. 12.20](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-20)). This tiny but important feature is constructed with three applications. For texture and emphasis, the artist began with a light base color containing lead white. On top of this a quick dab of black paint was followed by a stroke of brown that curls around the black, terminating in a rounded point.
+
+**\[\[fig-12-19-a\]\]**
+
+**\[\[fig-12-19-b\]\]**
+
+**\[\[fig-12-19-c\]\]**
+
+**\[\[fig-12-19-d\]\]**
+
+**\[\[fig-12-19-e\]\]**
+
+**\[\[fig-12-19-f\]\]**
+
+**\[\[fig-12-20\]\]**
+
+When examined under magnification, very fine black fibers were observed to be pervasive in the paints in eight of the nine portraits; photomicrographs showing these fibers in Portraits B and E are presented in [figures 12.21a–f](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-21). These black fibers may be fragments of dark animal hair from the artists’ brushes.
+
+**\[\[fig-12-21\]\]**
+
+The red lakes present in the portraits investigated for this study were not identified by chemical analysis. When examined under ultraviolet radiation, all nine portraits showed transparent red lake pigment/s that display/s a bright pinkish-orange fluorescence, which may possibly indicate the presence of a madder lake.[^35] Embedded fibers colored with a red lake were observed under magnification in all of the portraits (shown for Portraits B, F, and H in [figs. 12.22a–d](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-22)), which indicates that the red lake pigment/s were likely manufactured using a colorant produced from textile waste.[^36] European sources dating to the fifteenth and sixteenth centuries describe the practice of extracting red colorants from dyed textile waste to produce red lake pigments;[^37] and examples of this tradition have been reported in European paintings of the fifteenth and seventeenth centuries.[^38] Our findings suggest that the knowledge and practice of preparing red lake pigments from textile waste may have originated in the ancient world. Because madder was extensively cultivated throughout the Mediterranean basin during the Roman-Egyptian period,[^39] it raises the question as to why it would have been necessary to employ a thrifty practice of extracting color from textile waste. In consideration of this, it is possible that the red fibers present throughout the paint may be due to pigments produced from a mixture of red lakes extracted from textile waste dyed with the more precious insect lakes, such as kermes.[^40]
+
+**\[\[fig-12-22\]\]**
+
+The distinct fluorescence of the red lake/s when viewed under ultraviolet radiation draws attention to the way in which the artist used lake/s, mixed with other pigments, to emphasize facial features, model flesh, and color garments. Three remarkable examples in which ultraviolet radiation enhances the uniquely individual methods the artists employed to model and highlight the facial features using red lake/s mixed with other pigments, such as lead white, are Portraits B*,* C, and G ([figs. 12.23a–c](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/fig-12-23)). For the males, the red lake/s is/are largely concentrated in the final highlights of the facial features. For the young woman, red lake is used throughout to model her subtly colored flesh. In modern times, artists have remarked on the preferred use of more delicate, transparent red lake pigments, rather than opaque red pigments such as vermilion, to achieve a more specific flesh color.[^41] Surely the lifelike depictions achieved by these ancient artists can be attributed in part to their skillful use of red lake.
+
+**\[\[fig-12-23\]\]**
+
+Ultraviolet radiation also reveals the quick fluid strokes of what appears to be a red lake used to paint the clavi in all the male portraits, except for Portrait H, where the lake is mixed with Egyptian blue to make a purple color, as mentioned above. The tunics in Portraits B and D are decorated with two clavi. The trimming of these panels has resulted in only a sliver of this feature remaining at left, and the fragment of color is made more clearly visible under ultraviolet radiation. Red lake/s is/are used in Portraits E, F*,* and G to color the tunics and mantles. The clavi in Portraits I and H are purple and fluoresce under ultraviolet radiation; MA-XRF and VIL imaging indicate that this color was also made by mixing red lake with Egyptian blue.
+
+## Conclusion 
+
+This study celebrates the talented artists who painted the portraits, and the remarkable culture of the ancient people depicted, placing them within a larger historical context focused on artists’ materials and techniques. Long considered among The Met’s most esteemed collections, the portraits have been viewed and appreciated for decades by countless visitors as a palpable link that connects us with the past. These artists of the Roman period working in Egypt set a standard for the use of the encaustic technique that is unsurpassed today. The detection using IRR of extensive underdrawing on three portraits, executed with a carbonaceous black pigment in a fluid medium using both a reed pen and a brush, shows that beginning a portrait from a detailed life drawing was practiced in the ancient world. While it was of interest to confirm the use of a full range of pigments, both naturally occurring and manufactured, it is the inspired and various ways in which the artists manipulated their materials that proved most impressive.
+
+Visual examination, IRR, VIL, and X-radiography, in combination with MA-XRF, which proved to be the most powerful analytical tool for obtaining detailed distribution maps of the pigments, provided insight into the individual painting techniques employed. The intentional and varied choice of ochres, a manganese-containing pigment (most likely umber), cinnabar, transparent and brightly colored Egyptian blue, and delicate red lake/s to depict a wide variety of nuanced flesh tones demonstrates the sophistication of these artists. This is also true of the various forms of copper-based greens as well as an arsenic-containing pigment, very possibly orpiment, used to depict the jewelry, and the strategic use of pigment mixtures to depict purple clavi. The use of lead white is ubiquitous, and this too is adjusted in sensitive ways to create modeling and nuanced hues when depicting the white garments.
+
+The pervasive presence of fibers dyed with a red lake throughout the paint in all nine paintings suggests the practice of producing lake pigments from textile waste dates back at least to the ancient world. The origin of the black fibers observed in eight of the paintings may be fragments of the artists’ brushes. The detection of nickel on three panels and of vanadium in one of these suggests the possible presence of bitumen.
+
+The burial practices of these ancient peoples were surely motivated by a desire to preserve themselves in the afterlife. Although the portraits were made for a quite different purpose, it is our hope that these ancient people would be pleased that their portraits continue to be appreciated and to inspire us today.
+
+## Methods
+
+The paintings were photographed in normal, raking, and UV lighting conditions. In addition to examination using high magnification stereomicroscopy, technical information was gathered using imaging and non-invasive analytical techniques including X-radiography, infrared reflectography (IRR), infrared photography, visible induced luminescence (VIL), macro-X-ray fluorescence (MA-XRF), and Raman spectroscopy.
+
+### Infrared Reflectography 
+
+Infrared reflectography (IRR) was done using an OSIRIS InGaAs near-infrared camera with a 6-element, 150 mm focal length, f/5.6–f45 lens; and spectral response in the 900–1700 nm range. The reflectograms of all paintings were recorded in one capture.
+
+### Infrared Photography
+
+A modified Canon EOS 5D Mark II, and a modified Canon EOS 5DS camera was used for infrared photography. The modification involved the removal of an infrared blocking filter and the addition of an infrared filter (X-nite, 830 nm). The camera is sensitive up to approximately 900 nm.
+
+### X-radiography
+
+Digital X-radiographs were acquired for 09.181.1, 09.181.2, 09.181.3, 09.181.4, and 2013.438 using a TFI Hotshot portable industrial X-ray unit, consisting of a 603 head and 805D control. The system has a 0.5 mm focal spot and 96.5 cm radiation beam. For these portraits, the source was operated at 30 kV and 5 mA, and the exposure time was 30 s. Images were recorded onto Industrex Flex XL Blue 5537 plate and digitized with a Carestream HPX-1 scanner at 508 ppi.
+
+For the rest of the paintings, existing film radiographs were scanned with an Epson 10000XL using Silverfast 8 software (LaserSoft Imaging) at 600 ppi. For these portraits, the acquisition conditions were as follows: 30 kV, 5 mA, and 20 s for 09.181.5; 25 kV, 5 mA, and 5 s for 09.181.6 and 09.181.7; and 35 kV, 5 mA, and 5 s for 18.9.2.
+
+### Macro-X-ray Fluorescence (MA-XRF) 
+
+Macro-X-ray fluorescence (MA-XRF) was carried out using a Bruker M6 Jetstream instrument with the X-ray source operated at 50 kV and 0.5 mA. The full paintings were mapped with a 500-micron spot size and a 500-micron step size, with a dwell time of 100 msec/pixel. The spectra were processed using the Bruker M6® Jetstream software and open-source PyMCA tools.
+
+### Raman Spectroscopy 
+
+Non-invasive Raman spectroscopy measurements were done in situ in selected paints in some of the portraits using a Renishaw System 1000 coupled to a Leica DM LM microscope. All the spectra were acquired using a 785 nm laser excitation focused on the portraits using a long working distance 20x objective lens, with integration times between 10 and 120 s. A 1200 lines/mm grating and a thermoelectrically cooled CCD detector were used. Powers at the sample were set between 0.5 and 5 mW using neutral density filters.
+
+### Visible-Induced Infrared Luminescence (VIL)
+
+VIL imaging was carried out with a modified Canon D60 camera (IR/UV filters removed) with a Coastal Opt UV-Vis-IR 60 mm macro lens, a X-Nite 830 filter on the lens, and red LEDs as the illumination source.
+
+## Acknowledgements 
+
+The authors are indebted to the following Met colleagues: Diana Patch, Lila Acheson Wallace Curator in Charge, Department of Egyptian Art, for her continuing support of this investigation; Sara Levin, assistant conservator, Objects Conservation, for acquiring multiband images; and Evan Read, manager of technical documentation, Paintings Conservation, for photography and for acquiring and digitizing X-radiographs and IRR images. We are also grateful to Joanne Dyer, scientist at the British Museum, for suggesting bitumen as the possible origin of the Ni-containing material observed in some of the portraits studied. We thank the Andrew W. Mellon Foundation for supporting Louisa Smieska and Clara Granzotto with fellowships in The Met’s Department of Scientific Research during the period of the research.
+
+## Notes
+
+1\. \$\$Walker 2000A\$\$.
+
+2\. \$\$Walker 2000b\$\$; \$\$Walker and Bierbrier 1997\$\$
+
+3\. \$\$Koeppen 1973\$\$.
+
+4\. \$\$Walker 2000B\$\$.
+
+5\. \$\$Walker 2000B, 105–16\$\$.
+
+6\. “Mummy with an Inserted Panel Portrait of a Youth, A.D. 80–100.” The Metropolitan Museum of Art, https://[[www.metmuseum.org/art/collection/search/547697]{.underline}](http://www.metmuseum.org/art/collection/search/547697); for accounts of excavations in the Fayum, see Petrie 1889, Petrie, 1890, and Petrie 1911; for recent evocations of the physical ambiance of one particular local that produced these portraits, see \$\$Bąkowska-Czerner and Czerner 2022\$\$ and \$\$Daszewski 2008\$\$.
+
+7\. Metropolitan Museum of Art, Imaging Department Archives.
+
+8\. This portrait was acquired in 2013 by the Met and restituted to Egypt in 2022.
+
+9\. \$\$Von Sonnenburg 1972\$\$.
+
+10\. \$\$Walker 2000B, 115\$\$.
+
+11\. \$\$Corcoran and Svoboda 2010, 40\$\$.
+
+12\. \$\$Burgio and Clark 2001\$\$.
+
+13\. \$\$Burgio and Clark 2001\$\$; \$\$Vandenabeele et al. 2000\$\$.
+
+14\. \$\$Delaney et al. 2017, 15509\$\$; \$\$Dyer and Newman 2020\$\$; \$\$Ganio et al. 2015\$\$; \$\$Salvant et al. 2018\$\$; \$\$Thiboutot 2020\$\$; \$\$Vak, Iannaccone, and Uhlir 2020\$\$.
+
+15\. \$\$Bell, Clark, and Gibbs 1997\$\$; \$\$Burgio and Clark 2001\$\$.
+
+16\. \$\$Eastaugh et al. 2004\$\$.
+
+17\. \$\$Bell, Clark, and Gibbs 1997\$\$.
+
+18\. \$\$Bouchard and Smith 2003\$\$; \$\$de Faria, Venâncio Silva, and de Oliveira 1997\$\$.
+
+19\. \$\$Walker 2000B, 108\$\$.
+
+20\. \$\$Centeno 2016\$\$.
+
+21\. \$\$Dasen 2008\$\$.
+
+22\. \$\$Ganio et al. 2015\$\$; \$\$Eastaugh et al. 2004\$\$; \$\$Riederer 1997\$\$.
+
+23\. \$\$Nahar, Schmets, and Scarpas 2016\$\$.
+
+24\. \$\$Serpico 2000\$\$.
+
+25\. \$\$Serpico 2000\$\$.
+
+26\. \$\$Connan 1999\$\$; \$\$Serpico 2000\$\$.
+
+27\. \$\$Nissenbaum and Buckley 2013\$\$.
+
+28\. \$\$Connan 1999\$\$; \$\$Serpico 2000\$\$.
+
+29\. \$\$Riederer 1997\$\$; \$\$Eastaugh et al. 2004\$\$.
+
+30\. \$\$Ganio et al. 2015\$\$; \$\$Riederer 1997\$\$.
+
+31\. \$\$Riederer 1997\$\$.
+
+32\. \$\$Nicola et al. 2024\$\$.
+
+33\. \$\$Ganio et al. 2015\$\$.
+
+34\. \$\$Walker 2000B, 111–14\$\$.
+
+35\. \$\$Eastaugh et al. 2004\$\$.
+
+36\. \$\$de la Rie 1982\$\$; \$\$Newman and Gates 2020\$\$.
+
+37\. \$\$Kirby, Spring, and Higgitt 2005, 74–78\$\$.
+
+38\. \$\$Kirby, Saunders, and Spring 2006, 237\$\$.
+
+39\. \$\$Kirby, Saunders, and Spring 2006, 239\$\$.
+
+40\. \$\$Newman and Gates 2020\$\$; \$\$Rackham 1952\$\$, Book XIX, chapter 17.
+
+41\. \$\$Eastaugh et al. 2004\$\$.
+
+42\. \$\$Northcote 1819, 18\$\$.
+
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
+
+[^14]:
+
+[^15]:
+
+[^16]:
+
+[^17]:
+
+[^18]:
+
+[^19]:
+
+[^20]:
+
+[^21]:
+
+[^22]:
+
+[^23]:
+
+[^24]:
+
+[^25]:
+
+[^26]:
+
+[^27]:
+
+[^28]:
+
+[^29]:
+
+[^30]:
+
+[^31]:
+
+[^32]:
+
+[^33]:
+
+[^34]:
+
+[^35]:
+
+[^36]:
+
+[^37]:
+
+[^38]:
+
+[^39]:
+
+[^40]:
+
+[^41]:

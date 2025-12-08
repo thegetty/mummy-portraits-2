@@ -1,3 +1,7 @@
+<!--
+## CUSTOMIZED FILE
+## Handle cover page title same as other elements, remove MLA citation
+-->
 <!doctype html>
 <html>
   <head>
@@ -21,13 +25,14 @@
         <div class="container">
           <div class="content">
 
-            <h3>{{cover.title}}</h3>
-
             {% comment %}
             FIXME: These classes are only here because there's a too-specific CSS rule for .quire-page__content .container .content dl dt, resolve that and remove these!! 
             {% endcomment %}
 
             <dl class="cover-content">
+
+              <dt class="cover-content-label">Title:</dt>
+              <dd class="cover-content-data">{{ cover.title | markdownify }}</dd>
 
               {% if cover.contributors.size > 0 %}
                 <dt class="cover-content-label">Author(s):</dt>
@@ -40,15 +45,11 @@
               {% endif %}
               
               {% if cover.citations %}
-                <dt class="cover-content-label">Citation (Chicago):</dt>
+                <dt class="cover-content-label">Citation:</dt>
                 <dd class="cover-content-data">{{cover.citations.chicago}}</dd>
-                <dt class="cover-content-label">Citation (MLA):</dt>
-                <dd class="cover-content-data">{{cover.citations.mla}}</dd>
               {% endif %}
 
             </dl>
-
-            <hr />
 
             {% copyright %}
 

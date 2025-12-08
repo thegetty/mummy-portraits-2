@@ -1,3 +1,7 @@
+##
+## CUSTOMIZED FILE
+## Added configuration to support better PDF running heads
+##
 accordion:
   controls: arrow # arrow | plus-minus
   copyButton:
@@ -14,7 +18,7 @@ analytics:
 bylineFormat: name-title # name | name-title | false
 
 bibliography:
-  displayOnPage: true
+  displayOnPage: false
   displayShort: true
   heading: Bibliography
 
@@ -27,7 +31,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -53,16 +57,19 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'mummy-portraits-2'
   outputDir: '/_assets/downloads' 
+  runningHeadDefault: title # none | title
+  runningHeadRecto: title # contributor | label | none | section | title
+  runningHeadVerso: none # contributor | label | none | section | title
   pagePDF:
     accessLinks:
       - header: true 
         label: 'PDF'
-      - footer: true
+      - footer: false
         label: 'Download this page'
     coverPage: true
-    output: false
+    output: true
   publicationPDF:
     output: true
 
@@ -73,3 +80,5 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."

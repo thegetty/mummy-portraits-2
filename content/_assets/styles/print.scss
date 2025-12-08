@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Updated to support better PDF running heads
+//
 @use "sass:math";
 @import "colors";
 @import "variables";
@@ -46,10 +50,8 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-inner-margin;
 
     @bottom-right {
-      content: string(sectiontitle);
-      text-transform: uppercase;
-      letter-spacing: 1pt;
-      font-size: 7.5pt;
+      content: string(verso);
+      content: flow(verso);
     }
 
     @bottom-left {
@@ -68,7 +70,8 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-outer-margin;
 
     @bottom-left {
-      content: string(pagetitle);
+      content: string(recto);
+      content: flow(recto);
     }
 
     @bottom-right {
@@ -211,8 +214,30 @@ $print-trim: $print-bleed * 2;
 
 // Generated content for footers and page #s in TOC
 // -----------------------------------------------------------------------------
-  .quire-page {
-    string-set: pagetitle attr(data-footer-page-title), sectiontitle attr(data-footer-section-title);
+  .pdf-running-head {
+    display: none;
+  }
+  .pdf-running-head--recto {
+    text-align: left;
+    string-set: recto content();
+  }
+  .pdf-running-head--verso {
+    text-align: right;
+    string-set: verso content();
+  }
+  // For PrinceXML, flow allows running heads to contain HTML markup like italics
+  @supports (flow: normal) {
+    .pdf-running-head {
+      font-family: $print-footer-font;
+      font-size: $print-footer-font-size;
+      display: inline-block;
+    }
+    .pdf-running-head--recto {
+      flow: static(recto);
+    }
+    .pdf-running-head--verso {
+      flow: static(verso);
+    }
   }
 
   // Adds page numbering with dotted leaders in PrinceXML
@@ -583,6 +608,13 @@ $print-trim: $print-bleed * 2;
     .lvml {
       display: none !important;
     }
+  }
+
+  // Remove icons from PDF reading order
+  // they currently don’t include titles and so fail PDF accessibility tests
+  svg.quire-copyright__icon,
+  .quire-copyright__icon__link {
+    prince-pdf-tag-type: Artifact;
   }
 
 // Title Page and Half Title Page

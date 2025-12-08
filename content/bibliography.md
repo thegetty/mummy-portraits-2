@@ -1,5 +1,7 @@
 ---
 title: Bibliography
 layout: bibliography
-order: 500
+classes:
+  - backmatter
+order: 190
 ---

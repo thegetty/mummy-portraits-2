@@ -1,4 +1,5 @@
 ---
+title: Title Page
 layout: base.11ty.js
 classes:
   - title-page
@@ -7,6 +8,7 @@ outputs:
   - pdf
   - epub
 toc: false
+page_pdf_output: false
 ---
 
 <section class="title-block">

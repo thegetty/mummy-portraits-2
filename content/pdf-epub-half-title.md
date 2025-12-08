@@ -1,4 +1,5 @@
 ---
+title: Half Title Page
 layout: base.11ty.js
 classes:
   - half-title-page
@@ -7,6 +8,7 @@ outputs:
   - epub
   - pdf
 toc: false
+page_pdf_output: false
 ---
 
 <section class="half-title">

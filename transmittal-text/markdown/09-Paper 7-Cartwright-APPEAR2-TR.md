@@ -1,0 +1,125 @@
+**label:** 7
+
+**title:** Seeing the Wood for the Trees
+
+**subtitle:** Mummy Portraits and Painted Panels from Roman Egypt
+
+**short_title:** Seeing the Wood for the Trees
+
+**name:** Caroline R. Cartwright
+
+It is clear that the remarkably good preservation of the cellular wood structure of mummy portraits and painted panels is due to the dry conditions that existed within sealed ancient Egyptian tombs. Such preservation has enabled the diverse research produced on these objects in the APPEAR project. At the British Museum, scanning electron microscope identifications of the chosen woods have further expanded our knowledge of wood use in Roman Egypt, and additional species have emerged, not previously published.[^1]
+
+Given that we knew already[^2] that the preference was for the selection of imported woods, principally limewood (*Tilia* sp.), it may be rewarding to unpick the reasons local Egyptian timbers were used as well. Looking back at wood use in Pharaonic Egypt, some of these elusive aspects of wood choices can be reevaluated in terms of religious, funerary, and cultural significance. At this stage of the APPEAR project, it is interesting to examine from contributions to this volume if we are any closer to finding out whether the limewood used for mummy portraits was imported into Egypt as raw timber or as prepared panels onto which the individual’s image would be applied locally. Alternatively, it is possible that some of the limewood mummy portraits were entirely manufactured “to order” in what is now classified as the continent of Europe.
+
+It is important to avoid falling into the trap of “not seeing the wood for the trees.” This idiom is used to indicate when someone is missing a wider understanding of the subject as a whole because they are too immersed in the details. From the outset, the APPEAR project recognized the need to embed research results into the bigger picture in order to examine, compare, and visualize trends of wood use in mummy portraits and painted panels in association with other data, such as pigments, panel shapes, artistic styles, and (where the information exists) findspots, and chronology. By updating and synthesizing such data, and by assimilating new findings revealed in other papers in this volume, we hope to formulate a better understanding of whether it might be possible to recognize workshops, specialist artisans, carpenters, and schools of artists. Integration of the many strands of research into a much larger framework of scholarship must surely be the end goal of the APPEAR project.
+
+# Wood Sampling, Identification, and New Additions to the Species List
+
+Details of the methodology of sampling wood from mummy portraits and painted wooden panels, comparison with reference collection woods, and species identifications from the British Museum using scanning electron microscopy were published in full in the first APPEAR volume, and the reader is referred to this paper for the full anatomical and taxonomic descriptions.[^3]
+
+Before embarking on a descriptive breakdown of the different species of woods selected, mention must be made of the terms *mummy portrait* and *painted panel,* as there seems to be some overlap or inconsistency in the use of these terms on museum, gallery, and collections websites and in publications. At the October 2022 APPEAR conference in Amsterdam, some presenters used *painted panel* in instances in which a deity was represented and reserved the use of *mummy portrait* for nondeity portraits that were (mostly) set into cartonnage over the face of a mummified person. Other presenters preferred a division into three categories: mummy portraits, funerary portraits (possibly not intended for placement over the face of the mummy), and votive panels.
+
+Sometimes a revision of terminology has occurred, as, for example, with the so-called triptych in the J. Paul Getty Museum at the Villa, published in 2011 in the mummy portrait category.[^4] Panel 74.AP.22 represents the Egyptian goddess Isis, panel 74.AP.20 depicts a bearded man, and panel 74.AP.21 represents the Greco-Egyptian divinity Serapis. This change is reflected in this essay, where the two painted panels depicting deities are listed not as mummy portraits but as painted panels (see appendix).
+
+There may be examples that do not fall readily into either of these categories; consequently, the percentages of wood species in this essay should be seen as indicative rather than absolute. One portrait that is difficult to categorize, as it appears to combine votive and funerary elements, is 1984-45 DJ in the Menil Collection, described as “Mummy portrait of a young man with small busts of Isis and Serapis.”[^5]
+
+The data in the appendix below reflect the status in May 2023 of 198 mummy portrait and portrait panel wood identification results. In the mummy portraits category (see [fig. 7.6](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-6)) imported limewood (*Tilia* sp.) still dominates (64.3%), with *Ficus sycomorus* (sycomore fig) making up the most popular native species of wood at 23.1%. Imported *Quercus* sp. (oak) and native *Tamarix aphylla* (tamarisk) each contribute 3.8%, while imported *Abies* sp. (fir) and *Cedrus* sp. (cedar) contribute 1.7% each. The remainder is made up of *Taxus baccata* (yew) at 1.1%, and *Salix* sp. (willow, which could be imported or sourced locally) at 0.5%. Irrespective of whether willow is included in the imported woods percentage, we continue to see (as we did in 2020[^6]**)** that imported woods were preferred for mummy portraits (73.1%), with native woods accounting for the remainder (26.9%)
+
+One of the more interesting additions to the species list is the *Salix* sp. willow from mummy portrait 128:1951 in the collection of Saint Louis Art Museum ([fig. 7.1](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-1)). Although the wood can be identified securely to genus level as *Salix*, it is recognized by the International Association of Wood Anatomists (IAWA) that the different species of willow cannot be distinguished on the basis of their wood anatomy. Therefore, we have to record the identification as *Salix* sp. (indicating that the species is not determined). Even just the genus-level identification of willow is interesting, however, because there is a published identification of a painted portrait on willow wood (*Salix* sp.) from a fourth-century CE grave with mummified remains in Aquincum in the Roman province of Pannonia (in the present day, part of Budapest, Hungary).[^7]
+
+**\[\[fig-7-1\]\]**
+
+Willow wood used for mummy portraits or painted panels could derive from *Salix* species in Europe, including *Salix alba* and *Salix cinerea*, but could also have been sourced from *Salix mucronata* (formerly known and published as *Salix safsaf*), which is native to Egypt and has a broad geographical distribution: southwards in Africa and eastwards into the Levant and Arabia. In [figure 7.6](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-6), therefore, *Salix* has been placed in an intermediate category. Irrespective of the species, willow wood is light in weight, resilient, and flexible. It can be prone to rot and decay, however.
+
+[Figure 7.7](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-7) highlights the marked difference in the choice of woods for deity (or votive) painted panels, door panels, dowels, a board associated with a portrait mummy, and a panel providing a backing to a linen shroud. No limewood is present. Hard, dense native sidr (*Ziziphus spina-christi*) wood was chosen for six painted panels, including one with a frame made of the same species. Less-dense native woods are also present: sycomore fig (*Ficus sycomorus*) is represented by four examples, and tamarisk (*Tamarix aphylla*) by one example.[^8]
+
+# Laying the Groundwork for the Bigger Picture
+
+To signpost where research might go for elucidation of the “bigger picture,” let us recap what is known. In Roman-period Egypt, although people maintained the traditional practice of mummification, they embraced a new fashion for funerary (mummy) portraiture that echoed Greek and Roman traditions. The excellent condition of the wood anatomy of mummy portraits enabled an unexpected revelation from their identifications—the majority were made from European timbers such as limewood rather than native Egyptian woods. In part, this may be attributable to the properties of the timbers. The anatomical structure of limewood[^9] allows for the creation of a thin panel that fits snugly over the face of the mummified individual. As noted in previous publications on mummy portraits,[^10] the choice to cut or split *Tilia* sp. limewood on the radial plane has ensured a fine-grained surface for the application of binding media and pigments for creating the portrait. Much more surface preparation would be needed for coarse-grained woods such as *Quercus* sp. (oak), *Ficus sycomorus* (sycomore fig), and *Tamarix aphylla* (tamarisk), to ensure even distribution of painting materials.
+
+Mindful that there may be a number of factors involved, we can see that there appears to be more surface damage to the portraits and panels made on *Tamarix aphylla*, *Quercus* sp., or *Ficus sycomorus—*for example, the framed portrait of a woman in the British Museum collection 1889,1018.1 found at Hawara near one of the mummified individuals.[^11] Both the panel and frame were made of *Ficus sycomorus* wood, and many areas of the paint have flaked off. In contrast to limewood (*Tilia* sp.), from which very thin panels can be created easily, it would have been much more difficult to make thin mummy portrait panels from tamarisk (*Tamarix aphylla*) ([fig. 7.2](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-2)), oak (*Quercus* sp.), or sycomore fig (*Ficus sycomorus*) wood—again due to their anatomical features. However, we must recognize that making thin panels of wood for mummy portraits was not necessarily the sole objective.
+
+**\[\[fig-7-2\]\]**
+
+Increasingly, as more and more samples are submitted for identification, we see that the choice of woods for the painted wooden votive or door panels favors native Egyptian woods—perhaps reflecting a carpentry trade in Egypt that was primarily engaged in producing items for household and shrine purposes. Creating and painting mummy portraits for burial with the deceased may well have had a completely different and more complex *chaîne opératoire*.
+
+Wood properties are clearly important in the selection process, but many other factors could be considered, and it is tantalizing to try to deduce what these might be. Cultural and spiritual associations with burial and memorials may be more intangible to research than technology and materials, but they should not be completely overlooked. One small example of this can be seen with yew wood, used for mummy portraits 1902.70 (National Museums Scotland) and 1902.4 (National Museum of Ireland).[^12] In 1835, Sir Thomas Browne is quoted by Lowe[^13] as saying, “the funeral pyre consisted of sweet fuel, cypress, fir, larix, yew, and trees perpetually verdant, lay silent expressions of their surviving hopes.” Was yew selected for mummy portraits specifically because of its evergreen nature, to commemorate the deceased forever? Some were also made using cedar of Lebanon wood and fir wood—also evergreen trees.
+
+Understanding why native woods were chosen for particular functions has been revealing for Pharaonic funerary carpentry,[^14] and it is now particularly useful to pay attention to Roman-period portrait and painted woods selected for dowels, tenons, and other carpentry elements when considering the following:
+
+-   Where mummy portraits and painted panels may have been made. For example, the wood identification results from the Tebtunis (and Kerke) mummy portraits in the collection of the Phoebe A. Hearst Museum of Anthropology (see [fig. 7.6](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-6)), have provided important new information, inasmuch as the trend toward preferential selection of limewood (*Tilia* sp.) for mummy portrait panels was reversed in favor of native fig tree (*Ficus sycomorus*) wood.[^15]
+
+-   Whether carpentry elements are all native wood species, imported wood species, or a mixture, and what this may signify in terms of other woodworking in Egypt. It is not clear why the *Cedrus* sp. (cedarwood)[^16] mummy portrait 79.AP.129 in the collection of the J. Paul Getty Villa Museum has two dowels, but both are also *Cedrus* sp., suggesting they had a function at the time (now unknown), rather than indicating repair or recycling. In the same collection, we find that the batten from the *Ficus sycomorus* Serapis panel, 74.AP.21, is also made from sycomore fig wood, whereas the two dowels used to join two sections are made from *Cedrus* sp. (cedarwood). Future research may benefit from identifying associated wooden objects (where possible) from tombs known to have yielded mummy portraits or painted panels.
+
+-   Whether the wood choices were purely practical. This was the case in coffin making in Pharaonic Egypt, when wood such as sidr (*Ziziphus spina-christi*) was often chosen for the joining elements (such as dowels) because it was denser ([fig. 7.3](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-3)) than the wood used for coffin planks, and thereby created tight carpentry joins.[^17] Mummy portrait X 443 from the Kunsthistorisches Museum Vienna appears to have been made up of three panels, but only the middle and right panels have survived. Both are made from *Ficus sycomorus*, sycomore fig. Two dowels are present: one connecting the middle panel to the left panel (now missing) and another on the top right of the middle panel. These dowels introduce a new species of wood to the discussion, *Vachellia nilotica* (formerly known *as Acacia nilotica*), acacia.[^18] ([fig. 7.4](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-4)). *Vachellia nilotica* wood is strong, shock resistant, and hard—ideal for connective carpentry.
+
+**\[\[fig-7-3\]\]**
+
+**\[\[fig-7-4\]\]**
+
+It is an understatement to say that it is extremely unfortunate that so many mummy portraits were deliberately removed from their original placement within the wrappings enclosing the mummified individual. This practice has prevented the acquisition of a great deal of important information that could assist greatly in understanding the bigger picture. Clearly a relationship existed between the outer treatment of the wrapped, mummified body and the style, size, and depiction of the associated mummy portrait. For example, the mummy EA13595, from Hawara in the British Museum collection, has a portrait of an adolescent boy. The outer covering of the body shows an intricate wrapping that creates the effect of concentric diamonds, each with a central gilded stud.[^19] This differs markedly from another example from Hawara (British Museum EA21810), which consists of a mummy of a Greek youth named Artemidorus in a cartonnage body case with mythological decoration in gold leaf and a limewood portrait covering the face.[^20] Although some of the differences can be ascribed to chronological and cultural preferences, the fact that it is seldom possible to take into account all the features of the original burial (including the enclosed body) when trying to understand the phenomenon of mummy portraits within the bigger picture is a considerable drawback. Perhaps we need to embark on a different set of questions, and also look at wood use choices in the ancient Greco-Roman sphere of influence more widely.
+
+In the longer term, the author’s scientific research program includes a category of comparative information emerging from her identifications of woods selected for the ink and the stylus writing tablets from the Roman auxiliary fort at Vindolanda near Hadrian’s Wall in northern England, occupied from 85 to 370 CE. Results thus far reinforce the concept of selection of particular wood species to suit specific purposes, even with reused timber. The degree to which such research can be brought directly to bear on interpretation of the selection of woods for mummy portraits and painted panels will emerge in the next few years of the project. The dominance of Roman control over much of what is now classified as Europe and Great Britain was significant at the time of Hadrian’s accession as Roman Emperor in 117 CE ([fig. 7.5](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-5)).[^21] This has undeniable implications for the sourcing and trading of timber throughout the Roman Empire, including the woods used for mummy portraits and painted panels.
+
+**\[\[fig-7-5\]\]**
+
+# Conclusions
+
+This final set of mummy portrait and painted panel wood identifications carried out by the author at the British Museum should make it possible to incorporate information about wood choices and use more broadly within the APPEAR project. Key points can be raised in future research regarding the relationship between the properties of wood of different species in determining the choice of portrait and panel shape, as well the preparation of the wood panel surfaces for application of binding media and pigments. As part of an “object biographies” approach, it would be relevant to examine the reasons for the reuse or repurposing of both imported and local woods for portraits and panels and to explore under what circumstances and on what basis such choices may have been made. It is already a familiar concept that any reuse of timbers will have significant impact on the interpretation of radiocarbon dating of mummy portrait or painted panel woods, as does the use of wood from long-lived tree species.
+
+Recognizing what questions to ask is integral to effectively “see the wood for the trees,” in order to embed meticulous analyses into a well-rounded understanding of the bigger picture.
+
+# Appendix: Wood Identifications
+
+[Figure 7.6](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-6) lists the wood identifications of mummy portraits carried out in May 2023, while [figure 7.7](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-7) shows analogous data on painted panels and doors, as well as various components of paintings, in the British Museum’s collection.
+
+**\[\[fig-7-6\]\]**
+
+**\[\[fig-7-7\]\]**
+
+# Acknowledgments
+
+Grateful thanks to Antony Simpson for redrafting [figure 7.5](file:///Users/rbarth/Desktop/TO%20DO%20for%20APPEAR/PAPERS%20AND%20CAPTIONS%20final%20appear%20files-ready%20to%20prep%20for%20transmittal/Paper%207-LT-returned%20to%20me%20for%20finalization%203-6-25/APPEAR2-7-Cartwright_FINAL/fig-7-5).
+
+[^1]: \$\$Cartwright 2020\$\$. <https://www.getty.edu/publications/mummyportraits/part-one/2/>.
+
+[^2]: \$\$Cartwright 2020\$\$.
+
+[^3]: \$\$Cartwright 2020\$\$. For further details of some of the challenges of identifying historical timbers, see Cartwright 2015.
+
+[^4]: \$\$Cartwright, Spaabæk, and Svoboda 2011\$\$.
+
+[^5]: <https://www.menil.org/collection/objects/6487-mummy-portrait-of-a-young-man-with-small-busts-of-isis-and-serapis>.
+
+[^6]: \$\$Cartwright 2020\$\$.
+
+[^7]: \$\$Kirchhof and Rehorovics 2010\$\$.
+
+[^8]: Identifications of wood species used for intentional pastiches of mummy portraits have not been included in this paper as these results (carried out at the British Museum) are published separately or are archived.
+
+[^9]: See \$\$Cartwright 2020\$\$ for a full description.
+
+[^10]: See Cartwright entries in the bibliography.
+
+[^11]: <https://www.britishmuseum.org/collection/object/G_1889-1018-1>.
+
+[^12]: \$\$Cartwright 1997a\$\$; \$\$Cartwright 1997b\$\$; \$\$Bierbrier et al. 1997\$\$; \$\$Cartwright and Middleton 2008\$\$.
+
+[^13]: \$\$Lowe 1897\$\$.
+
+[^14]: \$\$Cartwright 2020\$\$.
+
+[^15]: \$\$Salvant et al. 201\$\$; Williams, Cartwright, and Walton 2020\$\$.
+
+[^16]: Presumed on geographical grounds to be *Cedrus libani*.
+
+[^17]: \$\$Cartwright 2020\$\$.
+
+[^18]: Although it is still accepted that the term *acacia* can be used internationally as a common name, the genus *Acacia* is now reserved for Australian acacias only. Depending on which species are involved (and anatomically this may not be straightforward to determine), the genera of non-Australian acacias have been reclassified either as *Vachellia*, or *Senegalia*. This means that where records of occurrence of the non-Australian genus *Acacia* have been cited previously in the literature, they will now require taxonomic reclassification.
+
+[^19]: <https://www.britishmuseum.org/collection/object/Y_EA13595>.
+
+[^20]: <https://www.britishmuseum.org/collection/object/Y_EA21810>.
+
+[^21]: \$\$Opper 2008\$\$.

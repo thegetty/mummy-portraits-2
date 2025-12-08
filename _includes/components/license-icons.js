@@ -1,10 +1,11 @@
-const path = require('path')
-const { html } = require('~lib/common-tags')
+//
+// CUSTOMIZED FILE
+// Remove icons from EPUB output to avoid validation issues with SVGs
+//
+import { html } from '#lib/common-tags/index.js'
 
-module.exports = function(eleventyConfig) {
-  const { imageDir } = eleventyConfig.globalData.config.figures
-
-  return function(license) {
+export default function (eleventyConfig) {
+  return function (license) {
     const abbreviations = license
       .abbreviation
       .toLowerCase()
@@ -20,7 +21,7 @@ module.exports = function(eleventyConfig) {
     })
 
     return html`
-      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank">
+      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank" data-outputs-exclude="epub">
         ${icons.join(' ')}
       </a>
     `

@@ -13,7 +13,7 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "FIRST";
+    content: "FINAL";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
@@ -23,4 +23,630 @@
     bottom: -130px;
     right: -130px;
   }
+}
+
+/* GENERAL PAGE & TYPE STYLES
+============================================================================= */
+/* Use a custom .backmatter class to make pages 2-column in PDF */
+@media print {
+  .backmatter .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+/* COVER
+============================================================================= */
+
+/* Custom cover slideshow animation */
+.quire-cover__overlay {
+  height: calc((95vh - 3rem) * .5);
+  min-height: calc((95vh - 3rem) * .5);
+  width: 50vw;
+}
+.quire-cover__overlay img {
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position:absolute;
+  left:0;
+  transition: opacity 1s ease-in-out;
+  animation-name: FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 16s;
+}
+/* .quire-cover__overlay img {
+  object-fit: none;
+} */
+.quire-cover__overlay.upper-left img {
+  object-position: bottom right;
+}
+.quire-cover__overlay.upper-right {
+  left: 50vw;
+}
+.quire-cover__overlay.upper-right img {
+  object-position: bottom left;
+}
+.quire-cover__overlay.lower-left {
+  top: 50%;
+}
+.quire-cover__overlay.lower-left img {
+  object-position: top right;
+}
+.quire-cover__overlay.lower-right {
+  left: 50vw;
+  top: 50%;
+}
+.quire-cover__overlay.lower-right img {
+  object-position: top left;
+}
+@keyframes FadeInOut {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.quire-cover__overlay.upper-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(2) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(3) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(4) {
+  animation-delay: 2s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(5) {
+  animation-delay: 0;
+}
+
+.quire-cover__overlay.upper-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(2) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(3) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(4) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(5) {
+  animation-delay: 2s;
+}
+
+.quire-cover__overlay.lower-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(2) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(3) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(4) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(5) {
+  animation-delay: 4s;
+}
+
+.quire-cover__overlay.lower-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(2) {
+  animation-delay: 12s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(3) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(4) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(5) {
+  animation-delay: 6s;
+}
+
+/* Cover type */
+.hero-body .container.is-fluid {
+  background-color: #5c6e48;
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.quire-cover__hero .contributor {
+  margin-top: 1.5rem;
+}
+
+/* add contributors to cover content area for mobile devices only */
+.mobile-contributor {
+  display: none;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+/* Soften black on down arrow circle */
+.quire-cover__more .hero-more {
+  background: #333;
+}
+
+@media screen and (max-width: 689px){
+  .quire-cover__hero {
+    overflow: hidden;
+  }
+  .quire-cover__overlay {
+    width: 100%;
+    /* make the top images 40% height */
+    height: calc((95vh - 3rem) * .4);
+    min-height: calc((95vh - 3rem) * .4);
+  }
+  .quire-cover__overlay img {
+    /* show more of the image */
+    object-fit: cover;
+  }
+  .quire-cover__overlay.upper-left,
+  .quire-cover__overlay.lower-left {
+    left: -50vw;
+  }
+  .quire-cover__overlay.upper-right,
+  .quire-cover__overlay.lower-right {
+    margin-right: -50vw;
+  }
+  .quire-cover__overlay.lower-left,
+  .quire-cover__overlay.lower-right {
+    top: 40%;
+    /* make the bottom images 60% height */
+    height: calc((95vh - 3rem) * .6);
+    min-height: calc((95vh - 3rem) * .6);
+  }
+  /* adjust spacing and display on title/subtitle block */
+  .hero-body .container.is-fluid {
+    bottom: 0%;
+    margin: 0;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+  .quire-cover__hero .title {
+    margin: 0;
+  }
+  .quire-cover__hero .subtitle {
+    line-height: 1.35;
+  }
+  /* hide contributor in title block */
+  .quire-cover__hero .contributor {
+    display: none;
+  }
+  /* display contributor in content area */
+  .mobile-contributor {
+    display: block;
+  }
+}
+
+/* FIGURES
+============================================================================= */
+/* Fix display of annotations controls inline and in lightbox */
+.annotations-ui__input-wrapper {
+  display: inline-block;
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+q-lightbox .q-figure-slides__slide-ui {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+}
+q-lightbox .q-figure-slides__slide-ui form {
+  width: 100%;
+}
+
+/* Ensure users can scroll past inline canvas-panel elements */
+.content .q-figure canvas-panel {
+  pointer-events: none;
+}
+
+/* Fix styling of very tall figure images */
+@media screen {
+  .content figure img.q-figure__image {
+    max-height: 80vh;
+    width: auto;
+  }
+  .content figure.screen-side-by-side {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto 1fr;
+    grid-gap: 1rem;
+  } 
+  .content figure.screen-side-by-side > *:first-child {
+    grid-row: 1 / 3;
+  }
+  .content figure.screen-side-by-side > *:last-child {
+    grid-column-start: 2;
+  }
+  .content figure.screen-side-by-side .q-figure__caption {
+    margin-top: 0;
+  }
+}
+@media print {
+  .content figure img.q-figure__image {
+    max-height: 3.25in;
+    width: auto;
+  }
+}
+
+/* Improve legibility of caption in lightbox modal */
+.q-figure-slides__slide-ui {
+  font-size: 1rem;
+  padding-bottom: 0;
+}
+.q-lightbox-slides__caption, 
+.q-figure-slides__slide-ui .annotations-ui {
+  background: rgba(0, 0, 0, 0.8);
+  padding: .75rem 2rem 2rem;
+}
+.q-lightbox-slides__caption strong {
+  color: white;
+}
+
+/* Handle checkbox and radio annotation image layers in print
+  See _includes/components/figure/image/print.js */
+  @media print {
+  .q-figure .q-figure__layers-group--checkbox {
+    position: relative;
+  }
+  .q-figure .q-figure__layers-group--checkbox .q-figure__image:not(:first-child) {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .q-figure .q-figure__layers-group--radio {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--5 .q-figure__image {
+    width: 20%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--4 .q-figure__image {
+    width: 25%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--3 .q-figure__image {
+    width: 33%;
+  }
+  .q-figure .q-figure__layers-group--radio.q-figure__layers-group--2 .q-figure__image {
+    width: 50%;
+  }
+  /* https://stackoverflow.com/questions/36230944/prevent-flex-items-from-overflowing-a-container */
+  .q-figure .q-figure__layers-group--radio .q-figure__image {
+    min-width: 0;
+  }
+}
+
+/* Add special color bar graphic inside fig. 16.10 caption */
+#fig-16-10-color-scale {
+  width: 8em;
+  height: .875em;
+  display: inline-block;
+  background: linear-gradient(90deg,rgba(255, 255, 255, 1) 0%, rgba(7, 27, 68, 1) 50%, rgba(255, 0, 0, 1) 100%);
+  top: 1px;
+  position: relative;
+}
+
+/* Fix display of images in tables */
+.q-lightbox-slides__element table img {
+  position: relative;
+  transform: none;
+  top: 0;
+  left: 0;
+  max-height: 300px;
+}
+
+/* Adjust figure image heights */
+@media print {
+  
+  .pdf-1q3in-height .q-figure__image {
+    max-height: 1.75in !important;
+    width: auto;
+  }
+  .pdf-2q2in-height .q-figure__image {
+    max-height: 2.5in !important;
+    width: auto;
+  }
+  .pdf-2q3in-height .q-figure__image {
+    max-height: 2.75in !important;
+    width: auto;
+  }
+  .pdf-3in-height .q-figure__image {
+    max-height: 3in !important;
+    width: auto;
+  }
+  .pdf-3q2in-height .q-figure__image {
+    max-height: 3.5in !important;
+    width: auto;
+  }
+  .pdf-3q3in-height .q-figure__image {
+    max-height: 3.75in !important;
+    width: auto;
+  }
+  .pdf-4in-height .q-figure__image {
+    max-height: 4in !important;
+    width: auto;
+  }
+  .pdf-4q2in-height .q-figure__image {
+    max-height: 4.5in !important;
+    width: auto;
+  }
+  .pdf-5in-height .q-figure__image {
+    max-height: 5in !important;
+    width: auto;
+  }
+  .pdf-6in-height .q-figure__image {
+    max-height: 6in !important;
+    width: auto;
+  }
+  .pdf-7in-height .q-figure__image {
+    max-height: 7in !important;
+    width: auto;
+  }
+  .pdf-8in-height .q-figure__image {
+    max-height: 8in !important;
+    width: auto;
+  }
+  .pdf-9in-height .q-figure__image {
+    max-height: 9in !important;
+    width: auto;
+  }
+  .pdf-10in-height .q-figure__image {
+    max-height: 10in !important;
+    width: auto;
+  }
+
+  #fig-1-3 .q-figure__image {
+    max-height: 3.925in !important;
+    width: auto;
+  }
+
+  #fig-12-1.q-figure .q-figure__layers-group--radio {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+  /* Set figure images to span both columns and to float to top, only works with prince */
+  .q-figure.pdf-two-column-width {
+    column-span: all;
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+
+  /* Set figure images to float to top, only works with prince */
+  .q-figure.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+
+  div.pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-bottom: 2rem;
+  }
+
+  /* Adjust figure table widths */
+  .q-figure.pdf-table-scale-4 {
+    font-size: 0.4rem;
+  }
+  .q-figure.pdf-table-scale-5 {
+    font-size: 0.5rem;
+  }
+  .q-figure.pdf-table-scale-6 {
+    font-size: 0.6rem;
+  }
+  .q-figure.pdf-table-scale-7 {
+    font-size: 0.7rem;
+  }
+  .q-figure.pdf-table-scale-8 {
+    font-size: 0.8rem;
+  }
+  
+  /* Limit image size in tables to .5 in wide */
+  table img {
+    max-width: 0.5in !important;
+    height: auto;
+  }
+
+  /* Limit 12.14 table width so bottom row of doesn't go to next page */  
+  #fig-12-14 table img {
+    max-width: 0.43in !important;
+    height: auto;
+  }
+
+  /*left align text under table*/
+  
+  #fig-2-7 p, #fig-2-8 p, #fig-2-9 p, #fig-4-7 p, #fig-4-8 p {
+    text-align: left;
+    font-size: 8px;
+  }
+
+  #fig-13-9.q-figure.q-figure--table p {
+    text-align: left;
+    font-size: 10px;
+  }
+  
+  #fig-15-3-a .q-figure__image, #fig-15-3-b .q-figure__image, #fig-15-4-a .q-figure__image, #fig-15-4-b .q-figure__image {
+    max-height: 3in !important;
+  }
+
+  #fig-17-11 p {
+    text-align: left;
+    font-size: 10px;
+  }
+
+  /* Ensure table rows don't break across pages */
+  th, td, tr,
+  .table-row-group {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+}
+
+/* MISC
+============================================================================= */
+/*Get rid of decorative quote */
+.quire-page__content .container .content blockquote p:first-child:before, .quire-page__content .container .content blockquote ul:first-child:before, .quire-page__content .container .content blockquote ol:first-child:before, .quire-page__content .container .content blockquote dl:first-child:before, .quire-page__content .container .content blockquote h1:first-child:before, .quire-page__content .container .content blockquote h2:first-child:before, .quire-page__content .container .content blockquote h3:first-child:before, .quire-page__content .container .content blockquote h4:first-child:before, .quire-page__content .container .content blockquote h5:first-child:before, .quire-page__content .container .content blockquote h6:first-child:before {
+  display: none;
+}
+
+/* Fix font sizing for table captions and footnotes */
+.content figure .q-figure__caption {
+  font-size: .75rem;
+}
+.q-lightbox-slides__element--table table + div,
+.q-figure.q-figure--table table + div {
+  font-size: .875em;
+  margin-top: .25em;
+  text-align: left;
+}
+.q-lightbox-slides__element--table table + div p,
+.q-figure.q-figure--table table + div p {
+  margin-bottom: .25em;
+  line-height: 1.6 !important;
+}
+
+/* Add getty logo to the PDF cover pages */
+.pdf-cover-page::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  background-image: url('_assets/images/logo-getty.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: .625in;
+  width: 4in;
+}
+
+/* Red lettering for table 8.17 */
+mark.red {
+  color:red;
+  background: none;
+}
+
+/* Scooch down text under large figure image to next page */
+@media print {
+  .q-figure.pdf-bump-down{
+    margin-bottom: 10rem !important;
+  }
+
+  .q-figure.pdf-bottom-pad {
+    margin-bottom: 2rem !important;
+  }
+}
+
+/* Make frontmatter page number appear in lower roman in TOC */
+@media print {
+  .quire-contents-list .page-item:first-child > a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+    font-style: italic;
+  }
+}
+
+/* Fix a couple overrides that broke after updating quire-11ty version */
+@media print {
+  a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    color: #000 !important;
+    border-bottom-width: 0 !important;
+  }
+  .quire-page__content .content .footnote-ref a,
+  .quire-page__content .content a.footnote-return,
+  .quire-page__content .content a.footnote-backref,
+  .quire-page__content .content a.footnote-ref {
+    font-weight: normal;
+    font-size: inherit !important;
+  }
+}
+
+@media print {
+  .title-page * {
+    max-width: 5in;
+  }
+}
+
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
+/* Remove extra space between publisher and address on copyright and about page */
+div.publisher p:first-child {
+  margin-bottom: 0 !important;
+}
+/* Hide logo */
+.copyright > .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Remove link border style from CC icons */
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content .copyright .quire-copyright a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  border-bottom-width: 0;
+}
+/* Simplify project team list */
+.project-team ul {
+  margin-left: 0;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.project-team ul li {
+  margin-left: 0 !important;
+  margin-bottom: 0 !important;
+}
+.project-team ul li::before {
+  content: '' !important;
+}
+/* Remove space below image credits heading */
+.cover-image-credits .illustration-credits-heading {
+  margin-bottom: 0 !important;
+}
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+.quire-page__content .container .content .no-break-container {
+  break-inside: avoid;
 }

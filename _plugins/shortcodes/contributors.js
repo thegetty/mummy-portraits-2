@@ -1,5 +1,11 @@
-const chalkFactory = require('~lib/chalk')
-const { html } = require('~lib/common-tags')
+//
+// CUSTOMIZED FILE
+// Refactor logic to handle oxford commas correctly, lines 118–126
+// Remove id from .quire-contributor list element (undefined causes EPUB validation error)
+// Add lastname functionality to support better PDF running heads
+//
+import chalkFactory from '#lib/chalk/index.js'
+import { html } from '#lib/common-tags/index.js'
 
 const logger = chalkFactory('shortcodes:contributors')
 
@@ -14,11 +20,12 @@ const logger = chalkFactory('shortcodes:contributors')
  *
  * @return {String} Markup for contributors
  */
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   const contributorBio = eleventyConfig.getFilter('contributorBio')
   const fullname = eleventyConfig.getFilter('fullname')
   const getContributor = eleventyConfig.getFilter('getContributor')
   const initials = eleventyConfig.getFilter('initials')
+  const lastName = eleventyConfig.getFilter('lastName')
   const markdownify = eleventyConfig.getFilter('markdownify')
   const slugify = eleventyConfig.getFilter('slugify')
   const sortContributors = eleventyConfig.getFilter('sortContributors')
@@ -27,14 +34,14 @@ module.exports = function (eleventyConfig) {
 
   return function (params) {
     const {
-      align='left',
+      align = 'left',
       context: contributors,
-      format=bylineFormat,
+      format = bylineFormat,
       role,
-      type='all'
+      type = 'all'
     } = params
 
-    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string']
+    const formats = ['bio', 'initials', 'last-name', 'name', 'name-title', 'name-title-block', 'string']
 
     if (format && !formats.includes(format)) {
       logger.error(
@@ -80,6 +87,20 @@ module.exports = function (eleventyConfig) {
         contributorsElement = `<span class="quire-contributor">${nameString}</span>`
         break
       }
+      case 'last-name': {
+        const contributorLastNames = contributorList.map(lastName).filter((name) => name)
+        const last = contributorLastNames.pop()
+        let namesString = ''
+        if (contributorLastNames.length > 1) {
+          namesString = contributorLastNames.join(', ') + ', and ' + last
+        } else if (contributorLastNames.length == 1 ){
+          namesString = contributorLastNames + ' and ' + last
+        } else {
+          namesString = last
+        }
+        contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
+        break
+      }
       case 'name':
       case 'name-title':
       case 'name-title-block': {
@@ -88,18 +109,20 @@ module.exports = function (eleventyConfig) {
           const contributorParts = [
             `<span class="quire-contributor__name">${fullname(contributor)}</span>`
           ]
-          contributor.title && format !== 'name'
-            ? contributorParts.push(
-              `<span class="quire-contributor__title">${ contributor.title }</span>`
+          if (contributor.title && format !== 'name') {
+            contributorParts.push(
+              `<span class="quire-contributor__title">${contributor.title}</span>`
             )
-            : null
-          contributor.affiliation && format !== 'name'
-            ? contributorParts.push(
-              `<span class="quire-contributor__affiliation">${ contributor.affiliation }</span>`
+          }
+
+          if (contributor.affiliation && format !== 'name') {
+            contributorParts.push(
+              `<span class="quire-contributor__affiliation">${contributor.affiliation}</span>`
             )
-            : null
+          }
+
           return `
-            <li class="quire-contributor" id="${slugify(contributor.id)}">${contributorParts.join(separator)}</li>
+            <li class="quire-contributor">${contributorParts.join(separator)}</li>
           `
         })
         contributorsElement = `
@@ -111,10 +134,14 @@ module.exports = function (eleventyConfig) {
       }
       case 'string': {
         const last = contributorNames.pop()
-        const namesString =
-          contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
-            : last
+        let namesString = ''
+        if (contributorNames.length > 1) {
+          namesString = contributorNames.join(', ') + ', and ' + last
+        } else if (contributorNames.length == 1 ){
+          namesString = contributorNames + ' and ' + last
+        } else {
+          namesString = last
+        }
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }

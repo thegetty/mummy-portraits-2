@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Feed parentPage and short_title to pageHeader to support better PDF running heads
+##
 classes:
   - quire-essay
 layout: base.11ty.js
@@ -10,6 +13,8 @@ description: Essay layout. This layout describes a single-page template that has
   image=image,
   label=label,
   pageContributors=pageContributors,
+  parentPage=parentPage.data,
+  short_title=short_title,
   subtitle=subtitle,
   title=title,
   page_pdf_output=page_pdf_output,
