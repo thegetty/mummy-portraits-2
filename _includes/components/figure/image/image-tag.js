@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add aria-describedby support to image tags
+//
 import escape from 'html-escape'
 import { html } from '#lib/common-tags/index.js'
 import path from 'node:path'
@@ -9,13 +13,14 @@ import path from 'node:path'
  * @param      {Object} params `figure` data from `figures.yaml`
  * @property   {String} alt The alt text for the image
  * @property   {String} src The src path for the image
+ * @property   {String} described_by_id Optional ID for aria-describedby attribute
  * @return     {String}  An <img> element
  */
 export default function (eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
   const { pathname } = eleventyConfig.globalData.publication
 
-  return function ({ alt = '', src = '', isStatic = false, lazyLoading = 'lazy', lightbox = false }) {
+  return function ({ alt = '', src = '', isStatic = false, lazyLoading = 'lazy', lightbox = false, described_by_id = '' }) {
     // Lightbox loads in-browser so urls must have pathname, rest are prepended by 11ty
     const extOrIiifRegex = /^(https?:\/\/|\/iiif\/|\\iiif\\)/
     const assetRoot = lightbox && pathname !== '/' ? path.posix.join(pathname, imageDir) : imageDir
@@ -26,6 +31,8 @@ export default function (eleventyConfig) {
       imageSrc = imageSrc.replaceAll(path.sep, '/')
     }
 
+    const ariaDescribedBy = described_by_id ? ` aria-describedby="${escape(described_by_id)}"` : ''
+    
     return html`
       <img
         alt="${escape(alt)}"
@@ -33,6 +40,7 @@ export default function (eleventyConfig) {
         decoding="async"
         loading="${lazyLoading}"
         src="${imageSrc}"
+        ${ariaDescribedBy}
       />
     `
   }

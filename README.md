@@ -109,6 +109,10 @@ Updated licensing language
 **_includes/components/figure/image/print.js**
 Add all annotation image layers to PDF output
 
+**_includes/components/figure/image/print.js**
+**_includes/components/figure/image/image-tag.js**
+Add aria-describedby support to image tags
+
 **_includes/components/icons-cc/index.js**
 Add cc icons to PDF output
 

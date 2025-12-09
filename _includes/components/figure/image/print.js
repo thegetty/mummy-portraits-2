@@ -2,6 +2,7 @@
 // CUSTOMIZED FILE
 // Add all annotation image layers to PDF output, lines 24–66
 // css is used to stack or grid them
+// Add aria-describedby support to image tags
 //
 import escape from 'html-escape'
 import { html } from '#lib/common-tags/index.js'
@@ -27,6 +28,7 @@ export default function (eleventyConfig) {
       annotations=[],
       caption,
       credit,
+      described_by_id,
       id,
       isExternalResource,
       label,
@@ -35,6 +37,8 @@ export default function (eleventyConfig) {
     } = figure
 
     const labelElement = figureLabel({ caption, id, label })
+
+    const describedByAttribute = described_by_id ? `aria-describedby="${escape(described_by_id)}"` : ''
 
     if (annotations.length > 0) { 
 
@@ -99,7 +103,7 @@ export default function (eleventyConfig) {
     }
 
     return html`
-      <img alt="${escape(alt)}" class="q-figure__image" src="${imageSrc}"/>
+      <img alt="${escape(alt)}" class="q-figure__image" src="${imageSrc}" ${describedByAttribute} />
       ${figureCaption({ caption, content: labelElement, credit })}
     `
   }

@@ -1078,6 +1078,7 @@ figure_list:
     caption: "Angles generated using distances measured between a nostril and the chin."
     credit: "Image: Jevon Thistlewood"
     alt: "Bar chart presenting the number of portraits (on the Y axis) that correlate to particular angles (on the X axis) generated using the distance between a nostril and the chin. "
+    described_by_id: "fig-10-6-description"
     zoom: ""
 
   - id: "fig-10-7"
@@ -1086,6 +1087,7 @@ figure_list:
     caption: "Angles generated using distances measured between the center of an eye and the chin."
     credit: "Image: Jevon Thistlewood"
     alt: "Bar chart presenting the number of portraits (on the Y axis) that correlate to particular angles (on the X axis) generated using the distance between the center of an eye and the chin. "
+    described_by_id: "fig-10-7-description"
     zoom: ""
 
   - id: "fig-10-8"
@@ -1094,6 +1096,7 @@ figure_list:
     caption: "Angles generated using distances measured between the center of an eyebrow and the chin."
     credit: "Image: Jevon Thistlewood"
     alt: "Bar chart presenting the number of portraits (on the Y axis) that correlate to particular angles (on the X axis) generated using the distance between the center of an eyebrow and the chin. "
+    described_by_id: "fig-10-8-description"
     zoom: ""
 
   - id: "fig-10-9"
@@ -1102,6 +1105,7 @@ figure_list:
     caption: "Angles generated using distances measured between the top of the face and the chin."
     credit: "Image: Jevon Thistlewood"
     alt: "Bar chart presenting the number of portraits (on the Y axis) that correlate to particular angles (on the X axis) generated using the distance between the top of the face and the chin. "
+    described_by_id: "fig-10-9-description"
     zoom: ""
 
   - id: "fig-10-10"
@@ -1110,6 +1114,7 @@ figure_list:
     caption: "Minimum, maximum, average, and median values for the angles generated."
     credit: "Image: Jevon Thistlewood"
     alt: "Table presenting the minimum, maximum, average, and median values for the angles generated as discussed in Figures 10.6, 10.7, 10.8, and 10.9."
+    described_by_id: "fig-10-10-description"
     zoom: ""
 
   - id: "fig-11-1"
