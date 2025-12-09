@@ -13,7 +13,7 @@ accordion:
     expandText: Expand All
 
 analytics:
-  googleId: ''
+  googleId: 'GTM-NRDC63K'
 
 bylineFormat: name-title # name | name-title | false
 

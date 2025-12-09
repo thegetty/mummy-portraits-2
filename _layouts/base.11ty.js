@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added the page section as a class to the <html> element to facilitate styling
+//
 import path from 'node:path'
 import { html } from '#lib/common-tags/index.js'
 
@@ -8,17 +12,23 @@ import { html } from '#lib/common-tags/index.js'
  * @return     {Function}  Template render function
  */
 export default async function (data) {
-  const { classes, collections, content, pageData, publication } = data
+  const { classes, collections, config, content, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
+  const { googleId } = config.analytics
   const figures = pageData.page.figures
+  
+  const analyticsSnippet = googleId 
+    ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` 
+    : ''
 
   return html`
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
       <body>
+        ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js" id="container">

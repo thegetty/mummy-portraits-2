@@ -103,6 +103,10 @@ git clone --recursive https://github.com/thegetty/mummy-portraits-2.git
 **content/_data/config.yaml**
 Added support for better PDF running heads
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Add support for google analytics 4
+
 **_includes/components/copyright/licensing.js** 
 Updated licensing language
 
