@@ -422,12 +422,12 @@ resource_link:
     name: PDF (16 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/mummy-portraits-2.pdf
+    url: /_assets/downloads/mummy-portraits-2.pdf
   - type: other-format
     name: EPUB  (268 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/mummy-portraits-2.epub
+    url: /_assets/downloads/mummy-portraits-2.epub
   - type: other-format
     name: Paperback
     url: https://shop.getty.edu/products/mummy-portraits-of-roman-egypt-volume-2-emerging-research-from-the-appear-project-978-1-60606-996-7
