@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "FINAL";
+    content: "PRESS";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "PAGES";
+    content: "PREVIEW";
     bottom: -130px;
     right: -130px;
   }
