@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Add all annotation image layers to PDF output, lines 24–66
+// Add all annotation image layers to PDF output, with alt text, lines 24–66
 // css is used to stack or grid them
 // Add aria-describedby support to image tags
 //
@@ -67,7 +67,8 @@ export default function (eleventyConfig) {
         let layers = '';
         for (const item of annotation.items) {
           const layerSrc = path.join(imageDir, item.src)
-          layers += html`<img alt="" class="q-figure__image" src="${layerSrc}" />`
+          const layerAlt = item.alt ? item.alt : ''
+          layers += html`<img alt="${layerAlt}" class="q-figure__image test-this-sucker" src="${layerSrc}" />`
         }
 
         return html`

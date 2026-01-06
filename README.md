@@ -111,7 +111,8 @@ Add support for google analytics 4
 Updated licensing language
 
 **_includes/components/figure/image/print.js**
-Add all annotation image layers to PDF output
+**_plugins/figures/annotation/index.js**
+Add all annotation image layers to PDF output; and ensure each layer has alt text
 
 **_includes/components/figure/image/print.js**
 **_includes/components/figure/image/image-tag.js**

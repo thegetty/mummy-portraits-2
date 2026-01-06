@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add alt text to annotation image data, line 48 and 139
+//
 import chalkFactory from '#lib/chalk/index.js'
 import mime from 'mime-types'
 import path from 'node:path'
@@ -12,6 +16,7 @@ const logger = chalkFactory('Figures:Annotation')
  * @see {@link https://www.w3.org/TR/annotation-model/#annotations}
  *
  * @typedef {Object} Annotation
+ * @property {String} alt  The alt text for the annotation image
  * @property {String} format  The media type of the annotation resource
  * @property {String} id  The unique id of the annotation (unique to the figure)
  * @property {String} info  The path to the `info.json` if annotation is an image service
@@ -40,7 +45,7 @@ export default class Annotation {
       zoom
     } = figure
     const { baseURI, tilesDirName } = iiifConfig
-    const { label, region, selected, src, text } = data
+    const { alt, label, region, selected, src, text } = data
 
     let base, name
     switch (true) {
@@ -131,6 +136,7 @@ export default class Annotation {
         format = mime.lookup(src)
     }
 
+    this.alt = alt
     this.format = format
     this.id = id()
     this.info = info()

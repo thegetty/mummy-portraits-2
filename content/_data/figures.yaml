@@ -1224,31 +1224,31 @@ figure_list:
       items:
         - label: "Figure 12.1A"
           src: "figures/fig-12-1-a.jpg"
-          alt: 
+          alt: "First of nine portriats. This is a portrait of a thin-faced, bearded man with curly hair and brown eyes. He is wearing a white garment with a thin red strap on his left side. The background is gray."
         - label: "Figure 12.1B"
           src: "figures/fig-12-1-b.jpg"
-          alt:
+          alt: "Second of nine portraits. This is a portrait of a man with brown eyes, black curly hair, a thin mustache and beard, and a mole on his nose. He is wearing a white garment. The background is gray."
         - label: "Figure 12.1C"
           src: "figures/fig-12-1-c.jpg"
-          alt: 
+          alt: "Third of nine portraits. This is a portrait of a thin-faced man. He has black hair and a full beard. His eyes are dark and feature dark eye bags. He is wearing a gold wreath around his head and a white garment. The background is gray."
         - label: "Figure 12.1D"
           src: "figures/fig-12-1-d.jpg"
-          alt:
+          alt: "Fourth of nine portraits. This is a portrait of a young man with a cut in one eye. His skin is very pale, he has dark hair, a thin mustache, and a pink tint to his lips. He is wearing a white garment with thin red straps on each side. The background is white."
         - label: "Figure 12.1E"
           src: "figures/fig-12-1-e.jpg"
-          alt: 
+          alt: "Fifth of nine portraits. This is a portrait of an elderly lady with white hair. She is wearing pearl earrings and a gold wreath, and she has very arched eyebrows. Her garment is brown, and the background is gray with yellowish streaks."
         - label: "Figure 12.1F"
           src: "figures/fig-12-1-f.jpg"
-          alt:
+          alt: "Sixth of nine portraits. This is a  portrait of a young woman dark curly hair, thick eyelashes, and wears a red garment, a gold wreath and small gold earrings. The background is gray with streaks of faded yellow."
         - label: "Figure 12.1G"
           src: "figures/fig-12-1-g.jpg"
-          alt: 
+          alt: "Seventh of nine portraits. This is a portrait of a young woman with dark hair and dark eyes. She is wearing a gilded wreath in her hair, as well as pearl earrings, a black necklace with pearls, and a gold necklace with a gold pendant. Her garment is brown with black and gold detailing. The background is gold and lines the portrait, and an outer grey background lines the gold."
         - label: "Figure 12.1H"
           src: "figures/fig-12-1-h.jpg"
-          alt:
+          alt: "Eighth of nine portraits. This is a portrait of a boy with soft features and dark hair and eyes. He is wearing a white garment with a black strap on the left side. There is black detailing on the front of his garment. The background is beige."
         - label: "Figure 12.1I"
           src: "figures/fig-12-1-i.jpg"
-          alt:
+          alt: "Ninth of nine portraits. This is a portrait of a woman with black curly hair and dark eyes. She is wearing a blue mantle, gold round earrings and a gold necklace with a pendant. The background is gray. The brush strokes are apparent."
 
   - id: "fig-12-2"
     src: "tables/table-12-2.html"
@@ -1783,28 +1783,28 @@ figure_list:
       items:
       - label: "Figure 14.3A"
         src: "figures/fig-14-3-a.jpg"
-        alt: 
+        alt: "First of eight versions of a portrait of a woman. Here the gold pieces from the portrait's necklace are bright white, while everything else is dull or not visible."
       - label: "Figure 14.3B"
         src: "figures/fig-14-3-b.jpg"
-        alt:
+        alt: "Second of eight versions of a portrait of a woman. This one shows the lines around the woman's mouth, eyes, and clothes in the brightest shade. The beads in her hair are also visible."
       - label: "Figure 14.3C"
         src: "figures/fig-14-3-c.jpg"
-        alt: 
+        alt: "Third of eight versions of a portrait of a woman. This one shows the face in bright white with many details visible. The rest of the portrait is dark grey or black."
       - label: "Figure 14.3D"
         src: "figures/fig-14-3-d.jpg"
-        alt: 
+        alt: "Fourth of eight versions of a portrait of a woman. This one resembles the previous one, but certain details in the hair and necklace are more distinct."
       - label: "Figure 14.3E"
         src: "figures/fig-14-3-e.jpg"
-        alt: 
+        alt: "Fifth of eight versions of a portrait of a woman. This one shows the face in dark grey and the earrings in bright white."
       - label: "Figure 14.3F"
         src: "figures/fig-14-3-f.jpg"
-        alt:
+        alt: "Sixth of eight versions of a portrait of a woman. This one shows the whole image in light grey, with more details visible in the face than below the neck."
       - label: "Figure 14.3G"
         src: "figures/fig-14-3-g.jpg"
-        alt: 
+        alt: "Seventh of eight versions of a portrait of a woman. This one shows the portrait with the head colored over in yellow and the tunic in green. Details of the face and necklace are visible."
       - label: "Figure 14.3H"
         src: "figures/fig-14-3-h.jpg"
-        alt: 
+        alt: "Eighth of eight versions of a portrait of a woman. This one shows the whole portrait in white and light grey. Many details of the face, jewelry, and tunic are visible."
 
   - id: "fig-14-4"
     src: "figures/fig-14-4.jpg"
@@ -2249,16 +2249,16 @@ figure_list:
       items:
       - label: "Figure 17.12A"
         src: "figures/fig-17-12-a.jpg"
-        alt: 
+        alt: "First of four x-radiographed portraits. In this one, the outline of the portrait appears in a brighter white."
       - label: "Figure 17.12B"
         src: "figures/fig-17-12-b.jpg"
-        alt:
+        alt: "Second of four x-radiographed portraits. In this one, a lighter outline of a portrait is shown with the lips being the most visible. There are also stitches in the canvas that are highlighted."
       - label: "Figure 17.12C"
         src: "figures/fig-17-12-c.jpg"
-        alt: 
+        alt: "Third of four x-radiographed portraits. This one shows a very dark background with very bright spots on the lips and freckle-like dots around the face."
       - label: "Figure 17.12D"
         src: "figures/fig-17-12-d.jpg"
-        alt: 
+        alt: "Fourth of four x-radiographed portraits. In this one, only the slightest impression of the lips and eyes of the portrait are visible."
 
   - id: "fig-17-13"
     src: "figures/fig-17-13.jpg"
