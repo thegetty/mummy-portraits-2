@@ -162,6 +162,9 @@ figcaption *,
 .copyright__publisher-logo {
   display: none;
 }
+.q-figure--table {
+  overflow-y: scroll;
+}
 table, th, td {
   border: 1px solid $black;
   border-collapse: collapse;
