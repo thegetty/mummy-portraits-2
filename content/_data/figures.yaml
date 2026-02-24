@@ -807,6 +807,22 @@ figure_list:
     caption: "Wood identifications of mummy portraits, May 2023."
     credit: ""
     alt: ""
+  
+  - id: "fig-7-6-a"
+    src: "tables/table-7-6-a.html"
+    media_type: table
+    label: "Figure 7.6a"
+    caption: "Wood identifications of mummy portraits, May 2023, part a."
+    credit: ""
+    alt: ""
+  
+  - id: "fig-7-6-b"
+    src: "tables/table-7-6-b.html"
+    media_type: table
+    label: "Figure 7.6b"
+    caption: "Wood identifications of mummy portraits, May 2023, part b."
+    credit: ""
+    alt: ""
 
   - id: "fig-7-7"
     src: "tables/table-7-7.html"
