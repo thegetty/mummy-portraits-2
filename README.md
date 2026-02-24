@@ -1,8 +1,10 @@
-This is the repository for *Mummy Portraits of Roman Egypt, Volume 2: Emerging Research from the APPEAR Project*, edited by Marie Svoboda and Caroline R. Cartwright. This digital book was first published Month, DD, YYYY, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/mummy-portraits-2/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *Mummy Portraits of Roman Egypt, Volume 2: Emerging Research from the APPEAR Project*, edited by Marie Svoboda and Caroline R. Cartwright. This digital book was first published February 24, 2026, by the J. Paul Getty Museum. It is available online at https://www.getty.edu/publications/mummy-portraits-2/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 
-TK
+Just over a thousand funerary portraits from Roman Egypt, most of which were separated from their interred mummified remains, survive in museums around the world. These fascinating ancient paintings offer an unparalleled opportunity for viewers to come face-to-face with people who lived and died some two thousand years ago.
+
+The international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and gather research findings into a shared database. This second volume of *Mummy Portraits of Roman Egypt* contains seventeen scholarly papers from the APPEAR conference hosted in 2022 at the Allard Pierson Museum, Amsterdam. Conservators, scientists, and scholars presented new research on topics such as technical imaging; non-destructive analytical techniques; provenance and collecting; treatment histories; connoisseurship and forgeries; comparisons of works across institutions; and scientific studies of woods, pigments, coatings, and binders. With the most up-to-date information available about the production, materiality, function, and history of these painted funerary artifacts, this volume will be a valuable resource to all who research ancient art. 
 
 ## Using this Repository
 
@@ -24,10 +26,9 @@ This project was last built with the following software versions:
 | branch | about |
 | --- | --- |
 | `main` | The primary branch |
-| `first-pages`, `second-pages`, `final-pages`| Versions of the project at various staages |
+| `first-pages`, `second-pages`, `final-team-pages`, `final-department-pages`, `final-pages`| Versions of the project at various staages |
 | `forthcoming` | A static placeholder page that was displayed at the book’s final URL on getty.edu prior to publication |
 | `revisions` | Any revisions currently under consideration but not yet published |
-| `prototype` | An early prototype of the project built to verify final manuscript prep |
 
 ### Figure Images Submodule
 
@@ -39,9 +40,9 @@ git clone --recursive https://github.com/thegetty/mummy-portraits-2.git
 
 ### Previewing the Online Edition Locally
 
-1. Install Node.js 20.18.1 and verify with with `node --version`
+1. Install Node.js 22.10.0 and verify with with `node --version`
 
-2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.25`
+2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.33`
 
 3. Clone this repository and select the appropriate branch
 
@@ -53,15 +54,17 @@ git clone --recursive https://github.com/thegetty/mummy-portraits-2.git
 
 ### Creating a PDF Version
 
-1. Run `quire build`
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
-2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+2. Run `quire build`
+
+3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-3. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
+4. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
@@ -141,3 +144,9 @@ Fix contributor list oxford commas issue
 
 **_includes/components/navigation.js** 
 Change truncation from 34 characters to 40
+
+## License
+
+© 2026 J. Paul Getty Trust
+
+The text of this work is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>. All images are reproduced with the permission of the rights holders acknowledged in the captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
